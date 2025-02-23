@@ -732,6 +732,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apricot_jam": {
+    "criteria": {
+      "has_apricot": "2025-02-23 23:06:40 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
     "criteria": {
       "has_the_recipe": "2025-02-23 21:50:04 +0000",
@@ -1858,6 +1864,7 @@
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
       "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "bamboo_forest": "2025-02-23 23:05:58 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
       "rainforest": "2025-02-23 21:59:29 +0000"
@@ -2072,6 +2079,7 @@
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
       "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "bamboo_forest": "2025-02-23 23:05:58 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
       "rainforest": "2025-02-23 21:59:29 +0000"
@@ -2165,6 +2173,12 @@
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
       "has_planks": "2025-02-23 21:29:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-02-23 23:07:08 +0000"
     },
     "done": true
   },
@@ -2791,6 +2805,15 @@
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-02-23 23:07:08 +0000",
+      "silicon": "2025-02-23 23:07:26 +0000",
+      "engineering": "2025-02-23 23:07:16 +0000",
+      "logic": "2025-02-23 23:07:09 +0000"
     },
     "done": true
   },
@@ -4167,6 +4190,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 21:36:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apricot_sapling": {
+    "criteria": {
+      "has_apricot": "2025-02-23 23:06:40 +0000"
     },
     "done": true
   },
