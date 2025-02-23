@@ -11,6 +11,72 @@
     },
     "done": true
   },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "archon:root": {
+    "criteria": {
+      "tick": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "things:root": {
+    "criteria": {
+      "tick": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "mythicmobs:mythicmobs": {
+    "criteria": {
+      "tick": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-02-23 06:12:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-02-23 06:12:55 +0000",
@@ -21,18 +87,6 @@
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-02-23 06:12:56 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-02-23 06:12:56 +0000"
     },
     "done": true
   },
@@ -57,12 +111,6 @@
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-02-23 06:12:54 +0000"
     },
     "done": true
   },
@@ -96,18 +144,6 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-02-23 06:12:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:regions_explored": {
-    "criteria": {
-      "redwoods": "2025-02-23 06:12:56 +0000"
-    },
-    "done": false
-  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-02-23 06:12:55 +0000"
@@ -127,12 +163,6 @@
       "has_sodium": "2025-02-23 06:12:55 +0000"
     },
     "done": true
-  },
-  "regions_unexplored:pioneer": {
-    "criteria": {
-      "redwoods": "2025-02-23 06:12:56 +0000"
-    },
-    "done": false
   },
   "advancednetherite:recipes/netherite_emerald_block": {
     "criteria": {
@@ -171,12 +201,6 @@
     },
     "done": true
   },
-  "archon:root": {
-    "criteria": {
-      "tick": "2025-02-23 06:12:54 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-02-23 06:12:55 +0000"
@@ -192,12 +216,6 @@
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:root": {
-    "criteria": {
-      "instant_granted": "2025-02-23 06:12:54 +0000"
     },
     "done": true
   },
@@ -252,18 +270,6 @@
   "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
     "criteria": {
       "has_fur_armor": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:sparse_jungle": "2025-02-23 06:14:39 +0000"
-    },
-    "done": false
-  },
-  "things:root": {
-    "criteria": {
-      "tick": "2025-02-23 06:12:54 +0000"
     },
     "done": true
   },
@@ -339,12 +345,6 @@
     },
     "done": true
   },
-  "mythicmobs:mythicmobs": {
-    "criteria": {
-      "tick": "2025-02-23 06:12:54 +0000"
-    },
-    "done": true
-  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
     "criteria": {
       "has_fur_armor": "2025-02-23 06:12:55 +0000"
@@ -397,12 +397,6 @@
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:root": {
-    "criteria": {
-      "always": "2025-02-23 06:12:54 +0000"
     },
     "done": true
   },
@@ -488,12 +482,6 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-02-23 06:12:54 +0000"
-    },
-    "done": true
-  },
   "ae2wtlib:recipes/wireless_universal_terminal/ae": {
     "criteria": {
       "has_wit": "2025-02-23 06:12:55 +0000",
@@ -504,12 +492,6 @@
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "more_rpg_content:root": {
-    "criteria": {
-      "always": "2025-02-23 06:12:54 +0000"
     },
     "done": true
   },
@@ -524,12 +506,6 @@
       "has_wit": "2025-02-23 06:12:55 +0000",
       "has_wpt": "2025-02-23 06:12:55 +0000",
       "has_wct": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-02-23 06:12:56 +0000"
     },
     "done": true
   },
@@ -559,21 +535,9 @@
     },
     "done": true
   },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-02-23 06:12:54 +0000"
-    },
-    "done": true
-  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-23 06:12:55 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:wiki": {
-    "criteria": {
-      "instant_granted": "2025-02-23 06:12:54 +0000"
     },
     "done": true
   },
@@ -599,6 +563,289 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-23 06:12:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-02-23 06:12:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-02-23 06:12:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "redwoods": "2025-02-23 06:12:56 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "redwoods": "2025-02-23 06:12:56 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-02-23 06:12:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-02-23 06:14:39 +0000"
+    },
+    "done": false
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-02-23 21:00:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-02-23 21:02:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_leggings": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-02-23 21:02:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2025-02-23 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bonebow": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_archer": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-23 21:02:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-02-23 21:02:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-23 21:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "redwood_log": "2025-02-23 21:02:04 +0000"
+    },
+    "done": false
+  },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-02-23 21:02:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_maulers": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-23 21:00:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_plantball": {
+    "criteria": {
+      "has_plantball_material": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-23 21:00:09 +0000",
+      "minecraft:zombie": "2025-02-23 21:00:56 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lexicon": {
+    "criteria": {
+      "has_item": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2025-02-23 21:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-23 21:00:09 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_phantom_bow": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2025-02-23 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-02-23 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:00:11 +0000"
     },
     "done": true
   },
