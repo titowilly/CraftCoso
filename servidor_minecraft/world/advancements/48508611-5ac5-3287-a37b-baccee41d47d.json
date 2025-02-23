@@ -586,6 +586,7 @@
       "rocky_meadow": "2025-02-23 21:55:02 +0000",
       "tropical_river": "2025-02-23 21:28:18 +0000",
       "eucalyptus_forest": "2025-02-23 21:32:12 +0000",
+      "magnolia_highlands": "2025-02-23 22:47:22 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
       "deciduous_forest": "2025-02-23 21:59:28 +0000",
       "chalk_cliffs": "2025-02-23 21:55:42 +0000",
@@ -606,6 +607,7 @@
       "rocky_meadow": "2025-02-23 21:55:02 +0000",
       "tropical_river": "2025-02-23 21:28:18 +0000",
       "eucalyptus_forest": "2025-02-23 21:32:12 +0000",
+      "magnolia_highlands": "2025-02-23 22:47:22 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
       "deciduous_forest": "2025-02-23 21:59:28 +0000",
       "chalk_cliffs": "2025-02-23 21:55:42 +0000",
@@ -629,6 +631,7 @@
       "minecraft:wooded_badlands": "2025-02-23 21:30:09 +0000",
       "minecraft:badlands": "2025-02-23 21:47:09 +0000",
       "minecraft:beach": "2025-02-23 21:28:02 +0000",
+      "minecraft:stony_peaks": "2025-02-23 22:46:07 +0000",
       "minecraft:sparse_jungle": "2025-02-23 06:14:39 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:river": "2025-02-23 21:55:21 +0000",
@@ -1086,6 +1089,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
     "criteria": {
       "has_tag_minecraft_wooden_trapdoors": "2025-02-23 21:40:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-23 22:49:14 +0000"
     },
     "done": true
   },
@@ -2374,6 +2383,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-23 22:52:16 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-23 21:34:56 +0000"
@@ -2509,6 +2524,12 @@
   "stoneworks:recipes/building_blocks/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:20:17 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-02-23 22:48:37 +0000"
     },
     "done": true
   },
@@ -2742,6 +2763,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-02-23 22:49:17 +0000",
+      "potato": "2025-02-23 22:52:44 +0000",
       "bread": "2025-02-23 21:21:42 +0000",
       "rotten_flesh": "2025-02-23 22:37:40 +0000"
     },
@@ -2915,6 +2938,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 22:49:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-02-23 21:38:11 +0000"
@@ -2960,6 +2989,12 @@
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 22:09:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-23 22:49:14 +0000"
     },
     "done": true
   },
@@ -3476,6 +3511,12 @@
   "betternether:recipes/decorations/nether_reed_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 22:51:44 +0000"
     },
     "done": true
   },
@@ -5113,6 +5154,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-02-23 22:53:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2025-02-23 22:07:02 +0000"
@@ -5416,6 +5463,12 @@
   "betterend:recipes/decorations/tenanea_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 22:51:44 +0000"
     },
     "done": true
   },
@@ -5875,6 +5928,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-02-23 22:48:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_axe": {
     "criteria": {
       "has_wooden_axe": "2025-02-23 21:06:03 +0000"
@@ -6022,6 +6081,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-23 22:20:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 22:51:44 +0000"
     },
     "done": true
   },
@@ -6469,6 +6534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-23 22:48:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-02-23 21:05:59 +0000"
@@ -6676,6 +6747,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2025-02-23 21:36:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-02-23 22:48:37 +0000"
     },
     "done": true
   },
@@ -6967,6 +7044,12 @@
     },
     "done": true
   },
+  "archon:obtain_wand": {
+    "criteria": {
+      "wand": "2025-02-23 22:45:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -7033,9 +7116,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-02-23 22:50:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-02-23 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 22:51:44 +0000"
     },
     "done": true
   },
@@ -7201,6 +7296,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 22:51:44 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_light_gray": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -7324,6 +7425,12 @@
   "regions_unexplored:recipes/transportation/mauve_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-02-23 22:48:37 +0000"
     },
     "done": true
   },
@@ -7763,6 +7870,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 22:51:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:20:16 +0000"
@@ -7919,6 +8032,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-02-23 22:48:37 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_green_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 22:09:00 +0000"
@@ -8001,6 +8120,12 @@
   "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
     "criteria": {
       "has_tag_c_raw_lead_ores": "2025-02-23 22:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-23 22:51:44 +0000"
     },
     "done": true
   },
@@ -8187,6 +8312,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-23 21:00:09 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "ghoul": "2025-02-23 22:48:13 +0000"
     },
     "done": true
   },
@@ -9323,6 +9454,12 @@
   "twigs:recipes/calcite/calcite_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-02-23 22:20:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-23 22:49:14 +0000"
     },
     "done": true
   },
