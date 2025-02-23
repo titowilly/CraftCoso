@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-02-23 21:17:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-02-23 21:00:16 +0000",
@@ -348,6 +354,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-02-23 21:17:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
@@ -450,9 +462,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-02-23 21:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-23 21:10:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_feather": "2025-02-23 21:16:49 +0000"
     },
     "done": true
   },
@@ -711,9 +735,16 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "grassy_beach": "2025-02-23 21:01:38 +0000",
+      "outback": "2025-02-23 21:16:43 +0000",
       "redwoods": "2025-02-23 21:00:16 +0000"
     },
     "done": false
+  },
+  "promenade:recipes/smoking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-02-23 21:16:49 +0000"
+    },
+    "done": true
   },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
@@ -748,6 +779,12 @@
   "regions_unexplored:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_redwood_planks": "2025-02-23 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-02-23 21:18:51 +0000"
     },
     "done": true
   },
@@ -840,6 +877,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "grassy_beach": "2025-02-23 21:01:38 +0000",
+      "outback": "2025-02-23 21:16:43 +0000",
       "redwoods": "2025-02-23 21:00:16 +0000"
     },
     "done": false
@@ -1070,6 +1108,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-23 21:16:49 +0000"
     },
     "done": true
   },
@@ -1416,6 +1460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:17:43 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
       "has_fur_armor": "2025-02-23 21:00:16 +0000"
@@ -1470,6 +1520,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-02-23 21:22:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
@@ -1480,6 +1536,12 @@
     "criteria": {
       "has_the_recipe": "2025-02-23 21:04:33 +0000",
       "in_water": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/campfire_cooking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-02-23 21:16:49 +0000"
     },
     "done": true
   },
@@ -1615,6 +1677,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-02-23 21:22:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
@@ -1726,6 +1794,12 @@
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-23 21:22:04 +0000"
     },
     "done": true
   },
@@ -1933,6 +2007,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_feather": "2025-02-23 21:16:49 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-02-23 21:00:16 +0000"
@@ -1942,6 +2022,12 @@
   "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
     "criteria": {
       "has_item": "2025-02-23 21:02:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-02-23 21:17:22 +0000"
     },
     "done": true
   },
@@ -1975,9 +2061,21 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2025-02-23 21:22:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-02-23 21:10:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-02-23 21:16:49 +0000"
     },
     "done": true
   },
@@ -2026,6 +2124,12 @@
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-02-23 21:18:51 +0000"
     },
     "done": true
   },
@@ -2209,6 +2313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-23 21:18:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-02-23 21:06:43 +0000"
@@ -2230,6 +2340,12 @@
   "seasonsextras:recipes/greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-02-23 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-02-23 21:22:04 +0000"
     },
     "done": true
   },
@@ -2332,6 +2448,12 @@
   "vinery:recipes/dark_cherry_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-02-23 21:18:51 +0000"
     },
     "done": true
   },
@@ -2600,6 +2722,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-02-23 21:22:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-02-23 21:06:43 +0000"
@@ -2630,6 +2758,12 @@
     },
     "done": true
   },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-02-23 21:18:51 +0000"
+    },
+    "done": true
+  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-02-23 21:00:15 +0000"
@@ -2657,6 +2791,12 @@
   "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
     "criteria": {
       "has_calcium_carbonate": "2025-02-23 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-02-23 21:21:52 +0000"
     },
     "done": true
   },
@@ -2782,6 +2922,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-02-23 21:22:04 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_shrub": {
     "criteria": {
       "has_redwood_sapling": "2025-02-23 21:04:32 +0000"
@@ -2815,6 +2961,12 @@
   "bewitchment:recipes/transportation/elder_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-02-23 21:18:51 +0000"
     },
     "done": true
   },
@@ -2947,6 +3099,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-02-23 21:17:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
@@ -2974,6 +3132,12 @@
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/soul_sand": {
+    "criteria": {
+      "has_red_sand": "2025-02-23 21:17:43 +0000"
     },
     "done": true
   },
@@ -3184,6 +3348,12 @@
     },
     "done": true
   },
+  "techreborn:root": {
+    "criteria": {
+      "crit_1": "2025-02-23 21:17:22 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
@@ -3199,6 +3369,12 @@
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-02-23 21:16:49 +0000"
     },
     "done": true
   },
@@ -3254,6 +3430,12 @@
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:04:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-02-23 21:22:04 +0000"
     },
     "done": true
   },

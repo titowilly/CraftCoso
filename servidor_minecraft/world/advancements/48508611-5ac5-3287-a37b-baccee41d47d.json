@@ -736,6 +736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/rail": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -850,6 +856,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-02-23 21:05:59 +0000"
@@ -934,6 +946,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -949,6 +967,12 @@
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-02-23 21:05:59 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -970,6 +994,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -979,6 +1009,18 @@
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -1156,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-02-23 21:05:59 +0000"
@@ -1258,6 +1306,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -1329,6 +1383,12 @@
       "has_planks": "2025-02-23 21:05:59 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-23 21:21:42 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/decorations/tenanea_ladder": {
     "criteria": {
@@ -1498,6 +1558,12 @@
     },
     "done": true
   },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2025-02-23 21:21:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -1507,6 +1573,18 @@
   "betterend:recipes/decorations/lucernia_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -1562,6 +1640,12 @@
   "betternether:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -1679,6 +1763,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/dragons_blood_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -1724,6 +1814,18 @@
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-02-23 21:05:59 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/juniper_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -1794,6 +1896,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -1851,6 +1965,12 @@
   "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_redwood_planks": "2025-02-23 21:05:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -2022,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-23 21:21:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2076,6 +2202,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -2124,6 +2256,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2145,6 +2283,12 @@
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -2178,6 +2322,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2199,6 +2349,12 @@
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -2346,6 +2502,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-02-23 21:12:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2424,6 +2586,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2484,6 +2652,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/gauntlets/gauntlet_maulers": {
     "criteria": {
       "has_bone": "2025-02-23 21:00:11 +0000"
@@ -2535,6 +2709,12 @@
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -2682,6 +2862,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2730,15 +2922,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-23 21:21:53 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/elder_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -2818,6 +3028,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_lime": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -2917,6 +3133,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-02-23 21:05:59 +0000"
@@ -2944,6 +3166,18 @@
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/palm/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-02-23 21:21:53 +0000"
     },
     "done": true
   },
@@ -3004,6 +3238,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
@@ -3079,6 +3319,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/sakura/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_black": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -3097,6 +3343,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-23 21:21:42 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -3106,6 +3358,12 @@
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:22:03 +0000"
     },
     "done": true
   },
