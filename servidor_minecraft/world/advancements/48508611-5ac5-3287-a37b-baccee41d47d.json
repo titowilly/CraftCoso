@@ -580,14 +580,19 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-02-23 21:56:41 +0000",
       "rocky_reef": "2025-02-23 21:23:20 +0000",
       "grassy_beach": "2025-02-23 21:03:31 +0000",
+      "rocky_meadow": "2025-02-23 21:55:02 +0000",
       "tropical_river": "2025-02-23 21:28:18 +0000",
       "eucalyptus_forest": "2025-02-23 21:32:12 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "deciduous_forest": "2025-02-23 21:59:28 +0000",
+      "chalk_cliffs": "2025-02-23 21:55:42 +0000",
       "bamboo_forest": "2025-02-23 21:52:11 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "grassland": "2025-02-23 21:48:07 +0000",
+      "prairie": "2025-02-23 21:59:10 +0000",
       "redwoods": "2025-02-23 06:12:56 +0000",
       "rainforest": "2025-02-23 21:31:54 +0000"
     },
@@ -595,14 +600,19 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-02-23 21:56:41 +0000",
       "rocky_reef": "2025-02-23 21:23:20 +0000",
       "grassy_beach": "2025-02-23 21:03:31 +0000",
+      "rocky_meadow": "2025-02-23 21:55:02 +0000",
       "tropical_river": "2025-02-23 21:28:18 +0000",
       "eucalyptus_forest": "2025-02-23 21:32:12 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
+      "deciduous_forest": "2025-02-23 21:59:28 +0000",
+      "chalk_cliffs": "2025-02-23 21:55:42 +0000",
       "bamboo_forest": "2025-02-23 21:52:11 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "grassland": "2025-02-23 21:48:07 +0000",
+      "prairie": "2025-02-23 21:59:10 +0000",
       "redwoods": "2025-02-23 06:12:56 +0000",
       "rainforest": "2025-02-23 21:31:54 +0000"
     },
@@ -621,7 +631,10 @@
       "minecraft:beach": "2025-02-23 21:28:02 +0000",
       "minecraft:sparse_jungle": "2025-02-23 06:14:39 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
-      "minecraft:desert": "2025-02-23 21:26:10 +0000"
+      "minecraft:river": "2025-02-23 21:55:21 +0000",
+      "minecraft:stony_shore": "2025-02-23 21:58:28 +0000",
+      "minecraft:desert": "2025-02-23 21:26:10 +0000",
+      "minecraft:savanna": "2025-02-23 21:57:19 +0000"
     },
     "done": false
   },
@@ -658,6 +671,12 @@
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
     },
     "done": true
   },
@@ -1106,6 +1125,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2025-02-23 21:24:04 +0000"
@@ -1139,6 +1164,18 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 21:48:05 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-02-23 21:53:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_chestplate": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
     },
     "done": true
   },
@@ -1538,6 +1575,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-02-23 22:00:30 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:05:59 +0000"
@@ -1619,6 +1662,12 @@
   "mcda:recipes/crafting_items/fabric_bolt_magenta": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
     },
     "done": true
   },
@@ -1712,6 +1761,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_sword": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_sign": {
     "criteria": {
       "has_redwood_planks": "2025-02-23 21:05:59 +0000"
@@ -1775,6 +1830,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-23 21:03:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
     },
     "done": true
   },
@@ -2072,6 +2133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
       "has_planks": "2025-02-23 21:05:59 +0000"
@@ -2123,6 +2190,12 @@
   "handcrafted:recipes/misc/jungle_counter": {
     "criteria": {
       "has_jungle_counter": "2025-02-23 21:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecells:prison": {
+    "criteria": {
+      "requirement": "2025-02-23 22:01:13 +0000"
     },
     "done": true
   },
@@ -2210,6 +2283,12 @@
     },
     "done": true
   },
+  "minecells:root": {
+    "criteria": {
+      "requirement": "2025-02-23 22:01:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
     "criteria": {
       "has_diamond": "2025-02-23 21:37:56 +0000"
@@ -2234,6 +2313,12 @@
     },
     "done": true
   },
+  "minecells:book/book": {
+    "criteria": {
+      "requirement": "2025-02-23 22:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-23 21:06:25 +0000"
@@ -2243,6 +2328,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-23 21:06:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
     },
     "done": true
   },
@@ -2366,6 +2457,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2399,6 +2496,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:05:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2025-02-23 21:54:50 +0000"
     },
     "done": true
   },
@@ -2667,6 +2770,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_lead": {
+    "criteria": {
+      "has_raw_lead_ores": "2025-02-23 22:04:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2889,9 +2998,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_axe": {
     "criteria": {
       "has_wooden_axe": "2025-02-23 21:06:03 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
     },
     "done": true
   },
@@ -2916,6 +3037,12 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2025-02-23 21:32:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-02-23 21:57:34 +0000"
     },
     "done": true
   },
@@ -3045,6 +3172,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_spade": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-23 21:34:56 +0000"
@@ -3150,6 +3283,12 @@
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_obsidian": "2025-02-23 21:38:16 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
     },
     "done": true
   },
@@ -3526,6 +3665,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-02-23 21:34:56 +0000"
@@ -3547,6 +3698,12 @@
   "techreborn:recipes/extractor/paper_from_book": {
     "criteria": {
       "has_book": "2025-02-23 21:34:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
     },
     "done": true
   },
@@ -3706,6 +3863,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-23 21:55:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-23 21:46:49 +0000"
@@ -3715,6 +3878,12 @@
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-23 21:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
     },
     "done": true
   },
@@ -4054,6 +4223,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-23 21:46:49 +0000"
@@ -4168,6 +4343,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-02-23 21:39:30 +0000"
@@ -4201,6 +4382,12 @@
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
     },
     "done": true
   },
@@ -4456,6 +4643,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/ruby_dust": {
+    "criteria": {
+      "has_tag_c_rubies": "2025-02-23 21:58:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -4609,6 +4802,12 @@
   "mcdw:recipes/hammers/hammer_boneclub": {
     "criteria": {
       "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_hoe": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
     },
     "done": true
   },
@@ -4876,6 +5075,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-02-23 22:04:27 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-02-23 21:34:57 +0000"
@@ -4885,6 +5090,12 @@
   "mcda:recipes/base_armors/piglin_armor_boots": {
     "criteria": {
       "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-02-23 21:53:15 +0000"
     },
     "done": true
   },
@@ -5008,9 +5219,21 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-23 21:55:16 +0000"
+    },
+    "done": false
+  },
   "ae2:recipes/misc/network/cables/glass_white": {
     "criteria": {
       "has_dyes/black": "2025-02-23 21:48:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
     },
     "done": true
   },
@@ -5113,6 +5336,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-23 21:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
     },
     "done": true
   },
@@ -5257,6 +5486,12 @@
   "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2025-02-23 21:54:29 +0000"
     },
     "done": true
   },
@@ -5601,6 +5836,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-02-23 21:53:30 +0000",
       "opened_chest": "2025-02-23 21:26:35 +0000"
     },
     "done": false
@@ -5644,6 +5880,12 @@
   "betternether:recipes/decorations/acacia_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
+    "criteria": {
+      "has_tag_c_raw_lead_ores": "2025-02-23 22:04:27 +0000"
     },
     "done": true
   },
@@ -5734,6 +5976,12 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-02-23 21:34:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
     },
     "done": true
   },
@@ -5848,6 +6096,12 @@
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
+    "criteria": {
+      "has_ruby_gem": "2025-02-23 21:58:45 +0000"
     },
     "done": true
   },
@@ -6010,6 +6264,19 @@
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:root": {
+    "criteria": {
+      "crit_2": "2025-02-23 21:57:34 +0000",
+      "crit_1": "2025-02-23 22:04:27 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
     },
     "done": true
   },
@@ -6331,6 +6598,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
+    "criteria": {
+      "has_raw_lead": "2025-02-23 22:04:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -6472,6 +6745,12 @@
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-23 21:57:34 +0000"
     },
     "done": true
   },
