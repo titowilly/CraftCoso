@@ -3137,3 +3137,26 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	... 29 more
 [22:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [22:34:13] [Server thread/INFO]: INTENCITIES has made the advancement [Dust, Sand and Bones]
+[22:36:46] [Server thread/INFO]: Setback fell from a high place
+[22:36:49] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[22:37:24] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 26, -41, -405, minecraft:overworld
+[22:40:04] [Server thread/INFO]: Setback has made the advancement [Diamonds!]
+[22:40:29] [Server thread/INFO]: fandangolol has made the advancement [Close Quarters]
+[22:40:43] [Server thread/INFO]: TitoWilly was shot by Mutant Skeleton
+[22:40:45] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[22:40:49] [Server thread/INFO]: Brick_123 was shot by Mutant Skeleton
+[22:40:52] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[22:41:28] [Server thread/INFO]: TitoWilly was shot by Mutant Skeleton
+[22:41:28] [Server thread/INFO]: Did not backup data (grave data empty)
+[22:41:29] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[22:41:30] [Server thread/INFO]: fandangolol has made the advancement [From the Tree Tops]
+[22:41:58] [Server thread/INFO]: Setback has made the advancement [Chest Slayer]
+[22:41:59] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at 20, -38, -439, minecraft:overworld
+[22:42:00] [Server thread/INFO]: Setback has made the advancement [Amateur Archaeologist]
+[22:42:07] [Server thread/INFO]: Setback has made the advancement [Barrel Booty]
+[22:42:21] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at 49, -34, -459, minecraft:overworld
+[22:42:22] [Server thread/INFO]: Setback has made the advancement [Full Moon in a Pocket]
+[22:42:39] [Server thread/INFO]: TitoWilly has made the advancement [Full Moon in a Pocket]
+[22:45:26] [Server thread/INFO]: TitoWilly has made the advancement [Let's Get Casting]
+[22:45:48] [Server thread/INFO]: Brick_123 has made the advancement [Full Moon in a Pocket]
+[22:46:06] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to fandangolol]

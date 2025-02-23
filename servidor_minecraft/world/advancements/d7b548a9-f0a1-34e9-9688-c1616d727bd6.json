@@ -1802,6 +1802,7 @@
       "grassy_beach": "2025-02-23 21:20:10 +0000",
       "tropical_river": "2025-02-23 21:37:25 +0000",
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
+      "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
@@ -2003,6 +2004,7 @@
       "grassy_beach": "2025-02-23 21:20:10 +0000",
       "tropical_river": "2025-02-23 21:37:25 +0000",
       "eucalyptus_forest": "2025-02-23 21:37:58 +0000",
+      "magnolia_highlands": "2025-02-23 22:43:17 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
       "redwoods": "2025-02-23 21:11:51 +0000",
@@ -2955,6 +2957,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-02-23 22:40:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-23 21:50:04 +0000"
@@ -3880,6 +3888,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-02-23 22:38:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2025-02-23 21:50:55 +0000"
@@ -4249,6 +4263,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-02-23 21:30:22 +0000",
+      "minecraft:stony_peaks": "2025-02-23 22:43:35 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:desert": "2025-02-23 21:26:37 +0000"
     },
@@ -5772,6 +5787,12 @@
     },
     "done": true
   },
+  "regions_unexplored:from_the_tree_tops": {
+    "criteria": {
+      "kapok_vines": "2025-02-23 22:41:30 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-02-23 21:11:51 +0000"
@@ -7063,6 +7084,7 @@
     "criteria": {
       "minecraft:spider": "2025-02-23 22:27:38 +0000",
       "minecraft:husk": "2025-02-23 21:24:16 +0000",
+      "minecraft:cave_spider": "2025-02-23 22:39:12 +0000",
       "minecraft:zombie": "2025-02-23 21:24:59 +0000"
     },
     "done": false

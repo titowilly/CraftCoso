@@ -634,6 +634,7 @@
       "minecraft:river": "2025-02-23 21:55:21 +0000",
       "minecraft:stony_shore": "2025-02-23 21:58:28 +0000",
       "minecraft:desert": "2025-02-23 21:26:10 +0000",
+      "minecraft:warm_ocean": "2025-02-23 22:42:19 +0000",
       "minecraft:savanna": "2025-02-23 21:57:19 +0000"
     },
     "done": false
@@ -1154,6 +1155,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:20:17 +0000"
@@ -1377,6 +1384,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-02-23 21:05:59 +0000"
@@ -1398,6 +1411,18 @@
   "twigs:recipes/calcite/polished_calcite_stonecutting": {
     "criteria": {
       "has_item": "2025-02-23 22:20:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_left": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:39 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
     },
     "done": true
   },
@@ -1947,6 +1972,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_table": {
     "criteria": {
       "has_jungle_table": "2025-02-23 21:32:32 +0000"
@@ -2280,6 +2311,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 22:09:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-23 22:34:42 +0000"
     },
     "done": true
   },
@@ -2705,7 +2742,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-23 21:21:42 +0000"
+      "bread": "2025-02-23 21:21:42 +0000",
+      "rotten_flesh": "2025-02-23 22:37:40 +0000"
     },
     "done": false
   },
@@ -3048,6 +3086,12 @@
   "betternether:recipes/decorations/bamboo_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-23 22:34:42 +0000"
     },
     "done": true
   },
@@ -3420,6 +3464,12 @@
   "alloy_forgery:recipes/alloy_forgery/gold_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 21:38:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-23 22:34:42 +0000"
     },
     "done": true
   },
@@ -3904,6 +3954,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-23 22:34:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/sapphire_dust": {
     "criteria": {
       "has_tag_c_sapphires": "2025-02-23 21:57:34 +0000"
@@ -4114,6 +4170,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:39 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -4183,6 +4245,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-23 22:20:58 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:39 +0000"
     },
     "done": true
   },
@@ -5753,9 +5821,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:39 +0000"
     },
     "done": true
   },
@@ -5810,6 +5890,12 @@
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-23 21:34:56 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
     },
     "done": true
   },
@@ -7427,6 +7513,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/fallen_icon_disc": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:39 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:20:17 +0000"
@@ -7454,6 +7546,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 22:09:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-23 22:34:42 +0000"
     },
     "done": true
   },
@@ -8038,6 +8136,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_ladder": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -8269,6 +8373,12 @@
   "promenade:recipes/crafting/palm/chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:39 +0000"
     },
     "done": true
   },
@@ -8634,6 +8744,12 @@
     },
     "done": true
   },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "moonstone": "2025-02-23 22:42:39 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/jungle_beam": {
     "criteria": {
       "has_stripped_log": "2025-02-23 21:32:31 +0000"
@@ -8949,6 +9065,12 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-02-23 21:38:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-23 22:42:40 +0000"
     },
     "done": true
   },

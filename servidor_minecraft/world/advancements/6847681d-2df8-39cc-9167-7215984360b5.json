@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/bucket_from_water_bucket": {
+    "criteria": {
+      "has_water_bucket": "2025-02-23 22:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-02-23 21:49:56 +0000"
@@ -1787,6 +1793,7 @@
     "criteria": {
       "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 20:59:56 +0000",
+      "tropical_river": "2025-02-23 22:35:22 +0000",
       "eucalyptus_forest": "2025-02-23 21:38:28 +0000",
       "outback": "2025-02-23 21:23:13 +0000",
       "saguaro_desert": "2025-02-23 21:23:39 +0000",
@@ -1998,6 +2005,7 @@
     "criteria": {
       "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 20:59:56 +0000",
+      "tropical_river": "2025-02-23 22:35:22 +0000",
       "eucalyptus_forest": "2025-02-23 21:38:28 +0000",
       "outback": "2025-02-23 21:23:13 +0000",
       "saguaro_desert": "2025-02-23 21:23:39 +0000",
@@ -2640,6 +2648,12 @@
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-02-23 21:55:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_oceanic": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-23 22:39:31 +0000"
     },
     "done": true
   },
@@ -5702,6 +5716,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-23 22:39:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-23 21:30:11 +0000"
@@ -6405,6 +6425,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-23 22:39:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-23 22:06:58 +0000"
@@ -6967,6 +6993,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 21:35:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-02-23 22:39:31 +0000"
     },
     "done": true
   },
@@ -7690,6 +7722,12 @@
   "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-23 22:39:31 +0000"
     },
     "done": true
   },
@@ -8569,6 +8607,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-02-23 22:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-02-23 21:05:01 +0000"
@@ -8836,6 +8880,12 @@
   "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
     "criteria": {
       "has_melon_slice": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-02-23 22:39:31 +0000"
     },
     "done": true
   },

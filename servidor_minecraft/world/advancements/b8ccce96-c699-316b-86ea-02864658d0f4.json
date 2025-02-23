@@ -883,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 22:43:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-23 21:52:51 +0000"
@@ -1591,6 +1597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 22:43:06 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
     "criteria": {
       "has_ruby_gem": "2025-02-23 22:05:01 +0000"
@@ -1732,6 +1744,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 21:44:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 22:43:06 +0000"
     },
     "done": true
   },
@@ -2496,6 +2514,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 22:43:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-02-23 21:19:51 +0000"
@@ -3181,6 +3205,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 22:43:06 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 22:43:06 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
     "criteria": {
       "has_iron_sword": "2025-02-23 21:56:16 +0000"
@@ -3202,6 +3238,12 @@
   "smallships:recipes/transportation/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-02-23 21:21:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-02-23 22:41:17 +0000"
     },
     "done": true
   },
@@ -3373,6 +3415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-23 22:41:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
     "criteria": {
       "has_tin_ingot": "2025-02-23 21:33:23 +0000"
@@ -3538,6 +3586,12 @@
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 22:43:09 +0000"
     },
     "done": true
   },
@@ -3797,6 +3851,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-02-23 21:55:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 22:43:06 +0000"
     },
     "done": true
   },
@@ -4212,7 +4272,8 @@
     "criteria": {
       "minecraft:beach": "2025-02-23 21:27:38 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:42 +0000",
-      "minecraft:desert": "2025-02-23 21:26:06 +0000"
+      "minecraft:desert": "2025-02-23 21:26:06 +0000",
+      "minecraft:warm_ocean": "2025-02-23 22:35:29 +0000"
     },
     "done": false
   },
@@ -4261,6 +4322,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:21:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 22:43:09 +0000"
     },
     "done": true
   },
@@ -4819,6 +4886,12 @@
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2025-02-23 21:40:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-23 22:41:17 +0000"
     },
     "done": true
   },
@@ -6906,6 +6979,12 @@
     },
     "done": true
   },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-02-23 22:41:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-02-23 21:05:39 +0000"
@@ -8005,6 +8084,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-02-23 22:43:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:29 +0000"
@@ -8324,6 +8409,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-02-23 22:41:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-23 21:04:19 +0000"
@@ -8513,6 +8604,12 @@
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_stone_pressure_plate": "2025-02-23 21:32:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-23 22:43:06 +0000"
     },
     "done": true
   },
