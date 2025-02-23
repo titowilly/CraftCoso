@@ -65,9 +65,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-23 21:28:45 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_masters_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -83,9 +95,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -125,6 +149,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/calcium_carbonate": {
     "criteria": {
       "has_carbon": "2025-02-23 20:58:34 +0000",
@@ -135,6 +165,12 @@
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_shingles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -153,6 +189,18 @@
   "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-02-23 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -210,6 +258,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -240,9 +294,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
     },
     "done": true
   },
@@ -288,9 +354,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_highland": {
+    "criteria": {
+      "has_base": "2025-02-23 21:29:07 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-02-23 21:24:04 +0000"
     },
     "done": true
   },
@@ -300,9 +378,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_mechanical_shortbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-02-23 21:28:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/season_calendar": {
     "criteria": {
       "has_clock": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -366,6 +468,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_lost_souls": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_leggings": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:03:35 +0000"
@@ -396,9 +510,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_nocturnal_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -408,9 +534,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_purple_storm": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-02-23 21:03:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -426,9 +564,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_void_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-02-23 21:03:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -438,15 +594,51 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-02-23 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slicer": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -480,6 +672,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_pink_scoundrel": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
@@ -498,6 +696,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-02-23 21:26:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_smooth_sandstone": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-23 21:28:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -507,6 +729,12 @@
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2025-02-23 21:03:25 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_trickbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -558,6 +786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
@@ -579,6 +813,12 @@
   "regions_unexplored:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_redwood_planks": "2025-02-23 21:03:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-23 21:26:21 +0000"
     },
     "done": true
   },
@@ -612,6 +852,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_bonebow": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:03:35 +0000"
@@ -624,9 +870,39 @@
     },
     "done": true
   },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2025-02-23 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_plate_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_azure_seeker": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-23 21:26:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-02-23 21:23:09 +0000"
     },
     "done": true
   },
@@ -642,6 +918,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2025-02-23 21:03:35 +0000"
@@ -651,6 +933,12 @@
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_winters_touch": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -678,9 +966,24 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-23 21:26:21 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 20:59:56 +0000",
+      "outback": "2025-02-23 21:23:13 +0000",
+      "saguaro_desert": "2025-02-23 21:23:39 +0000",
       "redwoods": "2025-02-23 20:58:35 +0000"
     },
     "done": false
@@ -739,9 +1042,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_dual": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -789,6 +1110,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_plate_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -803,7 +1130,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "rocky_reef": "2025-02-23 21:23:11 +0000",
       "grassy_beach": "2025-02-23 20:59:56 +0000",
+      "outback": "2025-02-23 21:23:13 +0000",
+      "saguaro_desert": "2025-02-23 21:23:39 +0000",
       "redwoods": "2025-02-23 20:58:35 +0000"
     },
     "done": false
@@ -851,9 +1181,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-23 21:23:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
       "has_oil": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_rapid": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -869,6 +1217,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tile_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_ladder": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -881,6 +1235,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -890,6 +1256,12 @@
   "betternether:recipes/decorations/mushroom_fir_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_green_menace": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -906,9 +1278,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-23 21:23:09 +0000"
     },
     "done": true
   },
@@ -936,6 +1332,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -957,6 +1359,12 @@
   "techreborn:recipes/centrifuge/sulfur_cell": {
     "criteria": {
       "has_sulfur": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
     },
     "done": true
   },
@@ -1002,6 +1410,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bomb": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_brigg": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
@@ -1014,6 +1428,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_scatter": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/grape_jam": {
     "criteria": {
       "has_grape": "2025-02-23 21:09:32 +0000"
@@ -1023,6 +1443,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:03:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -1041,6 +1467,12 @@
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-23 21:26:21 +0000"
     },
     "done": true
   },
@@ -1068,6 +1500,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_burst": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/banana_nut_bread": {
     "criteria": {
       "has_banana": "2025-02-23 21:09:07 +0000"
@@ -1086,9 +1524,21 @@
     },
     "done": true
   },
+  "beachparty:palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -1110,6 +1560,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_exploding": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
@@ -1125,6 +1581,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_pickaxe": {
     "criteria": {
       "has_wooden_pickaxe": "2025-02-23 21:04:24 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_feral_soul": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },
@@ -1153,6 +1615,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_haunted_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-02-23 20:58:34 +0000"
@@ -1162,6 +1630,12 @@
   "betternether:recipes/decorations/jungle_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -1180,6 +1654,12 @@
   "techreborn:recipes/centrifuge/helium_cell": {
     "criteria": {
       "has_helium": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -1213,9 +1693,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-02-23 21:03:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_harp": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_call_of_the_void": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1231,9 +1729,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_heavy": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_base": "2025-02-23 21:29:07 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-02-23 21:23:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-02-23 21:30:11 +0000"
     },
     "done": true
   },
@@ -1243,9 +1765,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_doom_crossbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1279,6 +1819,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tile_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-02-23 21:11:15 +0000"
@@ -1291,9 +1843,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_tiles_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-23 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_auto": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/juniper_chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-23 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/socotra_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
     },
     "done": true
   },
@@ -1306,6 +1888,12 @@
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "beachparty:bikini": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1327,9 +1915,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-02-23 21:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
     },
     "done": true
   },
@@ -1357,9 +1957,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/juniper_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
       "has_fur_armor": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -1390,6 +2020,18 @@
   "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1436,6 +2078,24 @@
     },
     "done": true
   },
+  "mcdw:recipes/longbows/bow_guardian_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
@@ -1445,6 +2105,12 @@
   "betterend:recipes/misc/iron_hammer": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_chestplate": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },
@@ -1478,6 +2144,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_plates_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunting_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2025-02-23 21:04:03 +0000"
@@ -1487,6 +2165,12 @@
   "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_redwood_planks": "2025-02-23 21:03:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -1514,9 +2198,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_sandstone_brick_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-23 21:26:21 +0000"
     },
     "done": true
   },
@@ -1574,6 +2270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-23 21:28:45 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
     "criteria": {
       "has_fur_armor": "2025-02-23 20:58:34 +0000"
@@ -1583,6 +2285,12 @@
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2025-02-23 21:08:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },
@@ -1628,6 +2336,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
     "criteria": {
       "has_fur_armor": "2025-02-23 20:58:34 +0000"
@@ -1636,9 +2356,18 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sparse_jungle": "2025-02-23 21:08:20 +0000"
+      "minecraft:wooded_badlands": "2025-02-23 21:29:44 +0000",
+      "minecraft:sparse_jungle": "2025-02-23 21:08:20 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-23 21:22:16 +0000",
+      "minecraft:desert": "2025-02-23 21:26:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/pulley": {
     "criteria": {
@@ -1658,6 +2387,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -1670,6 +2411,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/paper": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 21:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-23 21:04:29 +0000"
@@ -1679,6 +2426,18 @@
   "regions_unexplored:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1730,6 +2489,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/howl_pottery_sherd": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_ladder": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -1742,9 +2507,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_iron_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_slayer": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1784,9 +2561,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-23 21:26:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -1832,9 +2621,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/scythes/scythe_skull_scythe": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1856,9 +2663,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-23 21:28:45 +0000"
     },
     "done": true
   },
@@ -1874,9 +2693,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_shingle_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 21:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-23 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -1898,6 +2753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -1907,6 +2768,18 @@
   "croptopia:recipes/misc/fig_sapling": {
     "criteria": {
       "has_fig": "2025-02-23 21:08:32 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_sandstone_bricks_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -1928,6 +2801,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shortbows/bow_shortbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -1937,6 +2828,18 @@
   "frostiful:recipes/combat/armor/armored_ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
     },
     "done": true
   },
@@ -1958,6 +2861,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-23 21:11:15 +0000"
@@ -1973,6 +2888,12 @@
   "naturescompass:natures_compass_sapling": {
     "criteria": {
       "has_sapling": "2025-02-23 21:00:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_echo_of_the_valley": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -2006,6 +2927,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_web_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/deuterium_cell": {
     "criteria": {
       "has_deuterium": "2025-02-23 20:58:34 +0000"
@@ -2024,15 +2957,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_plate_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_power_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_burst_gale_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -2066,9 +3029,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_butterfly": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
     },
     "done": true
   },
@@ -2084,6 +3059,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_emerald_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 20:58:34 +0000"
@@ -2096,9 +3077,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/longbows/bow_longbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_paver_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -2111,6 +3116,12 @@
   "techreborn:recipes/crafting_table/tool/treetap": {
     "criteria": {
       "has_planks": "2025-02-23 21:03:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_boneclub": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },
@@ -2141,6 +3152,12 @@
   "betterend:recipes/decorations/tenanea_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_cut_sandstone": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-23 21:26:54 +0000"
     },
     "done": true
   },
@@ -2186,6 +3203,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -2222,6 +3245,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -2234,6 +3263,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
@@ -2243,6 +3278,24 @@
   "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
     "criteria": {
       "has_fur_armor": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-23 21:26:21 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_maulers": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },
@@ -2288,9 +3341,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-02-23 21:28:45 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },
@@ -2312,6 +3377,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/whips/whip_whip": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -2324,15 +3395,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_soul": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_ingots": {
     "criteria": {
       "has_ingredients": "2025-02-23 20:58:34 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/seasonal_compendium": {
     "criteria": {
       "has_sapling": "2025-02-23 21:00:28 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -2373,9 +3462,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
     },
     "done": true
   },
@@ -2391,9 +3492,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-23 21:23:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_red": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_imploding": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -2427,6 +3540,12 @@
     },
     "done": true
   },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -2451,6 +3570,12 @@
     },
     "done": true
   },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_taburet": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -2460,6 +3585,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_meat": {
+    "criteria": {
+      "has_raw_meat": "2025-02-23 21:23:09 +0000"
     },
     "done": true
   },
@@ -2493,15 +3624,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/mauve_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-02-23 21:11:15 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_pillar_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "rpg_series:root": {
     "criteria": {
       "always": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -2571,6 +3726,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_twin_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrofuel": {
     "criteria": {
       "has_oil": "2025-02-23 20:58:34 +0000",
@@ -2584,9 +3745,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/green_dye_from_barrel_cactus": {
+    "criteria": {
+      "has_barrel_cactus": "2025-02-23 21:25:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-02-23 21:04:01 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-02-23 21:23:09 +0000"
     },
     "done": true
   },
@@ -2596,9 +3775,27 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/elder_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_wind_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -2617,6 +3814,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-23 21:20:55 +0000",
+      "minecraft:husk": "2025-02-23 21:24:19 +0000",
       "minecraft:zombie": "2025-02-23 21:03:00 +0000"
     },
     "done": false
@@ -2640,6 +3838,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_tile_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_door": {
     "criteria": {
       "has_redwood_planks": "2025-02-23 21:03:34 +0000"
@@ -2649,6 +3859,24 @@
   "seasonsextras:recipes/season_detector": {
     "criteria": {
       "has_detector": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_bubble_burster": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -2676,6 +3904,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_firebrand": {
+    "criteria": {
+      "has_base": "2025-02-23 21:29:07 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_fence": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -2685,6 +3919,12 @@
   "bewitchment:recipes/transportation/elder_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -2699,6 +3939,13 @@
       "has_iron": "2025-02-23 20:58:34 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-02-23 21:28:52 +0000",
+      "opened_chest": "2025-02-23 21:29:04 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/centrifuge/lava_cell": {
     "criteria": {
@@ -2718,15 +3965,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 20:58:34 +0000"
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_pink": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-02-23 21:28:42 +0000"
     },
     "done": true
   },
@@ -2823,6 +4088,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/sandstone_brick_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-23 20:58:34 +0000"
@@ -2859,9 +4136,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-23 21:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -2901,6 +4196,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/palm/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-02-23 20:58:34 +0000"
@@ -2930,6 +4237,12 @@
   "seasonsextras:recipes/air_conditioning": {
     "criteria": {
       "has_furnace": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_phantom_bow": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },
@@ -2981,6 +4294,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 21:23:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/fabric_bolt_orange": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -2999,9 +4318,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
     },
     "done": true
   },
@@ -3018,9 +4349,39 @@
     },
     "done": true
   },
+  "techreborn:root": {
+    "criteria": {
+      "crit_0": "2025-02-23 21:27:09 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/whips/whip_vine_whip": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -3091,15 +4452,45 @@
     },
     "done": true
   },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-02-23 21:29:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
     },
     "done": true
   },
+  "promenade:recipes/crafting/sakura/chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_soul_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -3115,15 +4506,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-02-23 21:26:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_the_recipe": "2025-02-23 20:58:34 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/shortbows/bow_love_spell_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/combat/tag_shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-02-23 21:03:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_elite_power_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -3139,9 +4554,33 @@
     },
     "done": true
   },
+  "mcdw:recipes/crossbows/crossbow_voidcaller_crossbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-23 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-02-23 21:23:49 +0000"
     },
     "done": true
   },
@@ -3175,9 +4614,57 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-02-23 21:27:09 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/mauve_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:12:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_boots": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_brick_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/sandstone_pavers_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-23 21:26:50 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/bone_rib_cage": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/longbows/bow_red_snake": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
     },
     "done": true
   },
@@ -3208,6 +4695,12 @@
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-02-23 20:58:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone_slab": "2025-02-23 21:28:44 +0000"
     },
     "done": true
   },
@@ -3247,6 +4740,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_snow_bow": {
+    "criteria": {
+      "has_string": "2025-02-23 21:29:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
@@ -3256,6 +4755,18 @@
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-02-23 21:28:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/piglin_armor_helmet": {
+    "criteria": {
+      "has_bone": "2025-02-23 21:29:10 +0000"
     },
     "done": true
   },

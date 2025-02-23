@@ -2641,3 +2641,34 @@ BCLib - The End  BiomeSource (1000ba4f)
 [21:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4247ms or 84 ticks behind
 [21:24:52] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
 [21:24:52] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21:26:31] [Server thread/INFO]: Setback has made the advancement ['X' Marks the Spot]
+[21:26:31] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[21:26:35] [Server thread/INFO]: TitoWilly has made the advancement ['X' Marks the Spot]
+[21:26:36] [Server thread/INFO]: Brick_123 has made the advancement ['X' Marks the Spot]
+[21:26:37] [Server thread/INFO]: Brick_123 has made the advancement [Diamonds!]
+[21:26:37] [Server thread/INFO]: Brick_123 has made the advancement [Amateur Archaeologist]
+[21:26:39] [Server thread/INFO]: Setback blew up
+[21:26:39] [Server thread/INFO]: TitoWilly blew up
+[21:26:41] [Server thread/INFO]: Brick_123 was doomed to fall
+[21:26:42] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[21:26:46] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[21:26:46] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[21:27:22] [Server thread/INFO]: fandangolol has made the advancement ['X' Marks the Spot]
+[21:28:20] [Server thread/INFO]: fandangolol has made the advancement [Barrel Booty]
+[21:28:32] [Server thread/INFO]: fandangolol has made the advancement [Acquire Hardware]
+[21:28:35] [Server thread/INFO]: TitoWilly has made the advancement [Crops of the Wild]
+[21:28:45] [Server thread/INFO]: Brick_123 claimed a grave belonging to Brick_123 at 116, 33, -502, minecraft:overworld
+[21:28:47] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 117, 41, -503, minecraft:overworld
+[21:28:52] [Server thread/INFO]: INTENCITIES has made the advancement [Barrel Booty]
+[21:29:03] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at 117, 38, -501, minecraft:overworld
+[21:29:04] [Server thread/INFO]: INTENCITIES has made the advancement ['X' Marks the Spot]
+[21:29:23] [Server thread/INFO]: INTENCITIES has made the advancement [Heart of the Machine]
+[21:30:53] [Server thread/INFO]: Setback has made the advancement [Acquire Hardware]
+[21:31:03] [Server thread/INFO]: Setback has made the advancement [Suit Up]
+[21:31:06] [Server thread/INFO]: fandangolol has completed the challenge [Budding Grapes]
+[21:31:50] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[21:31:50] [Server thread/INFO]: fandangolol has made the advancement [Dust, Sand and Bones]
+[21:35:12] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_tudor]] from pos class_2338{x=421, y=97, z=-907}
+[21:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[21:35:18] [Server thread/INFO]: INTENCITIES has made the advancement [Disme A Dozen]
+[21:35:48] [Server thread/INFO]: INTENCITIES has made the advancement [Isn't It Iron Pick]

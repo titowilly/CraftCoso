@@ -580,15 +580,27 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "rocky_reef": "2025-02-23 21:23:20 +0000",
       "grassy_beach": "2025-02-23 21:03:31 +0000",
-      "redwoods": "2025-02-23 06:12:56 +0000"
+      "tropical_river": "2025-02-23 21:28:18 +0000",
+      "eucalyptus_forest": "2025-02-23 21:32:12 +0000",
+      "outback": "2025-02-23 21:23:16 +0000",
+      "saguaro_desert": "2025-02-23 21:23:38 +0000",
+      "redwoods": "2025-02-23 06:12:56 +0000",
+      "rainforest": "2025-02-23 21:31:54 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "rocky_reef": "2025-02-23 21:23:20 +0000",
       "grassy_beach": "2025-02-23 21:03:31 +0000",
-      "redwoods": "2025-02-23 06:12:56 +0000"
+      "tropical_river": "2025-02-23 21:28:18 +0000",
+      "eucalyptus_forest": "2025-02-23 21:32:12 +0000",
+      "outback": "2025-02-23 21:23:16 +0000",
+      "saguaro_desert": "2025-02-23 21:23:38 +0000",
+      "redwoods": "2025-02-23 06:12:56 +0000",
+      "rainforest": "2025-02-23 21:31:54 +0000"
     },
     "done": false
   },
@@ -600,7 +612,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:sparse_jungle": "2025-02-23 06:14:39 +0000"
+      "minecraft:wooded_badlands": "2025-02-23 21:30:09 +0000",
+      "minecraft:beach": "2025-02-23 21:28:02 +0000",
+      "minecraft:sparse_jungle": "2025-02-23 06:14:39 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
+      "minecraft:desert": "2025-02-23 21:26:10 +0000"
     },
     "done": false
   },
@@ -850,6 +866,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-02-23 21:24:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -934,6 +956,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_brigg": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -988,6 +1016,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-02-23 21:05:59 +0000"
@@ -1003,6 +1037,12 @@
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-02-23 21:29:48 +0000"
     },
     "done": true
   },
@@ -1144,6 +1184,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2025-02-23 21:03:59 +0000"
@@ -1177,6 +1223,12 @@
   "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
     "criteria": {
       "has_planks": "2025-02-23 21:05:59 +0000"
+    },
+    "done": true
+  },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2025-02-23 21:29:48 +0000"
     },
     "done": true
   },
@@ -1360,6 +1412,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
     "criteria": {
       "has_planks": "2025-02-23 21:05:59 +0000"
@@ -1378,6 +1436,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-23 21:24:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
       "has_planks": "2025-02-23 21:05:59 +0000"
@@ -1389,6 +1453,12 @@
       "bread": "2025-02-23 21:21:42 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/decorations/tenanea_ladder": {
     "criteria": {
@@ -1477,6 +1547,12 @@
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 21:28:11 +0000"
     },
     "done": true
   },
@@ -1582,6 +1658,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
@@ -1603,6 +1685,12 @@
   "smallships:recipes/misc/sail": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-23 21:24:33 +0000"
     },
     "done": true
   },
@@ -1709,6 +1797,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_galley": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -1757,6 +1851,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-23 21:26:35 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/juniper_chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-23 21:07:13 +0000"
@@ -1766,6 +1866,12 @@
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2025-02-23 21:28:35 +0000"
     },
     "done": true
   },
@@ -1808,6 +1914,12 @@
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 21:28:11 +0000"
     },
     "done": true
   },
@@ -2022,6 +2134,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 21:28:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -2043,6 +2161,12 @@
   "bewitchment:recipes/decorations/elder_chest": {
     "criteria": {
       "has_lots_of_items": "2025-02-23 21:07:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2025-02-23 21:28:35 +0000"
     },
     "done": true
   },
@@ -2109,6 +2233,18 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-23 21:06:25 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 21:28:11 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
     },
     "done": true
   },
@@ -2322,6 +2458,18 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-23 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
@@ -2388,6 +2536,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/eucalyptus_sapling_from_eucalyptus_shrub": {
+    "criteria": {
+      "has_eucalyptus_shrub": "2025-02-23 21:32:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_axe": {
     "criteria": {
       "has_wooden_axe": "2025-02-23 21:06:03 +0000"
@@ -2448,6 +2602,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_purple": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2478,9 +2638,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 21:24:33 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
     },
     "done": true
   },
@@ -2502,6 +2674,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/oak_shrub": {
     "criteria": {
       "has_oak_sapling": "2025-02-23 21:12:42 +0000"
@@ -2511,6 +2689,12 @@
   "supplementaries:recipes/flags/flag_gray": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/glut_charm": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-23 21:24:33 +0000"
     },
     "done": true
   },
@@ -2625,6 +2809,12 @@
   "betterend:recipes/misc/copy_handle_attachment": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
     },
     "done": true
   },
@@ -2748,6 +2938,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_brigg": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
@@ -2796,6 +2992,12 @@
     },
     "done": true
   },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -2817,6 +3019,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2025-02-23 21:04:00 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
     },
     "done": true
   },
@@ -2922,6 +3130,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-02-23 21:21:53 +0000"
@@ -2967,6 +3181,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-23 21:00:09 +0000",
+      "minecraft:husk": "2025-02-23 21:24:32 +0000",
       "minecraft:zombie": "2025-02-23 21:00:56 +0000"
     },
     "done": false
@@ -2989,6 +3204,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/redwood_shrub": {
     "criteria": {
       "has_redwood_sapling": "2025-02-23 21:01:31 +0000"
@@ -3004,6 +3231,12 @@
   "betternether:recipes/decorations/wart_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 21:28:35 +0000"
     },
     "done": true
   },
@@ -3024,6 +3257,12 @@
       "has_stick": "2025-02-23 21:05:44 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-02-23 21:26:35 +0000"
+    },
+    "done": false
   },
   "mcda:recipes/crafting_items/fabric_bolt_lime": {
     "criteria": {
@@ -3265,6 +3504,12 @@
     },
     "done": true
   },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
@@ -3295,6 +3540,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2025-02-23 21:24:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blackstone": {
     "criteria": {
       "has_cobblestone": "2025-02-23 21:06:25 +0000"
@@ -3310,6 +3561,12 @@
   "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
     "criteria": {
       "has_item": "2025-02-23 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
     },
     "done": true
   },
@@ -3361,6 +3618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-23 21:29:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-23 21:22:03 +0000"
@@ -3406,6 +3669,12 @@
   "mcda:recipes/base_armors/grim_armor_boots": {
     "criteria": {
       "has_bone": "2025-02-23 21:00:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-02-23 21:29:49 +0000"
     },
     "done": true
   },
@@ -3457,9 +3726,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-02-23 21:28:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_sign": {
     "criteria": {
       "has_stick": "2025-02-23 21:05:44 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/staves/staff_growing_staff": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 21:28:11 +0000"
     },
     "done": true
   },
