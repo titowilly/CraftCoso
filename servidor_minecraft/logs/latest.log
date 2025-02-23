@@ -2545,3 +2545,33 @@ BCLib - The End  BiomeSource (1000ba4f)
 [21:03:44] [Server thread/INFO]: Setback has made the advancement [Monster Hunter]
 [21:04:29] [Server thread/INFO]: INTENCITIES has made the advancement [Stone Age]
 [21:05:01] [Server thread/INFO]: INTENCITIES has made the advancement [Getting an Upgrade]
+[21:05:54] [Server thread/INFO]: Brick_123 has made the advancement [Stone Age]
+[21:06:13] [Server thread/INFO]: Brick_123 has made the advancement [Getting an Upgrade]
+[21:06:25] [Server thread/INFO]: TitoWilly has made the advancement [Stone Age]
+[21:07:12] [Server thread/INFO]: TitoWilly has made the advancement [Getting an Upgrade]
+[21:10:17] [Server thread/INFO]: Setback has made the advancement [Stone Age]
+[21:10:44] [Server thread/INFO]: Setback has made the advancement [Getting an Upgrade]
+[21:11:16] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[21:11:50] [Server thread/INFO]: [Handshake] Sending channel query
+[21:11:50] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[21:11:50] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[21:11:50] [Server thread/INFO]: fandangolol[/127.199.177.232:44015] logged in with entity id 5505 at (-135.5, 96.0, -138.5)
+[21:11:50] [Server thread/INFO]: Sending server config values to client
+[21:11:50] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[21:11:50] [Server thread/INFO]: Loading config from file...
+[21:11:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:11:50] [Server thread/INFO]: fandangolol joined the game
+[21:11:50] [Server thread/INFO]: Loading Configs for Sortilege
+[21:11:50] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:11:50] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[21:11:50] [Server thread/INFO]: PLAYER_JOIN
+[21:11:50] [Server thread/INFO]: add_player wand
+[21:11:50] [Server thread/INFO]: config sent
+[21:11:50] [Server thread/INFO]: fandangolol has made the advancement [Mythic Mobs]
+[21:11:55] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[21:12:04] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[21:12:04] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[21:12:12] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:13:12] [Server thread/INFO]: <Brick_123> t
+[21:14:28] [Server thread/INFO]: fandangolol fell from a high place
+[21:14:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
