@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-02-23 23:01:09 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
       "has_item": "2025-02-23 21:02:58 +0000"
@@ -170,6 +176,12 @@
   "techreborn:recipes/extractor/bucket_from_water_bucket": {
     "criteria": {
       "has_water_bucket": "2025-02-23 22:51:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-02-23 23:01:09 +0000"
     },
     "done": true
   },
@@ -2138,6 +2150,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-02-23 23:01:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_cyan": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
@@ -2542,6 +2560,12 @@
   "techreborn:recipes/extractor/paper_from_enchanted_book": {
     "criteria": {
       "has_enchanted_book": "2025-02-23 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-02-23 23:01:09 +0000"
     },
     "done": true
   },
@@ -4648,6 +4672,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-02-23 23:01:09 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-02-23 21:04:33 +0000"
@@ -5218,6 +5248,12 @@
   "mcda:recipes/base_armors/dark_armor_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 21:30:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-02-23 23:01:09 +0000"
     },
     "done": true
   },
@@ -8821,6 +8857,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-02-23 23:01:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 21:48:55 +0000"
@@ -9622,6 +9664,12 @@
   "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_cobblestone": "2025-02-23 21:10:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-02-23 23:01:19 +0000"
     },
     "done": true
   },

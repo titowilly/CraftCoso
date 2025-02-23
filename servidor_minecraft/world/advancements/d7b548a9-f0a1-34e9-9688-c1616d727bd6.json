@@ -540,6 +540,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-02-23 22:57:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/baked_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-23 21:43:18 +0000"
@@ -1682,6 +1688,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2025-02-23 22:59:07 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-23 22:28:37 +0000"
@@ -1852,6 +1864,12 @@
     },
     "done": false
   },
+  "promenade:recipes/smoking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-02-23 23:03:22 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-02-23 21:11:51 +0000"
@@ -2007,6 +2025,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_planks": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-02-23 21:29:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-23 23:00:25 +0000"
     },
     "done": true
   },
@@ -2295,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-23 23:00:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-23 22:08:25 +0000"
@@ -2578,6 +2608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 22:58:47 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_container": {
     "criteria": {
       "has_base_block": "2025-02-23 21:53:47 +0000"
@@ -2791,6 +2827,12 @@
   "stoneworks:recipes/building_blocks/diorite_tile_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:07:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-02-23 23:04:51 +0000"
     },
     "done": true
   },
@@ -3197,6 +3239,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
+    "criteria": {
+      "has_golden_sword": "2025-02-23 22:55:38 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fortune_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-23 21:44:26 +0000"
@@ -3581,6 +3629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 22:58:47 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:07:42 +0000"
@@ -3801,6 +3855,12 @@
   "mcda:recipes/base_armors/sweet_tooth_helmet": {
     "criteria": {
       "has_diamond": "2025-02-23 21:50:04 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/campfire_cooking/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-02-23 23:03:22 +0000"
     },
     "done": true
   },
@@ -4110,6 +4170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-23 23:00:25 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/lantern": {
     "criteria": {
       "has_torch": "2025-02-23 22:00:38 +0000"
@@ -4336,8 +4402,12 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-02-23 21:30:22 +0000",
       "minecraft:stony_peaks": "2025-02-23 22:43:35 +0000",
+      "minecraft:sparse_jungle": "2025-02-23 23:04:22 +0000",
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
-      "minecraft:desert": "2025-02-23 21:26:37 +0000"
+      "minecraft:forest": "2025-02-23 23:04:41 +0000",
+      "minecraft:desert": "2025-02-23 21:26:37 +0000",
+      "minecraft:jungle": "2025-02-23 23:04:30 +0000",
+      "minecraft:plains": "2025-02-23 23:04:51 +0000"
     },
     "done": false
   },
@@ -4392,6 +4462,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-23 22:07:42 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_backstabber": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-23 22:58:47 +0000"
     },
     "done": true
   },
@@ -5145,6 +5221,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-02-23 22:57:26 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_red_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 21:28:32 +0000"
@@ -5725,6 +5807,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-23 21:27:27 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-02-23 22:57:10 +0000"
     },
     "done": true
   },
@@ -6482,6 +6570,12 @@
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-02-23 21:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-23 23:00:25 +0000"
     },
     "done": true
   },
@@ -7891,6 +7985,12 @@
   "herbalbrews:recipes/cauldron": {
     "criteria": {
       "has_iron_ingot": "2025-02-23 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-02-23 22:57:26 +0000"
     },
     "done": true
   },

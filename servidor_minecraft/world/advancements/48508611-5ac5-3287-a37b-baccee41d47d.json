@@ -918,6 +918,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_lizard_tail": {
+    "criteria": {
+      "has_lizard_tail": "2025-02-23 22:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-02-23 21:34:57 +0000"
