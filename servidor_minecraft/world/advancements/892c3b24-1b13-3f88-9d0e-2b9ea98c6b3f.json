@@ -13882,12 +13882,6 @@
     },
     "done": true
   },
-  "vinery:recipes/wine_bottle": {
-    "criteria": {
-      "has_glass_bottle": "2025-02-24 20:14:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 20:14:34 +0000"
@@ -13936,12 +13930,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/tools/taglock": {
-    "criteria": {
-      "has_item": "2025-02-24 20:14:43 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_glass": "2025-02-24 20:14:34 +0000"
@@ -13954,12 +13942,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
-    "criteria": {
-      "has_glass_bottle": "2025-02-24 20:14:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 20:14:34 +0000"
@@ -13969,12 +13951,6 @@
   "supplementaries:recipes/jar": {
     "criteria": {
       "has_glass": "2025-02-24 20:14:34 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/buzzcutter": {
-    "criteria": {
-      "requirement": "2025-02-24 20:30:23 +0000"
     },
     "done": true
   },
@@ -14050,12 +14026,6 @@
     },
     "done": true
   },
-  "minecells:ramparts": {
-    "criteria": {
-      "requirement": "2025-02-24 20:23:25 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2025-02-24 20:14:34 +0000"
@@ -14071,6 +14041,42 @@
   "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
     "criteria": {
       "has_colorless_glass": "2025-02-24 20:14:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-24 20:14:43 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2025-02-24 20:14:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-24 20:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-02-24 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/buzzcutter": {
+    "criteria": {
+      "requirement": "2025-02-24 20:30:23 +0000"
+    },
+    "done": true
+  },
+  "minecells:unlock/fall_from_the_ramparts": {
+    "criteria": {
+      "teleported_up": "2025-02-24 20:36:57 +0000"
     },
     "done": true
   },

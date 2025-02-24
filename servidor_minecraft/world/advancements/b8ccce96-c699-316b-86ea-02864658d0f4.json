@@ -3342,8 +3342,10 @@
       "minecraft:forest": "2025-02-24 06:37:34 +0000",
       "minecraft:desert": "2025-02-23 21:26:06 +0000",
       "minecraft:ocean": "2025-02-24 03:14:59 +0000",
+      "minecraft:jungle": "2025-02-24 20:48:41 +0000",
       "minecraft:warm_ocean": "2025-02-23 22:35:29 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-23 23:39:04 +0000",
+      "minecraft:deep_dark": "2025-02-24 20:48:51 +0000",
       "minecraft:meadow": "2025-02-24 06:49:59 +0000",
       "minecraft:plains": "2025-02-23 23:34:37 +0000"
     },
@@ -16053,6 +16055,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-02-24 20:48:34 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/drain": {
     "criteria": {
       "has_hopper": "2025-02-24 19:31:45 +0000"
@@ -16089,6 +16097,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-24 20:51:03 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/plate_armor_chestplate": {
     "criteria": {
       "has_iron_plate": "2025-02-24 18:30:48 +0000"
@@ -16104,6 +16118,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
     "criteria": {
       "has_diamond_helmet": "2025-02-24 18:40:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
+    "criteria": {
+      "has_iron_shovel": "2025-02-24 20:53:22 +0000"
     },
     "done": true
   },
@@ -16146,6 +16166,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-24 19:08:29 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-24 20:48:51 +0000"
     },
     "done": true
   },
