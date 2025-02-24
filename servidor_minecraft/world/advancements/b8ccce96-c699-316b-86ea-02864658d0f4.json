@@ -16023,9 +16023,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/plate_armor_leggings": {
+    "criteria": {
+      "has_iron_plate": "2025-02-24 18:30:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2025-02-24 18:25:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/plate_armor_chestplate": {
+    "criteria": {
+      "has_iron_plate": "2025-02-24 18:30:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-24 18:30:48 +0000"
     },
     "done": true
   },
@@ -16041,6 +16059,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/plate_armor_helmet": {
+    "criteria": {
+      "has_iron_plate": "2025-02-24 18:30:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-02-24 18:25:29 +0000"
@@ -16053,9 +16077,21 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_metal_var": {
+    "criteria": {
+      "has_the_recipe": "2025-02-24 18:30:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-02-24 18:23:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/plate_armor_boots": {
+    "criteria": {
+      "has_iron_plate": "2025-02-24 18:30:48 +0000"
     },
     "done": true
   },

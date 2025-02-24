@@ -3234,3 +3234,30 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:30:09] [Server thread/INFO]: Nikuus left the game
 [18:30:09] [Server thread/INFO]: remove player wand
 [18:30:09] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[18:31:36] [Server thread/INFO]: TitoWilly lost connection: Disconnected
+[18:31:36] [Server thread/INFO]: TitoWilly left the game
+[18:31:36] [Server thread/INFO]: remove player wand
+[18:31:36] [Server thread/INFO]: Updating all forceload tickets for 48508611-5ac5-3287-a37b-baccee41d47d
+[18:33:14] [Server thread/INFO]: [Handshake] Sending channel query
+[18:33:15] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[18:33:15] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[18:33:15] [Server thread/INFO]: Setback[/127.93.142.153:39849] logged in with entity id 50773 at (1017.07772174413, 144.0, -887.6466138686687)
+[18:33:15] [Server thread/INFO]: Sending server config values to client
+[18:33:15] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[18:33:15] [Server thread/INFO]: Loading config from file...
+[18:33:15] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:33:15] [Server thread/INFO]: Setback joined the game
+[18:33:15] [Server thread/INFO]: Loading Configs for Sortilege
+[18:33:15] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:33:15] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[18:33:15] [Server thread/INFO]: PLAYER_JOIN
+[18:33:15] [Server thread/INFO]: add_player wand
+[18:33:15] [Server thread/INFO]: config sent
+[18:33:18] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[18:33:20] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[18:33:20] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[18:33:26] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[18:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18:38:46] [Server thread/INFO]: Setback was doomed to fall by Creeper
+[18:38:50] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[18:39:17] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 979, 127, -888, minecraft:overworld
