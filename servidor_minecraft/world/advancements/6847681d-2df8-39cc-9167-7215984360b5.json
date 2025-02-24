@@ -3304,6 +3304,7 @@
     "criteria": {
       "bread": "2025-02-23 21:20:39 +0000",
       "cookie": "2025-02-24 18:39:11 +0000",
+      "rotten_flesh": "2025-02-24 19:05:14 +0000",
       "melon_slice": "2025-02-23 21:13:09 +0000"
     },
     "done": false
@@ -12631,9 +12632,27 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-02-24 19:03:13 +0000"
+    },
+    "done": false
+  },
+  "promenade:recipes/crafting/vanilla_piles/azure_bluet": {
+    "criteria": {
+      "has_flower": "2025-02-24 19:06:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2025-02-24 19:06:22 +0000"
     },
     "done": true
   },
@@ -12691,6 +12710,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2025-02-24 19:06:42 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
     "criteria": {
       "has_tag_minecraft_wooden_stairs": "2025-02-24 18:48:59 +0000"
@@ -12706,6 +12731,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_shrub": "2025-02-24 19:06:48 +0000"
     },
     "done": true
   },
@@ -12736,6 +12767,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2025-02-24 19:06:47 +0000"
     },
     "done": true
   },
@@ -12853,15 +12890,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-24 19:06:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/diorite_pedestal": {
     "criteria": {
       "has_polished_diorite": "2025-02-24 18:29:07 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-24 19:03:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-02-24 18:02:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-02-24 19:06:12 +0000"
     },
     "done": true
   },
