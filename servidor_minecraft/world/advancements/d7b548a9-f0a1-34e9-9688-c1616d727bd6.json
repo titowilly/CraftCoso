@@ -15384,6 +15384,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
@@ -15438,6 +15444,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 18:41:17 +0000"
@@ -15471,6 +15483,12 @@
   "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/peridot_storage_block": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15513,6 +15531,12 @@
   "create:recipes/building_blocks/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-24 18:35:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15561,6 +15585,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-02-24 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15660,6 +15690,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sapphire_dust": {
+    "criteria": {
+      "has_tag_c_sapphires": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
@@ -15693,6 +15735,12 @@
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-02-24 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15744,6 +15792,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_sword": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
@@ -15759,6 +15813,12 @@
   "promenade:recipes/crafting/blunite/wall": {
     "criteria": {
       "has_blunite": "2025-02-24 18:41:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_hoe": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15780,9 +15840,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_boots": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_helmet": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/blackstone_witch_altar": {
     "criteria": {
       "has_item": "2025-02-24 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/peridot_chestplate": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15810,6 +15888,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_hoe": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/upgrade_cores/upgrade_core_soul": {
     "criteria": {
       "has_core_specification_item": "2025-02-24 18:41:16 +0000"
@@ -15831,6 +15915,12 @@
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-02-24 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_pickaxe": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15876,6 +15966,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/tool/sapphire_spade": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_destructor_hammer": {
     "criteria": {
       "has_material": "2025-02-24 18:42:41 +0000"
@@ -15891,6 +15987,12 @@
   "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_chestplate": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -15966,6 +16068,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/peridot_dust": {
+    "criteria": {
+      "has_tag_c_peridot_gems": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/stone_column": {
     "criteria": {
       "has_item": "2025-02-24 18:42:41 +0000"
@@ -16017,6 +16125,12 @@
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-24 18:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
+    "criteria": {
+      "has_peridot_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -16284,6 +16398,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_boots": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-02-24 18:41:16 +0000"
@@ -16305,6 +16425,12 @@
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-02-24 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },
@@ -16425,6 +16551,12 @@
   "handcrafted:recipes/misc/witch_trophy": {
     "criteria": {
       "has_witch_trophy": "2025-02-24 18:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+    "criteria": {
+      "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
     },
     "done": true
   },

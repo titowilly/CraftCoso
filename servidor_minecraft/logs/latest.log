@@ -3365,3 +3365,61 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6013ms or 120 ticks behind
 [18:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3977ms or 79 ticks behind
 [18:51:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3729ms or 74 ticks behind
+[18:51:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5953ms or 119 ticks behind
+[18:51:48] [Server thread/INFO]: [Handshake] Sending channel query
+[18:51:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[18:51:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[18:51:49] [Server thread/INFO]: Setback lost connection: You logged in from another location
+[18:51:49] [Server thread/INFO]: Setback left the game
+[18:51:49] [Server thread/INFO]: remove player wand
+[18:51:49] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[18:51:49] [Server thread/INFO]: Setback[/127.93.142.153:38073] logged in with entity id 65934 at (1005.558458432187, 149.0, -900.9214002793041)
+[18:51:49] [Server thread/INFO]: Sending server config values to client
+[18:51:49] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[18:51:49] [Server thread/INFO]: Loading config from file...
+[18:51:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:51:49] [Server thread/INFO]: Setback joined the game
+[18:51:49] [Server thread/INFO]: Loading Configs for Sortilege
+[18:51:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:51:49] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[18:51:49] [Server thread/INFO]: PLAYER_JOIN
+[18:51:49] [Server thread/INFO]: add_player wand
+[18:51:49] [Server thread/INFO]: config sent
+[18:51:51] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[18:51:51] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[18:51:51] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[18:51:56] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[18:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4567ms or 91 ticks behind
+[18:52:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4387ms or 87 ticks behind
+[18:52:35] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[18:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2975ms or 59 ticks behind
+[18:54:00] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[18:54:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:54:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5710ms or 114 ticks behind
+[18:54:28] [Server thread/INFO]: [TitoWilly: Teleported Brick_123 to INTENCITIES]
+[18:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[18:56:21] [Server thread/INFO]: [TitoWilly: Teleported Brick_123 to fandangolol]
+[18:56:50] [Server thread/INFO]: TitoWilly was shot by Undead Archer
+[18:56:53] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[18:57:05] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to -192.500000, 84.500000, -234.500000]
+[18:57:07] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at -193, 84, -235, minecraft:overworld
+[18:57:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18:57:18] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[18:57:22] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[18:57:30] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[18:57:38] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at 1013, 41, -998, minecells:prison
+[18:57:46] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[18:58:34] [Server thread/INFO]: Brick_123 has made the advancement [Hammered]
+[18:59:28] [Server thread/INFO]: Setback was slain by Zombie
+[18:59:30] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[18:59:36] [Server thread/INFO]: Setback claimed a grave belonging to Setback at 1030, 142, -891, minecraft:overworld
+[18:59:36] [Server thread/INFO]: TitoWilly was slain by Mutant Zombie
+[18:59:38] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[18:59:40] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[18:59:47] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at 1042, 142, -892, minecraft:overworld
+[18:59:59] [Server thread/WARN]: Setback moved wrongly!
+[19:01:04] [Server thread/INFO]: TitoWilly was slain by Mutant Zombie
+[19:01:05] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[19:01:06] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[19:01:44] [Server thread/INFO]: TitoWilly claimed a grave belonging to TitoWilly at 1014, 157, -891, minecraft:overworld
+[19:01:46] [Server thread/INFO]: fandangolol has made the advancement [Wax Off]

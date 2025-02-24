@@ -16029,6 +16029,12 @@
     },
     "done": true
   },
+  "betterend:hammer": {
+    "criteria": {
+      "got_diamond_hammer": "2025-02-24 18:58:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2025-02-24 18:25:29 +0000"
@@ -16062,6 +16068,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-24 18:23:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/netherite_hammer": {
+    "criteria": {
+      "has_item.betterend.diamond_hammer": "2025-02-24 18:58:34 +0000"
     },
     "done": true
   },

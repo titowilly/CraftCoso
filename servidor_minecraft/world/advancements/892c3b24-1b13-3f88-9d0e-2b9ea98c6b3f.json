@@ -13202,6 +13202,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-02-24 18:38:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-24 18:38:34 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/phantom_armor_helmet": {
     "criteria": {
       "has_phantom_bones": "2025-02-24 18:39:05 +0000"
@@ -13214,15 +13226,39 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/enchanted_membrane": {
+  "soulsweapons:recipes/misc/verglas": {
     "criteria": {
-      "has_item.minecraft.phantom_membrane": "2025-02-24 18:38:34 +0000"
+      "has_item": "2025-02-24 18:49:36 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/phantom_trophy": {
+  "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
-      "has_phantom_trophy": "2025-02-24 18:38:34 +0000"
+      "has_item": "2025-02-24 18:49:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "verglas": "2025-02-24 18:49:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-02-24 18:49:36 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-02-24 18:49:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-02-24 18:59:36 +0000"
     },
     "done": true
   },
