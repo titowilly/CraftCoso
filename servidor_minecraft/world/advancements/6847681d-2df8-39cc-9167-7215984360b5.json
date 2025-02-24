@@ -12627,6 +12627,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/obsidian_witch_altar": {
     "criteria": {
       "has_item": "2025-02-24 19:26:23 +0000"
@@ -12681,6 +12687,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
     "criteria": {
       "has_redwood_shrub": "2025-02-24 19:06:22 +0000"
@@ -12717,6 +12729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 18:20:23 +0000"
@@ -12729,9 +12747,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -12831,6 +12861,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/kelp": {
     "criteria": {
       "has_kelp": "2025-02-24 18:31:02 +0000"
@@ -12846,6 +12882,12 @@
   "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
     "criteria": {
       "has_grass_variant": "2025-02-24 19:06:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -12879,6 +12921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-02-24 19:26:23 +0000"
@@ -12894,6 +12942,12 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_obsidian": "2025-02-24 19:26:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -12993,6 +13047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:main/find_tea_blossom": {
     "criteria": {
       "tea_blossom": "2025-02-24 18:02:21 +0000"
@@ -13002,6 +13062,12 @@
   "zenith:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-02-24 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -13023,6 +13089,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 19:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-24 19:28:38 +0000"
@@ -13032,6 +13104,12 @@
   "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
     "criteria": {
       "has_item": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 19:32:02 +0000"
     },
     "done": true
   },
@@ -13062,6 +13140,12 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-02-24 19:26:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-24 19:32:02 +0000"
     },
     "done": true
   },

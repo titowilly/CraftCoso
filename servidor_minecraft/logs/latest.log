@@ -3604,3 +3604,25 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3288ms or 65 ticks behind
 [19:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
 [19:32:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:33:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
+[19:33:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3755ms or 75 ticks behind
+[19:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[19:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:34:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:34:45] [Server thread/INFO]: Setback has made the advancement [Sky of Beginning]
+[19:34:48] [Server thread/INFO]: [STDOUT]: class_1642['Zombie'/91791, l='ServerLevel[world]', x=-964.30, y=-36.43, z=-907.70]
+[19:34:52] [Server thread/INFO]: [STDOUT]: class_1642['Zombie'/90060, l='ServerLevel[world]', x=-964.30, y=-36.50, z=-907.70]
+[19:35:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[19:35:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:36:00] [Server thread/INFO]: Incorrect argument for command
+[19:36:00] [Server thread/INFO]: ...ncitiesop INTENCITIES<--[HERE]
+[19:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:37:04] [Server thread/INFO]: fandangolol has made the advancement [A Wizard Is Never Late]
+[19:37:24] [Server thread/INFO]: fandangolol has made the advancement [Cover Me with Diamonds]
+[19:38:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:39:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19:42:45] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frostbolt Entity not found: 97980
+[19:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind

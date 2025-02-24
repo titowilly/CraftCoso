@@ -15199,6 +15199,12 @@
     },
     "done": true
   },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-02-24 19:37:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-24 19:18:18 +0000"
@@ -15568,6 +15574,12 @@
   "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
     "criteria": {
       "has_item": "2025-02-24 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "betterend:hammer": {
+    "criteria": {
+      "got_diamond_hammer": "2025-02-24 19:31:11 +0000"
     },
     "done": true
   },
@@ -16879,6 +16891,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-24 19:37:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 18:41:17 +0000"
@@ -16894,6 +16912,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/netherite_hammer": {
+    "criteria": {
+      "has_item.betterend.diamond_hammer": "2025-02-24 19:31:11 +0000"
     },
     "done": true
   },
@@ -17311,6 +17335,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-24 19:37:24 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-02-24 18:42:41 +0000"
@@ -17350,6 +17380,12 @@
   "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-24 19:17:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-24 19:37:24 +0000"
     },
     "done": true
   },

@@ -4380,6 +4380,7 @@
     "criteria": {
       "minecraft:wooded_badlands": "2025-02-23 22:13:06 +0000",
       "minecraft:beach": "2025-02-23 21:28:00 +0000",
+      "minecraft:river": "2025-02-24 19:33:08 +0000",
       "minecraft:desert": "2025-02-23 21:25:53 +0000",
       "minecraft:warm_ocean": "2025-02-23 22:37:49 +0000"
     },
@@ -10072,7 +10073,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "potato": "2025-02-23 22:53:20 +0000"
+      "potato": "2025-02-23 22:53:20 +0000",
+      "carrot": "2025-02-24 19:40:31 +0000"
     },
     "done": false
   },
@@ -13544,9 +13546,27 @@
     },
     "done": true
   },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/zinc_plate": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-02-24 19:27:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
     },
     "done": true
   },
@@ -13616,6 +13636,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2025-02-24 19:27:11 +0000"
@@ -13649,6 +13675,12 @@
   "copycats:recipes/misc/stonecutting/copycat_fence": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
     },
     "done": true
   },
@@ -13718,6 +13750,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:47 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
@@ -13739,6 +13783,12 @@
   "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:45 +0000"
     },
     "done": true
   },

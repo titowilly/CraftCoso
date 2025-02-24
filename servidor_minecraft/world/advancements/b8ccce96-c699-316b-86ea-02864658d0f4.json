@@ -16047,6 +16047,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/drain": {
+    "criteria": {
+      "has_hopper": "2025-02-24 19:31:45 +0000"
+    },
+    "done": true
+  },
   "betterend:hammer": {
     "criteria": {
       "got_diamond_hammer": "2025-02-24 18:58:34 +0000"
@@ -16260,6 +16266,12 @@
   "techreborn:recipes/compressor/prismarine_shard": {
     "criteria": {
       "has_prismarine_crystals": "2025-02-24 18:25:29 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-02-24 19:31:49 +0000"
     },
     "done": true
   },
