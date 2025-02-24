@@ -685,6 +685,7 @@
       "minecraft:skeleton": "2025-02-23 21:20:55 +0000",
       "minecraft:vindicator": "2025-02-24 04:02:34 +0000",
       "minecraft:spider": "2025-02-23 21:36:54 +0000",
+      "minecraft:phantom": "2025-02-24 19:15:34 +0000",
       "minecraft:witch": "2025-02-24 04:04:36 +0000",
       "minecraft:husk": "2025-02-23 21:24:19 +0000",
       "minecraft:cave_spider": "2025-02-24 04:01:31 +0000",
@@ -12650,6 +12651,12 @@
     },
     "done": true
   },
+  "rpg_series:path_choose_archer": {
+    "criteria": {
+      "book": "2025-02-24 19:18:10 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
     "criteria": {
       "has_redwood_shrub": "2025-02-24 19:06:22 +0000"
@@ -12740,6 +12747,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-02-24 19:15:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-24 18:20:23 +0000"
@@ -12800,6 +12813,12 @@
     },
     "done": true
   },
+  "rpg_series:spell_novice_archer": {
+    "criteria": {
+      "bind": "2025-02-24 19:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-02-24 18:29:07 +0000"
@@ -12812,9 +12831,21 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-24 19:15:34 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-02-24 19:15:44 +0000"
     },
     "done": true
   },
@@ -12866,6 +12897,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-24 19:15:44 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:main/find_tea_blossom": {
     "criteria": {
       "tea_blossom": "2025-02-24 18:02:21 +0000"
@@ -12893,6 +12930,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-02-24 19:06:12 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-02-24 19:17:53 +0000"
     },
     "done": true
   },

@@ -3498,3 +3498,52 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:11:58] [Netty Epoll Server IO #3/INFO]: Receiving client config
 [19:11:59] [Netty Epoll Server IO #3/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
 [19:11:59] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[19:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:12:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[19:12:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:13:27] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[19:13:51] [Server thread/INFO]: Nikuus lost connection: Timed out
+[19:13:51] [Server thread/INFO]: Nikuus left the game
+[19:13:51] [Server thread/INFO]: remove player wand
+[19:13:51] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[19:14:57] [Server thread/INFO]: Setback has made the advancement [Forbidden Fruit]
+[19:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:14:59] [Server thread/INFO]: [Handshake] Sending channel query
+[19:14:59] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[19:14:59] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[19:14:59] [Server thread/INFO]: Nikuus[/127.61.205.57:33059] logged in with entity id 80737 at (205.42005812019804, 63.0, 96.584776811962)
+[19:14:59] [Server thread/INFO]: Sending server config values to client
+[19:14:59] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[19:14:59] [Server thread/INFO]: Loading config from file...
+[19:15:00] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:15:00] [Server thread/INFO]: Nikuus joined the game
+[19:15:00] [Server thread/INFO]: Loading Configs for Sortilege
+[19:15:00] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:15:00] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[19:15:00] [Server thread/INFO]: PLAYER_JOIN
+[19:15:00] [Server thread/INFO]: add_player wand
+[19:15:00] [Server thread/INFO]: config sent
+[19:15:01] [Server thread/INFO]: Nikuus lost connection: Disconnected
+[19:15:01] [Server thread/INFO]: Nikuus left the game
+[19:15:01] [Server thread/INFO]: remove player wand
+[19:15:01] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[19:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19:16:54] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to INTENCITIES]
+[19:16:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[19:17:53] [Server thread/INFO]: INTENCITIES has reached the goal [Choose your path]
+[19:18:10] [Server thread/INFO]: INTENCITIES has made the advancement [Path of Archery]
+[19:18:20] [Server thread/INFO]: fandangolol has made the advancement [Hidden in the Depths]
+[19:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:18:46] [Server thread/INFO]: INTENCITIES has made the advancement [Lethal Shots]
+[19:18:46] [Server thread/INFO]: [STDOUT]: Triggering advancement SpellBindingCriteria.INSTANCE poolId: archers:archer isComplete: false
+[19:19:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:19:41] [Server thread/INFO]: [TitoWilly: Set own game mode to Creative Mode]
+[19:20:02] [Server thread/INFO]: [TitoWilly: Set own game mode to Survival Mode]
+[19:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:20:26] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Setback]
+[19:20:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[19:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:21:56] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[19:21:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19:22:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
