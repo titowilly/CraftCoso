@@ -12675,6 +12675,12 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-02-24 20:02:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/obsidian_plate_from_block": {
     "criteria": {
       "has_obsidian": "2025-02-24 19:26:23 +0000"
@@ -12789,6 +12795,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-02-24 20:02:41 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/swords/sword_obsidian_claymore": {
     "criteria": {
       "has_obsidian": "2025-02-24 19:26:23 +0000"
@@ -12804,6 +12816,12 @@
   "zenith:enchanting/enchanter": {
     "criteria": {
       "enchanting_table": "2025-02-24 19:26:42 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-02-24 20:02:41 +0000"
     },
     "done": true
   },
@@ -12876,6 +12894,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-02-24 20:02:41 +0000"
     },
     "done": true
   },
@@ -13005,6 +13029,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-02-24 20:02:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-24 19:26:23 +0000"
@@ -13044,6 +13074,12 @@
   "handcrafted:recipes/misc/phantom_trophy": {
     "criteria": {
       "has_phantom_trophy": "2025-02-24 19:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-24 20:02:41 +0000"
     },
     "done": true
   },

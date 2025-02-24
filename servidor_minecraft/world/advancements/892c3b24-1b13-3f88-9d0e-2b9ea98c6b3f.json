@@ -13546,27 +13546,9 @@
     },
     "done": true
   },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2025-02-24 19:34:45 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/zinc_plate": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2025-02-24 19:27:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/flower_bag": {
-    "criteria": {
-      "has_item": "2025-02-24 19:34:45 +0000"
-    },
-    "done": true
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2025-02-24 19:34:45 +0000"
     },
     "done": true
   },
@@ -13636,12 +13618,6 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2025-02-24 19:34:45 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2025-02-24 19:27:11 +0000"
@@ -13660,12 +13636,6 @@
     },
     "done": true
   },
-  "zenith:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-02-24 20:01:40 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/misc/stonecutting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
@@ -13681,12 +13651,6 @@
   "copycats:recipes/misc/stonecutting/copycat_fence": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2025-02-24 19:34:45 +0000"
     },
     "done": true
   },
@@ -13756,18 +13720,6 @@
     },
     "done": true
   },
-  "botania:recipes/misc/petal_black_double": {
-    "criteria": {
-      "has_item": "2025-02-24 19:34:47 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/black_shiny_flower": {
-    "criteria": {
-      "has_item": "2025-02-24 19:34:45 +0000"
-    },
-    "done": true
-  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
@@ -13789,12 +13741,6 @@
   "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/misc/petal_black": {
-    "criteria": {
-      "has_item": "2025-02-24 19:34:45 +0000"
     },
     "done": true
   },
@@ -13831,6 +13777,90 @@
   "copycats:recipes/misc/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/flower_bag": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_black_double": {
+    "criteria": {
+      "has_item": "2025-02-24 19:34:47 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-02-24 20:01:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 20:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 20:07:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 20:07:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 20:07:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-02-24 20:07:02 +0000"
     },
     "done": true
   },

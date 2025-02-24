@@ -3663,3 +3663,45 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:03:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
 [20:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [20:03:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:04:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[20:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[20:05:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[20:07:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[20:07:10] [Server thread/INFO]: [TitoWilly: Kicked Setback: por bob]
+[20:07:10] [Server thread/INFO]: Setback lost connection: por bob
+[20:07:10] [Server thread/INFO]: Setback left the game
+[20:07:10] [Server thread/INFO]: remove player wand
+[20:07:10] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[20:07:17] [Server thread/INFO]: [Handshake] Sending channel query
+[20:07:18] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[20:07:18] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[20:07:18] [Server thread/INFO]: Setback[/127.93.142.153:48439] logged in with entity id 109901 at (764.9917586381839, 107.16610926093821, -759.9920235848643)
+[20:07:18] [Server thread/INFO]: Sending server config values to client
+[20:07:18] [Server thread/INFO]: Syncing config to Setback (892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f)
+[20:07:18] [Server thread/INFO]: Loading config from file...
+[20:07:18] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:07:18] [Server thread/INFO]: Setback joined the game
+[20:07:18] [Server thread/INFO]: Loading Configs for Sortilege
+[20:07:18] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:07:18] [Server thread/INFO]: Updating all forceload tickets for 892c3b24-1b13-3f88-9d0e-2b9ea98c6b3f
+[20:07:18] [Server thread/INFO]: PLAYER_JOIN
+[20:07:18] [Server thread/INFO]: add_player wand
+[20:07:18] [Server thread/INFO]: config sent
+[20:07:20] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[20:07:20] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: Setback -> Global
+[20:07:20] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Setback. Claiming: GRAVE / Robbing: INVENTORY
+[20:07:26] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[20:07:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:08:49] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frostbolt Entity not found: 110886
+[20:08:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:10:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[20:11:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:13:14] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frostbolt Entity not found: 113374
