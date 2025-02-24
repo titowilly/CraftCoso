@@ -13660,6 +13660,12 @@
     },
     "done": true
   },
+  "zenith:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-02-24 20:01:40 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-02-24 19:27:11 +0000"

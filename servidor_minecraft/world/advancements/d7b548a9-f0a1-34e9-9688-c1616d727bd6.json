@@ -15223,6 +15223,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 19:57:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/steel_dust": {
     "criteria": {
       "has_tag_c_steel_ingots": "2025-02-24 18:41:17 +0000"
@@ -15241,6 +15253,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cooked_lizard_tail": {
+    "criteria": {
+      "has_lizard_tail": "2025-02-24 19:57:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
@@ -15250,6 +15268,12 @@
   "bewitchment:recipes/decorations/obsidian_witch_altar": {
     "criteria": {
       "has_item": "2025-02-24 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 19:57:49 +0000"
     },
     "done": true
   },
@@ -15286,6 +15310,12 @@
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-24 19:28:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
@@ -15571,6 +15601,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-02-24 19:54:22 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/slab": {
     "criteria": {
       "has_blunite": "2025-02-24 18:41:45 +0000"
@@ -15685,6 +15721,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/amethyst_blocks/polished_amethyst": {
     "criteria": {
       "has_item": "2025-02-24 19:17:02 +0000"
@@ -15754,6 +15796,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/electrum_nugget": {
+    "criteria": {
+      "has_electrum_ingot": "2025-02-24 19:57:15 +0000"
     },
     "done": true
   },
@@ -15853,6 +15901,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_spade": {
     "criteria": {
       "has_peridot_gem": "2025-02-24 18:48:45 +0000"
@@ -15910,6 +15964,12 @@
   "copycats:recipes/misc/stonecutting/copycat_byte": {
     "criteria": {
       "has_item": "2025-02-24 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-24 19:54:43 +0000"
     },
     "done": true
   },
@@ -16207,6 +16267,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2025-02-24 19:56:41 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2025-02-24 19:00:22 +0000"
@@ -16216,6 +16282,12 @@
   "copycats:recipes/misc/stonecutting/copycat_slope": {
     "criteria": {
       "has_item": "2025-02-24 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
@@ -16246,6 +16318,12 @@
   "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-02-24 18:35:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
@@ -16351,6 +16429,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-02-24 19:54:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2025-02-24 18:42:41 +0000"
@@ -16366,6 +16450,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-24 19:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 19:57:49 +0000"
     },
     "done": true
   },
@@ -16432,6 +16522,12 @@
   "oxidized:recipes/vertical_cut_copper": {
     "criteria": {
       "has_copper_block": "2025-02-24 19:00:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
@@ -16813,6 +16909,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_board": {
     "criteria": {
       "has_item": "2025-02-24 19:00:22 +0000"
@@ -16828,6 +16930,18 @@
   "betternether:recipes/food/herbal_medicine": {
     "criteria": {
       "has_nether_wart": "2025-02-24 19:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 19:57:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/electrum_plate": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2025-02-24 19:57:15 +0000"
     },
     "done": true
   },
@@ -16987,6 +17101,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/electrum_storage_block": {
+    "criteria": {
+      "has_electrum_ingot": "2025-02-24 19:57:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/calcite_pillar_trim": {
     "criteria": {
       "has_calcite_pillar_trim": "2025-02-24 19:28:40 +0000"
@@ -17020,6 +17140,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/electrum_dust": {
+    "criteria": {
+      "has_tag_c_electrum_ingots": "2025-02-24 19:57:15 +0000"
     },
     "done": true
   },
@@ -17200,6 +17326,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-24 19:18:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
@@ -17473,6 +17605,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/snow": {
     "criteria": {
       "has_snowball": "2025-02-24 18:26:43 +0000"
@@ -17548,6 +17686,12 @@
   "twigs:recipes/columns/blackstone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-24 19:57:49 +0000"
     },
     "done": true
   },
@@ -17701,6 +17845,12 @@
     },
     "done": true
   },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2025-02-24 19:57:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
     "criteria": {
       "has_blackstone": "2025-02-24 18:41:17 +0000"
@@ -17791,6 +17941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-02-24 19:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-02-24 18:42:41 +0000"
@@ -17824,6 +17980,12 @@
   "mcda:recipes/unique_armors/stalwart_armor_boots": {
     "criteria": {
       "has_reinforced_mail_boots": "2025-02-24 18:28:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
@@ -17989,15 +18151,33 @@
     },
     "done": true
   },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_reed": "2025-02-24 19:57:52 +0000"
+    },
+    "done": false
+  },
   "twigs:recipes/calcite/calcite_wall": {
     "criteria": {
       "has_item": "2025-02-24 19:28:40 +0000"
     },
     "done": true
   },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2025-02-24 19:57:07 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-02-24 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
@@ -18133,6 +18313,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/jungle_table_slab": {
     "criteria": {
       "has_jungle": "2025-02-24 19:05:10 +0000"
@@ -18151,6 +18337,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-24 19:18:18 +0000"
@@ -18160,6 +18352,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_tile": {
     "criteria": {
       "has_blue_obsidian": "2025-02-24 19:17:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-02-24 19:57:52 +0000"
     },
     "done": true
   },
