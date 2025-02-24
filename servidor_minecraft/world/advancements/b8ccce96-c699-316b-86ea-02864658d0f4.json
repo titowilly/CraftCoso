@@ -16025,6 +16025,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2025-02-24 20:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-24 19:08:29 +0000"
@@ -16097,6 +16103,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/dreamwood_wand": {
+    "criteria": {
+      "has_item": "2025-02-24 20:55:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-02-24 20:51:03 +0000"
@@ -16118,6 +16130,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
     "criteria": {
       "has_diamond_helmet": "2025-02-24 18:40:00 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2025-02-24 20:55:38 +0000"
     },
     "done": true
   },
@@ -16226,6 +16244,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-24 18:23:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/twig_wand": {
+    "criteria": {
+      "has_item": "2025-02-24 20:55:38 +0000"
     },
     "done": true
   },
@@ -16370,6 +16394,12 @@
   "techreborn:recipes/crafting_table/unit/storage/crude_storage_unit": {
     "criteria": {
       "has_barrel": "2025-02-24 19:09:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/apothecary_default": {
+    "criteria": {
+      "has_item": "2025-02-24 20:55:38 +0000"
     },
     "done": true
   },
