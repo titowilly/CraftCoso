@@ -15144,5 +15144,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:26:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:26:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:26:43 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:26:43 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

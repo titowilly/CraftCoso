@@ -583,6 +583,7 @@
       "mauve_hills": "2025-02-23 21:56:41 +0000",
       "shrubland": "2025-02-24 18:09:38 +0000",
       "steppe": "2025-02-24 07:21:32 +0000",
+      "muddy_river": "2025-02-24 18:22:10 +0000",
       "willow_forest": "2025-02-24 05:30:52 +0000",
       "rocky_reef": "2025-02-23 21:23:20 +0000",
       "grassy_beach": "2025-02-23 21:03:31 +0000",
@@ -594,6 +595,7 @@
       "magnolia_highlands": "2025-02-23 22:47:22 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
       "deciduous_forest": "2025-02-23 21:59:28 +0000",
+      "boreal_forest": "2025-02-24 18:19:24 +0000",
       "chalk_cliffs": "2025-02-23 21:55:42 +0000",
       "infernal_holt": "2025-02-24 06:26:02 +0000",
       "bamboo_forest": "2025-02-23 21:52:11 +0000",
@@ -603,6 +605,7 @@
       "baobab_savanna": "2025-02-24 07:20:38 +0000",
       "grassland": "2025-02-23 21:48:07 +0000",
       "prairie": "2025-02-23 21:59:10 +0000",
+      "gravel_beach": "2025-02-24 18:19:16 +0000",
       "redwoods": "2025-02-23 06:12:56 +0000",
       "rainforest": "2025-02-23 21:31:54 +0000",
       "lupine_plains": "2025-02-24 05:16:02 +0000"
@@ -614,6 +617,7 @@
       "mauve_hills": "2025-02-23 21:56:41 +0000",
       "shrubland": "2025-02-24 18:09:38 +0000",
       "steppe": "2025-02-24 07:21:32 +0000",
+      "muddy_river": "2025-02-24 18:22:10 +0000",
       "willow_forest": "2025-02-24 05:30:52 +0000",
       "rocky_reef": "2025-02-23 21:23:20 +0000",
       "grassy_beach": "2025-02-23 21:03:31 +0000",
@@ -624,6 +628,7 @@
       "magnolia_highlands": "2025-02-23 22:47:22 +0000",
       "outback": "2025-02-23 21:23:16 +0000",
       "deciduous_forest": "2025-02-23 21:59:28 +0000",
+      "boreal_forest": "2025-02-24 18:19:24 +0000",
       "chalk_cliffs": "2025-02-23 21:55:42 +0000",
       "bamboo_forest": "2025-02-23 21:52:11 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
@@ -632,6 +637,7 @@
       "baobab_savanna": "2025-02-24 07:20:38 +0000",
       "grassland": "2025-02-23 21:48:07 +0000",
       "prairie": "2025-02-23 21:59:10 +0000",
+      "gravel_beach": "2025-02-24 18:19:16 +0000",
       "redwoods": "2025-02-23 06:12:56 +0000",
       "rainforest": "2025-02-23 21:31:54 +0000",
       "lupine_plains": "2025-02-24 05:16:02 +0000"
@@ -646,6 +652,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-24 18:22:34 +0000",
+      "minecraft:taiga": "2025-02-24 18:23:09 +0000",
       "minecraft:deep_ocean": "2025-02-24 18:01:08 +0000",
       "minecraft:wooded_badlands": "2025-02-23 21:30:09 +0000",
       "minecraft:badlands": "2025-02-23 21:47:09 +0000",
@@ -655,6 +663,8 @@
       "minecraft:lukewarm_ocean": "2025-02-23 21:22:33 +0000",
       "minecraft:river": "2025-02-23 21:55:21 +0000",
       "minecraft:stony_shore": "2025-02-23 21:58:28 +0000",
+      "minecraft:cold_ocean": "2025-02-24 18:15:38 +0000",
+      "minecraft:forest": "2025-02-24 18:16:42 +0000",
       "minecraft:desert": "2025-02-23 21:26:10 +0000",
       "minecraft:ocean": "2025-02-24 17:58:28 +0000",
       "minecraft:warm_ocean": "2025-02-23 22:42:19 +0000",
@@ -12420,6 +12430,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/large_graveyard": {
+    "criteria": {
+      "large_graveyard": "2025-02-24 18:17:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/grinder": {
     "criteria": {
       "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
@@ -12453,6 +12469,12 @@
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2025-02-24 18:10:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_snow_block": "2025-02-24 18:24:20 +0000"
     },
     "done": true
   },
@@ -12522,6 +12544,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:22:57 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location0": "2025-02-24 18:07:10 +0000"
@@ -12570,6 +12598,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:22:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:milk": "2025-02-24 17:59:47 +0000"
@@ -12585,6 +12619,12 @@
   "techreborn:recipes/extractor/gunpowder_from_tnt": {
     "criteria": {
       "has_tnt": "2025-02-24 18:08:15 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/packed_snow_block": {
+    "criteria": {
+      "has_snow_block": "2025-02-24 18:24:20 +0000"
     },
     "done": true
   },
@@ -12624,6 +12664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:22:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
     "criteria": {
       "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
@@ -12639,6 +12685,12 @@
   "techreborn:recipes/chemical_reactor/ender_eye": {
     "criteria": {
       "has_ender_pearl": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-24 18:17:38 +0000"
     },
     "done": true
   },
@@ -12671,6 +12723,12 @@
       "has_item": "2025-02-24 18:10:47 +0000"
     },
     "done": true
+  },
+  "promenade:recipes/crafting/vanilla_snowy_leaves/spruce": {
+    "criteria": {
+      "has_snowball": "2025-02-24 18:22:57 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_doors": {
     "criteria": {
