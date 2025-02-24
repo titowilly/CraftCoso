@@ -3705,3 +3705,55 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [20:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [20:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [20:13:14] [Server thread/INFO]: [STDERR]: Spell Engine: Trying to perform spell wizards:frostbolt Entity not found: 113374
+[20:14:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[20:14:53] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[20:15:09] [Server thread/INFO]: Brick_123 has made the advancement [Eterna, Quanta, Arcana]
+[20:15:31] [Server thread/INFO]: [Handshake] Sending channel query
+[20:15:32] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[20:15:32] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[20:15:32] [Server thread/INFO]: Nikuus[/127.61.205.57:38545] logged in with entity id 114802 at (205.42005812019804, 63.0, 96.584776811962)
+[20:15:32] [Server thread/INFO]: Sending server config values to client
+[20:15:32] [Server thread/INFO]: Syncing config to Nikuus (c7fc22c3-b593-320c-967c-7847d379b8a6)
+[20:15:32] [Server thread/INFO]: Loading config from file...
+[20:15:32] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:15:32] [Server thread/INFO]: Nikuus joined the game
+[20:15:32] [Server thread/INFO]: Loading Configs for Sortilege
+[20:15:32] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:15:32] [Server thread/INFO]: Updating all forceload tickets for c7fc22c3-b593-320c-967c-7847d379b8a6
+[20:15:32] [Server thread/INFO]: PLAYER_JOIN
+[20:15:32] [Server thread/INFO]: add_player wand
+[20:15:32] [Server thread/INFO]: config sent
+[20:15:37] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[20:15:39] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Nikuus -> Global
+[20:15:39] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Nikuus. Claiming: GRAVE / Robbing: INVENTORY
+[20:16:02] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[20:16:20] [Server thread/INFO]: INTENCITIES lost connection: Disconnected
+[20:16:20] [Server thread/INFO]: INTENCITIES left the game
+[20:16:20] [Server thread/INFO]: remove player wand
+[20:16:20] [Server thread/INFO]: Updating all forceload tickets for 6847681d-2df8-39cc-9167-7215984360b5
+[20:16:21] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[20:16:39] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[20:16:43] [Server thread/INFO]: <Nikuus> s
+[20:17:08] [Server thread/INFO]: <Nikuus> d
+[20:17:31] [Server thread/INFO]: <Nikuus> s
+[20:19:12] [Server thread/INFO]: <Nikuus> s
+[20:19:22] [Server thread/INFO]: <Nikuus> s
+[20:19:24] [Server thread/INFO]: <Nikuus> s
+[20:20:08] [Server thread/INFO]: <Nikuus> .
+[20:20:31] [Server thread/INFO]: Nikuus was slain by Zombie
+[20:20:39] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[20:21:13] [Server thread/INFO]: Nikuus was slain by Zombie
+[20:21:13] [Server thread/INFO]: Did not backup data (grave data empty)
+[20:21:27] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Nikuus accepted server config.
+[20:22:32] [Server thread/INFO]: <Nikuus> s
+[20:23:08] [Server thread/INFO]: <Nikuus> s
+[20:23:25] [Server thread/INFO]: Setback has made the advancement [A room with a view!]
+[20:23:25] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[20:23:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4496ms or 89 ticks behind
+[20:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[20:24:15] [Server thread/INFO]: <Nikuus> s
+[20:24:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[20:24:36] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of Setback accepted server config.
+[20:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4379ms or 87 ticks behind
+[20:24:39] [Server thread/INFO]: <Brick_123> a
+[20:24:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2633ms or 52 ticks behind
