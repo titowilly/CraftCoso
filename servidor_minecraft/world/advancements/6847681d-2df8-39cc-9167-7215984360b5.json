@@ -3303,6 +3303,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-02-23 21:20:39 +0000",
+      "cookie": "2025-02-24 18:39:11 +0000",
       "melon_slice": "2025-02-23 21:13:09 +0000"
     },
     "done": false
@@ -12771,6 +12772,12 @@
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-24 18:20:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-02-24 18:46:10 +0000"
     },
     "done": true
   },

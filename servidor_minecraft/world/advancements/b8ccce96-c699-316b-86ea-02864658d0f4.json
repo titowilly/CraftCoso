@@ -16035,9 +16035,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/building_blocks/salt_block": {
+    "criteria": {
+      "has_item": "2025-02-24 18:44:24 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/plate_armor_chestplate": {
     "criteria": {
       "has_iron_plate": "2025-02-24 18:30:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-24 18:40:00 +0000"
     },
     "done": true
   },
@@ -16050,6 +16062,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-02-24 18:23:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-24 18:40:16 +0000"
     },
     "done": true
   },
@@ -16086,6 +16104,18 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-02-24 18:23:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-24 18:40:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-24 18:40:16 +0000"
     },
     "done": true
   },
