@@ -581,6 +581,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-02-23 21:56:41 +0000",
+      "shrubland": "2025-02-24 18:09:38 +0000",
       "steppe": "2025-02-24 07:21:32 +0000",
       "willow_forest": "2025-02-24 05:30:52 +0000",
       "rocky_reef": "2025-02-23 21:23:20 +0000",
@@ -597,6 +598,7 @@
       "infernal_holt": "2025-02-24 06:26:02 +0000",
       "bamboo_forest": "2025-02-23 21:52:11 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
+      "temperate_grove": "2025-02-24 18:11:41 +0000",
       "pine_slopes": "2025-02-23 23:07:56 +0000",
       "baobab_savanna": "2025-02-24 07:20:38 +0000",
       "grassland": "2025-02-23 21:48:07 +0000",
@@ -610,6 +612,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-02-23 21:56:41 +0000",
+      "shrubland": "2025-02-24 18:09:38 +0000",
       "steppe": "2025-02-24 07:21:32 +0000",
       "willow_forest": "2025-02-24 05:30:52 +0000",
       "rocky_reef": "2025-02-23 21:23:20 +0000",
@@ -624,6 +627,7 @@
       "chalk_cliffs": "2025-02-23 21:55:42 +0000",
       "bamboo_forest": "2025-02-23 21:52:11 +0000",
       "saguaro_desert": "2025-02-23 21:23:38 +0000",
+      "temperate_grove": "2025-02-24 18:11:41 +0000",
       "pine_slopes": "2025-02-23 23:07:56 +0000",
       "baobab_savanna": "2025-02-24 07:20:38 +0000",
       "grassland": "2025-02-23 21:48:07 +0000",
@@ -707,6 +711,7 @@
       "minecraft:wither_skeleton": "2025-02-24 06:50:27 +0000",
       "minecraft:husk": "2025-02-23 21:24:32 +0000",
       "minecraft:piglin": "2025-02-24 06:40:48 +0000",
+      "minecraft:enderman": "2025-02-24 18:10:37 +0000",
       "minecraft:zombie": "2025-02-23 21:00:56 +0000",
       "minecraft:drowned": "2025-02-24 05:23:15 +0000"
     },
@@ -12415,9 +12420,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/grinder": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/doughnut": {
     "criteria": {
       "has_milk": "2025-02-24 17:59:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-02-24 18:10:49 +0000"
     },
     "done": true
   },
@@ -12439,15 +12474,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/compressor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 17:59:47 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/canning_machine": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 17:59:47 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-24 18:10:47 +0000"
     },
     "done": true
   },
@@ -12463,9 +12522,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-02-24 18:07:10 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/oatmeal": {
     "criteria": {
       "has_milk": "2025-02-24 17:59:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/extractor": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
     },
     "done": true
   },
@@ -12475,9 +12552,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_doors": {
     "criteria": {
       "has_tag_minecraft_wooden_doors": "2025-02-24 17:59:36 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-02-24 18:10:47 +0000"
     },
     "done": true
   },
@@ -12493,6 +12582,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/gunpowder_from_tnt": {
+    "criteria": {
+      "has_tnt": "2025-02-24 18:08:15 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/butter": {
     "criteria": {
       "has_milk": "2025-02-24 17:59:47 +0000"
@@ -12502,6 +12597,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-02-24 18:05:40 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-02-24 18:10:47 +0000"
     },
     "done": true
   },
@@ -12517,9 +12618,57 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_frame": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/advanced_solar_panel_alt": {
+    "criteria": {
+      "has_basic_machine_frame": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-02-24 18:10:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-02-24 17:59:47 +0000"
+    },
+    "done": true
+  },
+  "techreborn:machineblock": {
+    "criteria": {
+      "crit_0": "2025-02-24 18:14:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-24 18:10:47 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-02-24 18:10:47 +0000"
     },
     "done": true
   },
