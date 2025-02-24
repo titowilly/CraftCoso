@@ -580,6 +580,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-02-24 18:05:20 +0000",
       "pine_taiga": "2025-02-24 04:44:40 +0000",
       "ancient_delta": "2025-02-24 04:34:17 +0000",
       "willow_forest": "2025-02-23 23:43:18 +0000",
@@ -594,6 +595,7 @@
       "infernal_holt": "2025-02-24 05:47:10 +0000",
       "bamboo_forest": "2025-02-24 02:55:52 +0000",
       "saguaro_desert": "2025-02-23 21:24:03 +0000",
+      "temperate_grove": "2025-02-24 18:04:47 +0000",
       "grassland": "2025-02-23 23:34:32 +0000",
       "redwoods": "2025-02-23 20:58:21 +0000",
       "bioshroom_caves": "2025-02-24 04:34:12 +0000",
@@ -603,6 +605,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-02-24 18:05:20 +0000",
       "pine_taiga": "2025-02-24 04:44:40 +0000",
       "willow_forest": "2025-02-23 23:43:18 +0000",
       "rocky_reef": "2025-02-23 21:23:51 +0000",
@@ -614,6 +617,7 @@
       "boreal_forest": "2025-02-24 06:46:59 +0000",
       "bamboo_forest": "2025-02-24 02:55:52 +0000",
       "saguaro_desert": "2025-02-23 21:24:03 +0000",
+      "temperate_grove": "2025-02-24 18:04:47 +0000",
       "grassland": "2025-02-23 23:34:32 +0000",
       "redwoods": "2025-02-23 20:58:21 +0000",
       "lupine_plains": "2025-02-23 23:42:01 +0000"
@@ -15480,33 +15484,123 @@
     },
     "done": true
   },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-02-24 06:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diorite_pedestal": {
+    "criteria": {
+      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:classes": {
+    "criteria": {
+      "book": "2025-02-24 06:27:27 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_archer": {
+    "criteria": {
+      "book": "2025-02-24 06:27:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_house": {
+    "criteria": {
+      "location0": "2025-02-24 06:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-24 06:35:49 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/middle_bone_staff": {
+    "criteria": {
+      "middle_bone_staff": "2025-02-24 06:35:57 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/patterned_carpet": {
+    "criteria": {
+      "has_patterned_wool": "2025-02-24 06:39:01 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2025-02-24 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2025-02-24 06:39:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-24 06:40:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-24 06:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-02-24 06:40:11 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/dandelion": {
+    "criteria": {
+      "has_flower": "2025-02-24 06:40:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-02-24 06:40:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 06:41:36 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/stonecutting/blunite/stairs": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/stonecutting/blunite/wall": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/blossom_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-02-24 06:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2025-02-24 06:55:32 +0000"
     },
     "done": true
   },
@@ -15522,87 +15616,9 @@
     },
     "done": true
   },
-  "rpg_series:obtain_wizard_robes": {
-    "criteria": {
-      "wizard_robes": "2025-02-24 06:18:01 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-02-24 06:49:06 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/stonecutting/blunite/polished_slab": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-02-24 06:56:54 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/blunite/stairs": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/middle_bone_staff": {
-    "criteria": {
-      "middle_bone_staff": "2025-02-24 06:35:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/wine_bottle": {
-    "criteria": {
-      "has_glass_bottle": "2025-02-24 07:02:07 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/blunite/slab": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_archer": {
-    "criteria": {
-      "book": "2025-02-24 06:27:47 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/glass_bottle_from_potion": {
-    "criteria": {
-      "has_potion": "2025-02-24 06:55:33 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_brown_mushroom": "2025-02-24 06:41:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-02-24 06:51:57 +0000"
     },
     "done": true
   },
@@ -15612,21 +15628,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/red_mushroom": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-24 06:59:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_brown_mushroom": "2025-02-24 06:41:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
-    "criteria": {
-      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
     },
     "done": true
   },
@@ -15636,99 +15640,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-02-24 06:40:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/berry_jam_jar": {
-    "criteria": {
-      "has_berry_jam_jar": "2025-02-24 06:55:14 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/blunite/polished_block": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/tools/taglock": {
-    "criteria": {
-      "has_item": "2025-02-24 07:02:07 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/medium_graveyard": {
-    "criteria": {
-      "medium_graveyard": "2025-02-24 06:59:02 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/wall_red_brown": {
-    "criteria": {
-      "has_red_mushroom": "2025-02-24 06:59:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-02-24 06:41:36 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
-    "criteria": {
-      "has_rail": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-02-24 06:55:33 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/red_dye_from_sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
-    "criteria": {
-      "has_glass_bottle": "2025-02-24 07:02:07 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/blunite/wall": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin_seed": "2025-02-24 06:49:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-24 06:35:49 +0000"
     },
     "done": true
   },
@@ -15765,72 +15679,6 @@
   "botania:recipes/decorations/mushroom_13": {
     "criteria": {
       "has_alt_item": "2025-02-24 06:41:36 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-02-24 06:40:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/stonecutting/blunite/polished_stairs": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-02-24 06:40:11 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/sweet_berry_jelly_potion": {
-    "criteria": {
-      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_beer_hops": {
-    "criteria": {
-      "beer_hops": "2025-02-24 06:39:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
-    "criteria": {
-      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2025-02-24 06:56:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/sweet_berries": {
-    "criteria": {
-      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
-    },
-    "done": true
-  },
-  "brewery:main/get_beer_barley": {
-    "criteria": {
-      "beer_barley": "2025-02-24 06:39:05 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/stonecutting/blunite/polished_block": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
     },
     "done": true
   },
@@ -15894,51 +15742,9 @@
     },
     "done": true
   },
-  "endrem:main/lost_eye": {
+  "techreborn:recipes/centrifuge/brown_mushroom": {
     "criteria": {
-      "lost_eye": "2025-02-24 06:49:20 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/dandelion": {
-    "criteria": {
-      "has_flower": "2025-02-24 06:40:11 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/transportation/ghost_rail": {
-    "criteria": {
-      "has_item": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/patterned_carpet": {
-    "criteria": {
-      "has_patterned_wool": "2025-02-24 06:39:01 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_mushroom_house": {
-    "criteria": {
-      "location0": "2025-02-24 06:34:15 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/stonecutting/blunite/slab": {
-    "criteria": {
-      "has_blunite": "2025-02-24 06:51:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab": {
-    "criteria": {
-      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:classes": {
-    "criteria": {
-      "book": "2025-02-24 06:27:27 +0000"
+      "has_brown_mushroom": "2025-02-24 06:41:36 +0000"
     },
     "done": true
   },
@@ -15948,27 +15754,267 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-24 06:49:06 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-24 06:49:20 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "lost_eye": "2025-02-24 06:49:20 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/diorite_pedestal": {
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
     "criteria": {
-      "has_polished_diorite": "2025-02-24 06:26:31 +0000"
+      "has_pumpkin_seed": "2025-02-24 06:49:48 +0000"
     },
     "done": true
   },
-  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+  "promenade:recipes/stonecutting/blunite/stairs": {
     "criteria": {
-      "has_item": "2025-02-24 06:40:11 +0000"
+      "has_blunite": "2025-02-24 06:51:57 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/brown_mushroom": {
+  "promenade:recipes/stonecutting/blunite/wall": {
     "criteria": {
-      "has_brown_mushroom": "2025-02-24 06:41:36 +0000"
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-02-24 06:51:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-02-24 06:55:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-24 06:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-24 06:55:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-24 06:55:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-02-24 06:55:33 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-02-24 06:55:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-02-24 06:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-24 06:56:54 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2025-02-24 06:59:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-24 06:59:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-24 06:59:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-24 07:02:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/taglock": {
+    "criteria": {
+      "has_item": "2025-02-24 07:02:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/brewer_pottery_sherd": {
+    "criteria": {
+      "has_glass_bottle": "2025-02-24 07:02:07 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_frost": {
+    "criteria": {
+      "book": "2025-02-24 17:55:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 18:06:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-24 18:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-24 18:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 18:06:54 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:spell_novice_frost": {
+    "criteria": {
+      "bind": "2025-02-24 17:56:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-02-24 18:06:54 +0000"
     },
     "done": true
   },
