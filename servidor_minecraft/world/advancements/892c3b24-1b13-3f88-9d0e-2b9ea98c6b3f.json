@@ -13972,6 +13972,12 @@
     },
     "done": true
   },
+  "minecells:book/mobs/buzzcutter": {
+    "criteria": {
+      "requirement": "2025-02-24 20:30:23 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
       "has_glass": "2025-02-24 20:14:34 +0000"
@@ -14041,6 +14047,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 20:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecells:ramparts": {
+    "criteria": {
+      "requirement": "2025-02-24 20:23:25 +0000"
     },
     "done": true
   },

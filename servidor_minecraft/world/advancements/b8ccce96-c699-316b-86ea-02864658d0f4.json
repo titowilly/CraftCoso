@@ -16047,6 +16047,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/archers_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-24 20:30:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/drain": {
     "criteria": {
       "has_hopper": "2025-02-24 19:31:45 +0000"
@@ -16068,6 +16074,12 @@
   "botania:recipes/decorations/prism": {
     "criteria": {
       "has_item": "2025-02-24 18:25:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-24 20:30:33 +0000"
     },
     "done": true
   },
@@ -16302,6 +16314,12 @@
   "zenith:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-02-24 20:15:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_helmet": {
+    "criteria": {
+      "has_leather_helmet": "2025-02-24 20:30:33 +0000"
     },
     "done": true
   },

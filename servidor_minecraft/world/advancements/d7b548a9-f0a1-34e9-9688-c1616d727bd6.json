@@ -15217,6 +15217,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+    "criteria": {
+      "has_ink_sac": "2025-02-24 20:31:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-02-24 18:42:41 +0000"
@@ -15481,6 +15487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 20:29:11 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-24 19:28:40 +0000"
@@ -15571,6 +15583,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 20:31:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-24 19:17:08 +0000"
@@ -15628,6 +15646,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
     "criteria": {
       "has_yellow_garnet_gem": "2025-02-24 19:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-24 20:29:09 +0000"
     },
     "done": true
   },
@@ -15781,6 +15805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 20:29:11 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
     "criteria": {
       "has_item": "2025-02-24 19:00:22 +0000"
@@ -15835,6 +15865,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-02-24 20:31:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-24 19:28:40 +0000"
@@ -15844,6 +15880,12 @@
   "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-24 19:28:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 20:29:11 +0000"
     },
     "done": true
   },
@@ -16441,6 +16483,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 20:29:11 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/double_axes/double_axe_double": {
     "criteria": {
       "has_iron_block": "2025-02-24 19:27:39 +0000"
@@ -16675,6 +16723,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 20:31:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2025-02-24 18:48:45 +0000"
@@ -16798,6 +16852,12 @@
   "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-24 19:17:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 20:31:04 +0000"
     },
     "done": true
   },
@@ -16966,6 +17026,12 @@
   "copycats:recipes/misc/stonecutting/copycat_fence": {
     "criteria": {
       "has_item": "2025-02-24 19:00:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-24 20:31:04 +0000"
     },
     "done": true
   },
@@ -17929,6 +17995,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-02-24 20:31:16 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/diamond_saw_blade": {
     "criteria": {
       "has_steel_ingot": "2025-02-24 18:41:17 +0000"
@@ -18145,6 +18217,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 20:31:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-02-24 19:00:53 +0000"
@@ -18208,6 +18286,12 @@
   "mcda:recipes/base_armors/soul_robe_chestplate": {
     "criteria": {
       "has_soul_sand": "2025-02-24 18:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-02-24 20:31:04 +0000"
     },
     "done": true
   },
@@ -18379,9 +18463,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-24 20:31:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-02-24 19:18:18 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-24 20:30:02 +0000"
     },
     "done": true
   },
@@ -18436,6 +18532,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/sapphire_storage_block": {
     "criteria": {
       "has_sapphire_gem": "2025-02-24 18:48:45 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-02-24 20:29:11 +0000"
     },
     "done": true
   },
@@ -18610,6 +18712,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-24 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-24 20:29:11 +0000"
     },
     "done": true
   },
