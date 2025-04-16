@@ -336,6 +336,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:23:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-04-16 19:04:04 +0000"
@@ -817,6 +823,12 @@
     },
     "done": true
   },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-04-16 19:22:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-16 18:57:33 +0000"
@@ -970,6 +982,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 19:15:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-04-16 19:23:03 +0000"
     },
     "done": true
   },
@@ -1937,6 +1955,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:23:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 18:46:19 +0000"
@@ -2537,6 +2561,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-16 19:22:52 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-16 18:57:33 +0000"
@@ -2606,6 +2636,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-16 18:51:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:23:03 +0000"
     },
     "done": true
   },
@@ -2871,6 +2907,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-16 18:50:15 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-04-16 19:22:52 +0000"
     },
     "done": true
   },
@@ -3384,6 +3426,12 @@
   "betterend:recipes/decorations/lacugrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 18:46:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:23:03 +0000"
     },
     "done": true
   },
@@ -4217,6 +4265,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-04-16 19:23:01 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/simons_bowblade": {
     "criteria": {
       "has_item": "2025-04-16 19:15:48 +0000"
@@ -4824,6 +4878,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 19:26:08 +0000"
+    },
+    "done": false
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-04-16 18:46:21 +0000"
@@ -5245,6 +5305,12 @@
     },
     "done": true
   },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-04-16 19:23:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-04-16 18:46:21 +0000"
@@ -5287,6 +5353,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/golden_apple": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:23:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/cage": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 19:15:48 +0000"
@@ -5313,7 +5385,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:wither_skeleton": "2025-04-16 19:02:51 +0000"
+      "minecraft:skeleton": "2025-04-16 19:30:07 +0000",
+      "minecraft:wither_skeleton": "2025-04-16 19:02:51 +0000",
+      "minecraft:zombie": "2025-04-16 19:27:22 +0000"
     },
     "done": false
   },
@@ -5675,6 +5749,12 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 19:26:08 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-16 18:44:50 +0000"
@@ -5684,6 +5764,12 @@
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2025-04-16 18:46:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-16 19:22:52 +0000"
     },
     "done": true
   },
@@ -5732,6 +5818,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-04-16 18:55:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/apple": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:23:03 +0000"
     },
     "done": true
   },
@@ -5942,6 +6034,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-04-16 18:46:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 19:22:52 +0000"
     },
     "done": true
   },
@@ -6552,6 +6650,12 @@
   "betterend:recipes/misc/diamond_hammer": {
     "criteria": {
       "has_stick": "2025-04-16 18:46:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:23:03 +0000"
     },
     "done": true
   },

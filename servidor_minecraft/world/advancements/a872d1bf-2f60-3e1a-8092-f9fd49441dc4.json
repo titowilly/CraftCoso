@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_tin_storage_block": {
+    "criteria": {
+      "has_raw_tin": "2025-04-16 19:20:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-16 19:11:01 +0000"
@@ -315,6 +321,12 @@
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 18:58:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:29:24 +0000"
     },
     "done": true
   },
@@ -586,6 +598,12 @@
   "betternether:recipes/decorations/nether_sakura_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 19:04:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-04-16 19:20:23 +0000"
     },
     "done": true
   },
@@ -928,6 +946,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_white": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 19:16:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2025-04-16 19:29:24 +0000"
     },
     "done": true
   },
@@ -1793,6 +1817,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:29:24 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 19:04:40 +0000"
@@ -2429,6 +2459,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:29:24 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
       "has_fur_armor": "2025-04-16 18:53:32 +0000"
@@ -2510,6 +2546,12 @@
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2025-04-16 19:04:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-04-16 19:23:28 +0000"
     },
     "done": true
   },
@@ -2766,6 +2808,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-04-16 19:23:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 19:04:40 +0000"
@@ -2931,6 +2979,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-04-16 18:53:33 +0000",
+      "minecraft:dripstone_caves": "2025-04-16 19:30:05 +0000",
       "minecraft:cold_ocean": "2025-04-16 18:54:37 +0000",
       "minecraft:forest": "2025-04-16 19:13:31 +0000",
       "minecraft:plains": "2025-04-16 19:10:10 +0000"
@@ -3006,6 +3055,12 @@
   "mcda:recipes/base_armors/thief_armor_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 19:16:22 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-16 19:23:28 +0000"
     },
     "done": true
   },
@@ -3132,6 +3187,12 @@
   "betterend:recipes/decorations/lacugrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 19:04:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:29:24 +0000"
     },
     "done": true
   },
@@ -3351,6 +3412,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-16 19:20:30 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/mystery_armor_white_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 19:16:22 +0000"
@@ -3378,6 +3445,12 @@
   "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
     "criteria": {
       "has_experience_bottle": "2025-04-16 18:56:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_tin": {
+    "criteria": {
+      "has_raw_tin_ores": "2025-04-16 19:20:23 +0000"
     },
     "done": true
   },
@@ -3414,6 +3487,12 @@
   "betternether:recipes/decorations/birch_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 19:04:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2025-04-16 19:23:28 +0000"
     },
     "done": true
   },
@@ -3887,6 +3966,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-16 19:20:30 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/simons_bowblade": {
     "criteria": {
       "has_item": "2025-04-16 19:16:22 +0000"
@@ -4010,6 +4095,12 @@
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-04-16 19:11:01 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-04-16 19:23:28 +0000"
     },
     "done": true
   },
@@ -4416,6 +4507,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 19:23:38 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-04-16 18:54:45 +0000"
@@ -4536,6 +4633,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-04-16 19:20:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_soul_sand": "2025-04-16 19:19:17 +0000"
@@ -4575,6 +4678,12 @@
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-16 19:11:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-16 19:23:28 +0000"
     },
     "done": true
   },
@@ -4777,6 +4886,12 @@
     },
     "done": true
   },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2025-04-16 19:29:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lock_block": {
     "criteria": {
       "minecraft:planks": "2025-04-16 19:04:00 +0000"
@@ -4822,6 +4937,12 @@
   "mcdw:recipes/bows/bow_wind_bow": {
     "criteria": {
       "has_iron_ingot": "2025-04-16 19:16:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_apple": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:29:24 +0000"
     },
     "done": true
   },
@@ -4896,6 +5017,12 @@
   "seasonsextras:recipes/season_detector": {
     "criteria": {
       "has_detector": "2025-04-16 18:53:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-16 19:23:28 +0000"
     },
     "done": true
   },
@@ -5130,6 +5257,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/tin_ingot_from_c_raw_tin_ores": {
+    "criteria": {
+      "has_tag_c_raw_tin_ores": "2025-04-16 19:20:23 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/transportation/tag_minecart": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-04-16 19:16:22 +0000"
@@ -5163,6 +5296,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-04-16 19:03:53 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 19:23:38 +0000"
     },
     "done": true
   },
@@ -5217,6 +5356,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-04-16 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/apple": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:29:24 +0000"
     },
     "done": true
   },
@@ -5620,6 +5765,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-04-16 19:23:28 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-16 18:53:32 +0000"
@@ -5755,6 +5906,12 @@
   "betterend:recipes/decorations/pythadendron_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-16 19:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 19:23:28 +0000"
     },
     "done": true
   },
@@ -5917,6 +6074,12 @@
   "betterend:recipes/misc/diamond_hammer": {
     "criteria": {
       "has_diamond": "2025-04-16 18:54:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2025-04-16 19:29:24 +0000"
     },
     "done": true
   },

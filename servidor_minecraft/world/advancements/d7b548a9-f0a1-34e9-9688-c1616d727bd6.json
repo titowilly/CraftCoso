@@ -282,6 +282,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-04-16 19:25:06 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/rail": {
     "criteria": {
       "has_stick": "2025-04-16 18:45:05 +0000"
@@ -291,6 +297,12 @@
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_saplings": {
+    "criteria": {
+      "has_sapling": "2025-04-16 19:23:39 +0000"
     },
     "done": true
   },
@@ -733,6 +745,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-04-16 19:23:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-04-16 18:43:51 +0000"
@@ -871,6 +889,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2025-04-16 19:21:08 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_pink_scoundrel": {
     "criteria": {
       "has_string": "2025-04-16 19:16:54 +0000"
@@ -892,6 +916,12 @@
   "mcdw:recipes/shields/shield_vanguard": {
     "criteria": {
       "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-16 19:20:30 +0000"
     },
     "done": true
   },
@@ -940,6 +970,12 @@
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-04-16 19:14:04 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-16 19:23:39 +0000"
     },
     "done": true
   },
@@ -1087,6 +1123,12 @@
     },
     "done": true
   },
+  "beachparty:palm_tall_torch": {
+    "criteria": {
+      "has_coal": "2025-04-16 19:21:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-04-16 18:43:51 +0000"
@@ -1221,7 +1263,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "maple_forest": "2025-04-16 19:16:35 +0000"
+      "rocky_meadow": "2025-04-16 19:23:57 +0000",
+      "maple_forest": "2025-04-16 19:16:35 +0000",
+      "magnolia_highlands": "2025-04-16 19:23:23 +0000"
     },
     "done": false
   },
@@ -1397,7 +1441,9 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "maple_forest": "2025-04-16 19:16:35 +0000"
+      "rocky_meadow": "2025-04-16 19:23:57 +0000",
+      "maple_forest": "2025-04-16 19:16:35 +0000",
+      "magnolia_highlands": "2025-04-16 19:23:23 +0000"
     },
     "done": false
   },
@@ -1711,6 +1757,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magnolia_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 19:23:37 +0000"
     },
     "done": true
   },
@@ -2476,6 +2528,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/white_magnolia_shrub": {
+    "criteria": {
+      "has_white_magnolia_sapling": "2025-04-16 19:23:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/aqua_affinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-16 18:53:40 +0000"
@@ -2497,6 +2555,12 @@
   "betterend:recipes/misc/fire_aspect_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-16 18:53:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-04-16 19:25:06 +0000"
     },
     "done": true
   },
@@ -2777,9 +2841,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-04-16 19:21:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_sign": {
     "criteria": {
       "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-04-16 19:21:01 +0000"
     },
     "done": true
   },
@@ -3023,6 +3099,12 @@
     },
     "done": true
   },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2025-04-16 19:23:39 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-04-16 18:45:05 +0000"
@@ -3077,6 +3159,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2025-04-16 19:21:08 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/smite_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-16 18:53:40 +0000"
@@ -3117,6 +3205,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/magnolia_branch_from_magnolia_log": {
+    "criteria": {
+      "has_log": "2025-04-16 19:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-16 18:46:42 +0000"
@@ -3126,6 +3220,12 @@
   "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
     "criteria": {
       "has_book": "2025-04-16 18:53:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pink_magnolia_shrub": {
+    "criteria": {
+      "has_pink_magnolia_sapling": "2025-04-16 19:23:45 +0000"
     },
     "done": true
   },
@@ -3531,6 +3631,12 @@
     },
     "done": true
   },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-04-16 19:25:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-04-16 18:51:44 +0000"
@@ -3903,6 +4009,12 @@
       "has_gold_ingot": "2025-04-16 18:57:33 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2025-04-16 19:23:37 +0000"
+    },
+    "done": false
   },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
@@ -4450,6 +4562,12 @@
     },
     "done": true
   },
+  "seasonsextras:recipes/seasonal_compendium": {
+    "criteria": {
+      "has_sapling": "2025-04-16 19:23:39 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 18:45:05 +0000"
@@ -4592,6 +4710,12 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/compressed_plantball": {
+    "criteria": {
+      "has_plantball_material": "2025-04-16 19:23:39 +0000"
     },
     "done": true
   },
@@ -5321,6 +5445,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/dirt": {
+    "criteria": {
+      "has_dirt": "2025-04-16 19:25:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-16 19:03:17 +0000"
@@ -5829,6 +5959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-16 19:21:46 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_shadow_crossbow": {
     "criteria": {
       "has_diamond": "2025-04-16 18:53:40 +0000"
@@ -6012,6 +6148,12 @@
   "comforts:hammock_cyan": {
     "criteria": {
       "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-04-16 19:24:15 +0000"
     },
     "done": true
   },

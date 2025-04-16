@@ -1,0 +1,17 @@
+{
+	id: "16f2344a-9d8e-35c6-ba48-2051da3b1194"
+	type: "player"
+	player_name: "micuchurrumii"
+	ranks: {
+		16f2344a-9d8e-35c6-ba48-2051da3b1194: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "micuchurrumii"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFD5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
