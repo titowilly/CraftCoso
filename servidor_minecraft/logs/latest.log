@@ -3547,3 +3547,70 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:37:35] [Server thread/INFO]: micuchurrumii has made the advancement [Super Creeps]
 [19:37:43] [Netty Epoll Server IO #7/INFO]: Receiving client config
 [19:37:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16935ms or 338 ticks behind
+[19:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18790ms or 375 ticks behind
+[19:38:38] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: micuchurrumii -> Global
+[19:38:38] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player micuchurrumii. Claiming: GRAVE / Robbing: INVENTORY
+[19:38:55] [Server thread/INFO]: micuchurrumii lost connection: Disconnected
+[19:38:55] [Server thread/INFO]: micuchurrumii left the game
+[19:38:55] [Server thread/INFO]: remove player wand
+[19:38:55] [Server thread/INFO]: Updating all forceload tickets for 16f2344a-9d8e-35c6-ba48-2051da3b1194
+[19:38:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21243ms or 424 ticks behind
+[19:39:03] [Server thread/INFO]: fandangolol has made the advancement [Wax Off]
+[19:39:11] [Server thread/INFO]: [Handshake] Sending channel query
+[19:39:11] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[19:39:11] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[19:39:11] [Server thread/INFO]: micuchurrumii[/127.153.245.69:60097] logged in with entity id 44898 at (9.5, 172.0, -9.5)
+[19:39:11] [Server thread/INFO]: Sending server config values to client
+[19:39:11] [Server thread/INFO]: Syncing config to micuchurrumii (16f2344a-9d8e-35c6-ba48-2051da3b1194)
+[19:39:11] [Server thread/INFO]: Loading config from file...
+[19:39:11] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:39:11] [Server thread/INFO]: micuchurrumii joined the game
+[19:39:11] [Server thread/INFO]: Loading Configs for Sortilege
+[19:39:11] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:39:11] [Server thread/INFO]: Updating all forceload tickets for 16f2344a-9d8e-35c6-ba48-2051da3b1194
+[19:39:11] [Server thread/INFO]: PLAYER_JOIN
+[19:39:11] [Server thread/INFO]: add_player wand
+[19:39:11] [Server thread/INFO]: config sent
+[19:39:13] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[19:39:14] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: micuchurrumii -> Global
+[19:39:14] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player micuchurrumii. Claiming: GRAVE / Robbing: INVENTORY
+[19:39:18] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of micuchurrumii accepted server config.
+[19:39:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19073ms or 381 ticks behind
+[19:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20917ms or 418 ticks behind
+[19:40:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25326ms or 506 ticks behind
+[19:41:03] [Server thread/INFO]: micuchurrumii lost connection: Disconnected
+[19:41:03] [Server thread/INFO]: micuchurrumii left the game
+[19:41:03] [Server thread/INFO]: remove player wand
+[19:41:03] [Server thread/INFO]: Updating all forceload tickets for 16f2344a-9d8e-35c6-ba48-2051da3b1194
+[19:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20572ms or 411 ticks behind
+[19:41:45] [Server thread/INFO]: Villager class_1646['Jessie'/30643, l='ServerLevel[world]', x=-1101.58, y=236.45, z=1164.33] died, message: 'Jessie tried to swim in lava'
+[19:41:45] [Server thread/INFO]: Named entity class_1646['Jessie'/30643, l='ServerLevel[world]', x=-1101.58, y=236.45, z=1164.33] died: Jessie tried to swim in lava
+[19:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20219ms or 404 ticks behind
+[19:42:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20906ms or 418 ticks behind
+[19:42:56] [Server thread/INFO]: No return portal found
+[19:42:56] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of motsar1234 accepted server config.
+[19:43:00] [Server thread/INFO]: motsar1234 has made the advancement [Nether Depths Upgrade]
+[19:43:00] [Server thread/INFO]: motsar1234 has made the advancement [Time for a Sweat]
+[19:43:00] [Server thread/INFO]: motsar1234 has made the advancement [We Need to Go Deeper]
+[19:43:07] [Server thread/INFO]: Cuak17 has made the advancement [Barrel Booty]
+[19:43:21] [Server thread/INFO]: motsar1234 lost connection: Disconnected
+[19:43:21] [Server thread/INFO]: motsar1234 left the game
+[19:43:21] [Server thread/INFO]: remove player wand
+[19:43:21] [Server thread/INFO]: Updating all forceload tickets for 9ab6fa83-a56b-321a-994d-f1ee84b9d70c
+[19:43:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34016ms or 680 ticks behind
+[19:43:40] [Server thread/INFO]: kimis342 has made the advancement [Barrel Booty]
+[19:43:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17778ms or 355 ticks behind
+[19:44:26] [Server thread/INFO]: fandangolol has made the advancement [Gravedigger]
+[19:44:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18850ms or 377 ticks behind
+[19:45:02] [Server thread/INFO]: Brick_123 has made the advancement [Tunnel Treasures]
+[19:45:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20156ms or 403 ticks behind
+[19:45:06] [Server thread/INFO]: Brick_123 has made the advancement [Amateur Archaeologist]
+[19:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21853ms or 437 ticks behind
+[19:46:05] [Server thread/INFO]: <fandangolol> encontre aldea
+[19:46:09] [Server thread/INFO]: <fandangolol> pero en un lugar de mierda
+[19:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21507ms or 430 ticks behind
+[19:46:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21654ms or 433 ticks behind
+[19:47:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20638ms or 412 ticks behind
+[19:47:38] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_mountain], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]] from pos class_2338{x=-1467, y=79, z=-1445}
+[19:47:53] [Server thread/INFO]: fandangolol has made the advancement [Close Quarters]
+[19:48:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19674ms or 393 ticks behind

@@ -848,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-16 19:32:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-16 19:02:36 +0000"
@@ -1557,6 +1563,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-16 19:37:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-04-16 19:15:33 +0000"
@@ -1686,6 +1698,12 @@
   "mcda:recipes/base_armors/evocation_robe_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 19:02:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/grim_armor_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-16 19:37:08 +0000"
     },
     "done": true
   },
@@ -2044,6 +2062,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-16 19:13:11 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-04-16 19:37:08 +0000"
     },
     "done": true
   },
@@ -3915,6 +3939,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 19:37:08 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2025-04-16 18:41:02 +0000"
@@ -4159,6 +4189,12 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-04-16 19:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 19:37:08 +0000"
     },
     "done": true
   },
@@ -4720,6 +4756,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-16 19:37:08 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/food/grilled_obsidianfish": {
     "criteria": {
       "has_obsidianfish": "2025-04-16 18:42:55 +0000"
@@ -5060,6 +5102,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-16 19:18:01 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-04-16 19:37:24 +0000"
     },
     "done": true
   },
@@ -5618,6 +5666,12 @@
   "regions_unexplored:recipes/transportation/mauve_boat": {
     "criteria": {
       "in_water": "2025-04-16 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-16 19:37:08 +0000"
     },
     "done": true
   },
