@@ -1,0 +1,17 @@
+{
+	id: "ab860775-731c-3064-8322-1632b3c310de"
+	type: "player"
+	player_name: "Cuak17"
+	ranks: {
+		ab860775-731c-3064-8322-1632b3c310de: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cuak17"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFBF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -250,11 +250,7 @@
 			]
 			icon: "supplementaries:slice_map"
 			id: "723951CD2A49AEB7"
-			rewards: [{
-				id: "130FE58DD2BBD7D8"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
+			size: 0.75d
 			subtitle: "Click me and read my description!"
 			tasks: [{
 				id: "1BC73062E2DC9CB8"
@@ -263,7 +259,7 @@
 			}]
 			title: "&e&lMultiplayer: &dClaiming"
 			x: -1.5d
-			y: -3.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["002FC90E5914D9C2"]
@@ -281,6 +277,7 @@
 				item: "prominent_ost:music_disc_iv"
 				type: "item"
 			}]
+			shape: "square"
 			size: 1.5d
 			subtitle: "&eContinue your journey through the other Chapters!"
 			tasks: [{
@@ -461,8 +458,8 @@
 				type: "checkmark"
 			}]
 			title: "&ePro Tip: &7Check the wiki!"
-			x: 5.0d
-			y: -2.5d
+			x: 5.0535714285714235d
+			y: -2.6135938668661183d
 		}
 		{
 			dependencies: ["2F5A3E304ABAADF6"]
@@ -487,8 +484,30 @@
 				type: "checkmark"
 			}]
 			title: "&ePro Tip: &7Do the tutorials!"
-			x: 5.0d
-			y: -1.5d
+			x: 5.053571428571431d
+			y: -1.6850224382946877d
+		}
+		{
+			dependencies: ["33961F7EE650AA60"]
+			description: [
+				"&7To create a party, use the &e/openpac-parties create&7 command."
+				""
+				"&7To invite a member, use &e/openpac-parties member invite [Name]&7."
+				""
+				"&7And to enable PvP between party members, use &e/opacpvp&7. Keep in mind all players that engage on PvP need to enable it."
+			]
+			icon: "supplementaries:slice_map"
+			id: "239866A8BF58469A"
+			size: 0.75d
+			subtitle: "Click me and read my description!"
+			tasks: [{
+				id: "5216CF72CFF2B653"
+				title: "Click to continue!"
+				type: "checkmark"
+			}]
+			title: "&e&lMultiplayer: &dParties"
+			x: -1.482142857142854d
+			y: -3.292165295437549d
 		}
 	]
 	title: " &eGetting Started"

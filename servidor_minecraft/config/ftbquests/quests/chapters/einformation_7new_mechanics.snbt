@@ -256,7 +256,7 @@
 				"6B8B4323E13AB3E9"
 			]
 			description: [
-				"&7The following guides will direct you what to look for depending on specific build types. These are not fully fleshes builds, they're just guides for you to follow on what gear to choose depending on your gameplay."
+				"&7The following guides will direct you what to look for depending on specific build types. These are not fully fleshed builds, they're just guides for you to follow on what gear to choose depending on your gameplay."
 				""
 				"&eThe difficulty shown applies to both how hard it is to play it, and how hard it is to make the build &7(Although gameplay difficulty has more priority)&7."
 				""
@@ -559,6 +559,7 @@
 					}
 					id: "43DBCF7B9A526165"
 					item: "runes:lightning_stone"
+					optional_task: true
 					type: "item"
 				}
 			]
@@ -602,6 +603,7 @@
 					}
 					id: "34B70513418F7A19"
 					item: "runes:soul_stone"
+					optional_task: true
 					title: "Obtain a Soul Rune"
 					type: "item"
 				}

@@ -44,6 +44,10 @@
       "comment": "Energy Capacity for Nano Saber",
       "value": 1000000
     },
+    "suitNightVisionCost": {
+      "comment": "Nano/Quantum Suit Night Vision Cost",
+      "value": 1
+    },
     "quantumSuitBreathingCost": {
       "comment": "Quantum Suit Breathing Cost",
       "value": 20
@@ -139,10 +143,6 @@
     "rockCutterCost": {
       "comment": "Energy Cost for Rock Cutter",
       "value": 10
-    },
-    "nanoSuitNightVisionCost": {
-      "comment": "Nano Suit Night Vision Cost",
-      "value": 2
     },
     "advancedJackhammerCost": {
       "comment": "Energy Cost for Advanced Jackhammer",
