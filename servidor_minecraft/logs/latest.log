@@ -3432,3 +3432,67 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [19:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15658ms or 313 ticks behind
 [19:17:04] [Server thread/INFO]: kimis342 has made the advancement [Who is Cutting Onions?]
 [19:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9866ms or 197 ticks behind
+[19:17:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12652ms or 253 ticks behind
+[19:18:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14052ms or 281 ticks behind
+[19:18:14] [Server thread/INFO]: ileo has made the advancement [Acquire Hardware]
+[19:18:19] [Server thread/INFO]: fandangolol has made the advancement [Barrel Booty]
+[19:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16824ms or 336 ticks behind
+[19:18:47] [Server thread/INFO]: ileo has made the advancement [Isn't It Iron Pick]
+[19:19:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14202ms or 284 ticks behind
+[19:19:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14386ms or 287 ticks behind
+[19:20:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12842ms or 256 ticks behind
+[19:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13699ms or 273 ticks behind
+[19:20:46] [Server thread/INFO]: Brick_123 has made the advancement [Suit Up]
+[19:20:54] [Server thread/INFO]: Brick_123 has made the advancement [Acquire Hardware]
+[19:21:07] [Server thread/INFO]: Brick_123 has made the advancement [Isn't It Iron Pick]
+[19:21:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13482ms or 269 ticks behind
+[19:21:19] [Server thread/INFO]: Brick_123 has made the advancement [Barrel Booty]
+[19:21:31] [Server thread/INFO]: Brick_123 has made the advancement [Close Quarters]
+[19:21:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15467ms or 309 ticks behind
+[19:22:09] [Server thread/INFO]: Brick_123 has made the advancement [Monster Hunter]
+[19:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15777ms or 315 ticks behind
+[19:22:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13620ms or 272 ticks behind
+[19:22:48] [Server thread/INFO]: [Handshake] Sending channel query
+[19:22:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[19:22:48] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[19:22:49] [Server thread/INFO]: ShaikoS[/127.241.196.99:55507] logged in with entity id 31023 at (-456.76394043439177, 49.0, -485.6941731011922)
+[19:22:49] [Server thread/INFO]: Sending server config values to client
+[19:22:49] [Server thread/INFO]: Syncing config to ShaikoS (5abc67bd-db07-3c9a-8393-01bcbdab7e7b)
+[19:22:49] [Server thread/INFO]: Loading config from file...
+[19:22:49] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:22:49] [Server thread/INFO]: ShaikoS joined the game
+[19:22:49] [Server thread/INFO]: Loading Configs for Sortilege
+[19:22:49] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:22:49] [Server thread/INFO]: Updating all forceload tickets for 5abc67bd-db07-3c9a-8393-01bcbdab7e7b
+[19:22:49] [Server thread/INFO]: PLAYER_JOIN
+[19:22:49] [Server thread/INFO]: add_player wand
+[19:22:49] [Server thread/INFO]: config sent
+[19:22:51] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[19:22:54] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: ShaikoS -> Global
+[19:22:54] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player ShaikoS. Claiming: GRAVE / Robbing: INVENTORY
+[19:22:57] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of ShaikoS accepted server config.
+[19:23:03] [Server thread/INFO]: Cuak17 has made the advancement [Forbidden Fruit]
+[19:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16146ms or 322 ticks behind
+[19:23:38] [Server thread/INFO]: kimis342 has made the advancement [When in Rome]
+[19:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22734ms or 454 ticks behind
+[19:24:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23001ms or 460 ticks behind
+[19:24:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18783ms or 375 ticks behind
+[19:25:12] [Server thread/INFO]: ileo has made the advancement [Barrel Booty]
+[19:25:12] [Server thread/INFO]: ileo has made the advancement [Disme A Dozen]
+[19:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16063ms or 321 ticks behind
+[19:25:44] [Server thread/INFO]: ShaikoS has made the advancement [When in Rome]
+[19:25:54] [Server thread/INFO]: Brick_123 was killed by Witch using magic
+[19:25:54] [Netty Epoll Server IO #2/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:25:54] [Netty Epoll Server IO #2/ERROR]: Combo count: 39 is dual wielding: false
+[19:25:54] [Netty Epoll Server IO #2/ERROR]: Main-hand stack: 0 air
+[19:25:54] [Netty Epoll Server IO #2/ERROR]: Off-hand stack: 0 air
+[19:25:54] [Netty Epoll Server IO #2/ERROR]: Selected slot server: 0 | client: 0
+[19:25:58] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[19:25:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14635ms or 292 ticks behind
+[19:26:08] [Server thread/INFO]: Cuak17 has made the advancement [When in Rome]
+[19:26:19] [Server thread/INFO]: Brick_123 fell from a high place
+[19:26:19] [Server thread/INFO]: Did not backup data (grave data empty)
+[19:26:21] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[19:26:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14773ms or 295 ticks behind
+[19:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17655ms or 353 ticks behind
+[19:27:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19101ms or 382 ticks behind
