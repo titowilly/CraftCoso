@@ -1,13 +1,115 @@
 {
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/cyan_sleeping_bag": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/root": {
     "criteria": {
       "always": "2025-04-16 18:40:11 +0000"
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/fabric_bolt_yellow": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_brown": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/oak_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cherry_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-16 18:45:56 +0000"
     },
     "done": true
   },
@@ -18,15 +120,129 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bamboo_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rail": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/mushroom_fir_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/oak_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/tenanea_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-04-16 18:40:11 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "betternether:root": {
     "criteria": {
       "welcome": "2025-04-16 18:40:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -42,9 +258,57 @@
     },
     "done": true
   },
+  "betterend:recipes/redstone/pythadendron_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/hedgewitch_wool": {
+    "criteria": {
+      "has_item": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
     },
     "done": true
   },
@@ -54,9 +318,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/lattice": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/dark_oak_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/besmirched_wool": {
+    "criteria": {
+      "has_item": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -66,15 +384,243 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_gray": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_red": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cherry_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/mossy_glowshroom_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-04-16 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/hydrogen_cell": {
     "criteria": {
       "has_hydrogen": "2025-04-16 18:40:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_vanguard": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-04-16 18:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_magenta": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -90,9 +636,33 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bar_stool_cincinnasite": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:main/root": {
     "criteria": {
       "seeds": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-04-16 18:43:51 +0000"
     },
     "done": true
   },
@@ -102,15 +672,123 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-16 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mangrove_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_infested_temple": {
     "criteria": {
       "location0": "2025-04-16 18:40:12 +0000"
     },
     "done": true
   },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-04-16 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-16 18:49:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -121,10 +799,76 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/jellyshroom_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/sodium_sulfide": {
     "criteria": {
       "has_sulfur": "2025-04-16 18:40:11 +0000",
       "has_sodium": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_planks": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-16 18:45:56 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/dragon_tree_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -134,9 +878,81 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/distillation_tower/diesel": {
     "criteria": {
       "has_oil": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -147,15 +963,123 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/netherite_gold_block": {
     "criteria": {
       "has_ingredients": "2025-04-16 18:40:11 +0000"
     },
     "done": true
   },
+  "betternether:recipes/redstone/rubeus_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bamboo_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/sulfur_cell": {
     "criteria": {
       "has_sulfur": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-16 18:44:40 +0000"
     },
     "done": true
   },
@@ -171,9 +1095,141 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/crimson_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/umbrella_tree_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_scatter": {
+    "criteria": {
+      "has_oak_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2025-04-16 18:44:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_burst": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball_from_plantball": {
     "criteria": {
       "has_plantball": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet": {
+    "criteria": {
+      "has_cyan_sheet": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_tool_assembly": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -183,9 +1239,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_pickaxe": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-04-16 18:45:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/vacuum_freezer/helium": {
     "criteria": {
       "has_heliumplasma": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-16 18:44:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -195,9 +1287,123 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/golden_hammer": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/helium_cell": {
     "criteria": {
       "has_helium": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_piston": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_axe": {
+    "criteria": {
+      "has_wooden_axe": "2025-04-16 18:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-16 18:45:23 +0000"
     },
     "done": true
   },
@@ -207,15 +1413,321 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-16 18:45:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-16 18:52:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-16 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-16 18:45:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_support": {
+    "criteria": {
+      "has_plank": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mangrove_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-16 18:40:11 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_terminite_upgrade": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_mushroom_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_smith_table": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
     "criteria": {
       "has_fur_armor": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_green": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_hammer": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion": {
+    "criteria": {
+      "has_cyan_cushion": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 18:44:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thallasium_sword_handle": {
+    "criteria": {
+      "has_item.minecraft.stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_white": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_thallasium_upgrade": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_pink": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
     },
     "done": true
   },
@@ -231,6 +1743,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/lantern": {
+    "criteria": {
+      "has_torch": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-16 18:45:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-04-16 18:40:11 +0000"
@@ -240,6 +1770,42 @@
   "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
     "criteria": {
       "has_fur_armor": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-04-16 18:47:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-04-16 18:51:44 +0000"
     },
     "done": true
   },
@@ -255,9 +1821,129 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-16 18:44:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/spruce_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "things:root": {
     "criteria": {
       "tick": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-16 18:45:23 +0000"
     },
     "done": true
   },
@@ -267,9 +1953,51 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/bread": {
     "criteria": {
       "has_bread": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -279,9 +2007,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/jungle_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
     "criteria": {
       "has_wit": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
     },
     "done": true
   },
@@ -291,9 +2049,124 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/tinted_greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/birch_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000",
+      "has_the_recipe": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -303,9 +2176,69 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/oak_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-04-16 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_axe": {
+    "criteria": {
+      "has_wooden_axe": "2025-04-16 18:45:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-04-16 18:44:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bamboo_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-16 18:45:56 +0000"
     },
     "done": true
   },
@@ -315,9 +2248,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/misc/snowflake_banner_pattern": {
     "criteria": {
       "has_packed_snowball": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/alchemist_wool": {
+    "criteria": {
+      "has_item": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_wrapped_stick": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -327,9 +2320,111 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/dragon_tree_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/tool/treetap": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_pillar_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-16 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_lantern": {
+    "criteria": {
+      "has_copper_block": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/helix_tree_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -339,15 +2434,147 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/spruce_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_handle_attachment": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-04-16 18:48:41 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
     "criteria": {
       "has_fur_armor": "2025-04-16 18:40:11 +0000"
     },
     "done": true
   },
+  "betterend:recipes/redstone/end_lotus_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_cyan": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/terminite_sword_handle": {
+    "criteria": {
+      "has_item.minecraft.stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-04-16 18:51:44 +0000"
     },
     "done": true
   },
@@ -363,6 +2590,30 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/acacia_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/glyceryl": {
     "criteria": {
       "has_nitro_carbon": "2025-04-16 18:40:11 +0000"
@@ -372,6 +2623,18 @@
   "advancednetherite:recipes/netherite_ingots": {
     "criteria": {
       "has_ingredients": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/smooth_quartz_elevator_from_smooth_quartz": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-16 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/jungle_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -388,9 +2651,153 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrogen_dioxide": {
     "criteria": {
       "has_nitrogen": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mangrove_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cherry_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/willow_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_planks": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_light_gray": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/taburet_cincinnasite": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-04-16 18:48:41 +0000"
     },
     "done": true
   },
@@ -400,9 +2807,75 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/willow_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/birch_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_light_blue": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/calcium_carbonate_cell": {
     "criteria": {
       "has_calcium_carbonate": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-04-16 18:49:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/piston": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/chair_cincinnasite": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -418,10 +2891,58 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/nitrofuel": {
     "criteria": {
       "has_oil": "2025-04-16 18:40:11 +0000",
       "has_nitrogen": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-04-16 18:44:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -432,9 +2953,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/season_detector": {
     "criteria": {
       "has_detector": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
     },
     "done": true
   },
@@ -444,11 +3001,59 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-04-16 18:48:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_blue": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
+    "criteria": {
+      "has_plank": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
   "seasonsextras:recipes/crop_season_tester": {
     "criteria": {
       "has_iron": "2025-04-16 18:40:11 +0000"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-04-16 18:52:22 +0000"
+    },
+    "done": false
   },
   "techreborn:recipes/centrifuge/lava_cell": {
     "criteria": {
@@ -462,9 +3067,21 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/fabric_bolt_lime": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/building_blocks/netherite_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -472,6 +3089,12 @@
     "criteria": {
       "has_wpt": "2025-04-16 18:40:11 +0000",
       "has_wct": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
     },
     "done": true
   },
@@ -488,10 +3111,58 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/acacia_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/ae": {
     "criteria": {
       "has_wit": "2025-04-16 18:40:11 +0000",
       "has_wpt": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-04-16 18:44:20 +0000"
     },
     "done": true
   },
@@ -501,15 +3172,87 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/anchor_tree_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_ladder": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_sakura_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "more_rpg_content:root": {
     "criteria": {
       "always": "2025-04-16 18:40:11 +0000"
     },
     "done": true
   },
+  "betterend:recipes/decorations/pythadendron_taburet": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-16 18:44:55 +0000"
     },
     "done": true
   },
@@ -533,6 +3276,66 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/wood_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_purple": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/dark_oak_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_orange": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-04-16 18:46:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/fusion_reactor/helium_plasma": {
     "criteria": {
       "has_helium3": "2025-04-16 18:40:11 +0000",
@@ -540,9 +3343,57 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/titanium_ingot": {
     "criteria": {
       "has_titanium_dust": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_pickaxe": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-04-16 18:45:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-04-16 18:43:51 +0000"
     },
     "done": true
   },
@@ -553,9 +3404,63 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/warped_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/blackstone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/dark_oak_slab_from_stairs": {
+    "criteria": {
+      "has_dark_oak_stairs": "2025-04-16 18:47:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-04-16 18:49:25 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/fabric_bolt_black": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/transportation/tag_rail": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
     },
     "done": true
   },
@@ -565,9 +3470,159 @@
     },
     "done": true
   },
+  "bclib:recipes/combat/tag_shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/lacugrove_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-16 18:49:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_cobblestone": "2025-04-16 18:46:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plates_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/redstone/jellyshroom_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-04-16 18:46:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_fence": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/spruce_seat": {
+    "criteria": {
+      "has_plank": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/cyan_bed_from_wool": {
+    "criteria": {
+      "has_cyan_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
     },
     "done": true
   },
@@ -577,9 +3632,63 @@
     },
     "done": true
   },
+  "betterend:recipes/redstone/lucernia_gate": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/diamond_hammer": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/compressed_plantball_from_melon_slices": {
     "criteria": {
       "has_melon_slice": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_sign": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_bar_stool": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-16 18:51:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-04-16 18:50:06 +0000"
     },
     "done": true
   },
@@ -590,9 +3699,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:44:40 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_the_recipe": "2025-04-16 18:40:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/wood_plate": {
+    "criteria": {
+      "has_planks": "2025-04-16 18:43:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_chair": {
+    "criteria": {
+      "has_stick": "2025-04-16 18:45:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2025-04-16 18:44:40 +0000"
     },
     "done": true
   },

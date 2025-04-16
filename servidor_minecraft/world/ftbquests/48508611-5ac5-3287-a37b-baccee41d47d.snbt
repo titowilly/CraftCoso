@@ -30,6 +30,8 @@
 		6E9F5146EA3F505F: 1744828862550L
 		4184344EFBA63388: 1744828862550L
 	}
-	claimed_rewards: { }
+	claimed_rewards: {
+		"485086115ac53287a37bbaccee41d47d:78B218622FE5FA2B": 1744829015472L
+	}
 	player_data: { }
 }

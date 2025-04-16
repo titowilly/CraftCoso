@@ -1,0 +1,17 @@
+{
+	id: "a872d1bf-2f60-3e1a-8092-f9fd49441dc4"
+	type: "player"
+	player_name: "kimis342"
+	ranks: {
+		a872d1bf-2f60-3e1a-8092-f9fd49441dc4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "kimis342"
+		"ftbteams:description": ""
+		"ftbteams:color": "#A8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

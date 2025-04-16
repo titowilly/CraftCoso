@@ -1,0 +1,17 @@
+{
+	id: "9ab6fa83-a56b-321a-994d-f1ee84b9d70c"
+	type: "player"
+	player_name: "motsar1234"
+	ranks: {
+		9ab6fa83-a56b-321a-994d-f1ee84b9d70c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "motsar1234"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59C1FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

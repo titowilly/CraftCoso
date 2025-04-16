@@ -1,0 +1,17 @@
+{
+	id: "5abc67bd-db07-3c9a-8393-01bcbdab7e7b"
+	type: "player"
+	player_name: "ShaikoS"
+	ranks: {
+		5abc67bd-db07-3c9a-8393-01bcbdab7e7b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ShaikoS"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
