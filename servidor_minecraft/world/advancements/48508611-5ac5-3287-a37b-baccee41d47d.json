@@ -668,6 +668,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_bellpepper": "2025-04-16 19:50:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/ghostly_boots": {
     "criteria": {
       "has_leather": "2025-04-16 19:18:29 +0000"
@@ -1182,6 +1188,12 @@
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_stick": "2025-04-16 19:15:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-04-16 19:50:09 +0000"
     },
     "done": true
   },
@@ -3825,6 +3837,12 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "bellpepper_seed": "2025-04-16 19:50:09 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
     "criteria": {
       "has_book": "2025-04-16 19:02:38 +0000"
@@ -3978,6 +3996,12 @@
   "croptopia:recipes/ham_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2025-04-16 19:02:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_ajvar": {
+    "criteria": {
+      "has_bellpepper": "2025-04-16 19:50:09 +0000"
     },
     "done": true
   },
@@ -4351,6 +4375,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-16 19:19:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/bellpepper_seed": {
+    "criteria": {
+      "has_bellpepper": "2025-04-16 19:50:09 +0000"
     },
     "done": true
   },
@@ -5818,6 +5848,12 @@
       "has_iron_leggings": "2025-04-16 18:41:02 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "bellpepper_seed": "2025-04-16 19:50:09 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
