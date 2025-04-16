@@ -3296,3 +3296,139 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [18:57:13] [Server thread/INFO]: <Cuak17> vendo pico
 [18:57:15] [Server thread/INFO]: fandangolol has made the advancement [Archer´s Paths]
 [18:57:21] [Server thread/INFO]: [TitoWilly: Set own game mode to Creative Mode]
+[18:57:30] [Server thread/INFO]: Cuak17 has made the advancement [Cover Me with Diamonds]
+[18:57:32] [Server thread/INFO]: fandangolol has made the advancement [Disme A Dozen]
+[18:57:43] [Server thread/INFO]: kimis342 has made the advancement [Cover Me with Diamonds]
+[18:57:55] [Server thread/INFO]: [Handshake] Sending channel query
+[18:57:56] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[18:57:56] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[18:57:56] [Server thread/INFO]: Brick_123[/127.132.88.179:53575] logged in with entity id 4708 at (16.5, 88.0, -21.5)
+[18:57:56] [Server thread/INFO]: Sending server config values to client
+[18:57:56] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[18:57:56] [Server thread/INFO]: Loading config from file...
+[18:57:56] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18:57:56] [Server thread/INFO]: Brick_123 joined the game
+[18:57:56] [Server thread/INFO]: Loading Configs for Sortilege
+[18:57:56] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[18:57:56] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[18:57:56] [Server thread/INFO]: PLAYER_JOIN
+[18:57:56] [Server thread/INFO]: add_player wand
+[18:57:56] [Server thread/INFO]: config sent
+[18:57:56] [Server thread/INFO]: Brick_123 has made the advancement [Mythic Mobs]
+[18:57:57] [Server thread/INFO]: Brick_123 has made the advancement [Super Creeps]
+[18:58:00] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[18:58:05] [Server thread/INFO]: ShaikoS has made the advancement ['X' Marks the Spot]
+[18:58:08] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[18:58:08] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[18:58:10] [Server thread/INFO]: ShaikoS has made the advancement [Cover Me with Diamonds]
+[18:58:17] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[18:58:21] [Server thread/INFO]: ShaikoS has made the advancement [Diamonds!]
+[18:58:28] [Server thread/INFO]: kimis342 has made the advancement [Disme A Dozen]
+[18:58:40] [Server thread/INFO]: [TitoWilly: Set own game mode to Survival Mode]
+[18:58:59] [Server thread/INFO]: Cuak17 has made the advancement [Disme A Dozen]
+[18:59:22] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to motsar1234]
+[19:00:00] [Server thread/INFO]: motsar1234 has made the advancement [Stone Age]
+[19:00:01] [Server thread/INFO]: ShaikoS has made the advancement [Disme A Dozen]
+[19:00:21] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[19:00:31] [Server thread/INFO]: [TitoWilly: Teleported motsar1234 to TitoWilly]
+[19:01:46] [Server thread/INFO]: ileo has made the advancement [Monster Hunter]
+[19:02:21] [Server thread/INFO]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[19:02:30] [Server thread/INFO]: Brick_123 has made the advancement ['X' Marks the Spot]
+[19:02:32] [Server thread/INFO]: Brick_123 has made the advancement [Glacial Profiling]
+[19:02:35] [Server thread/INFO]: Brick_123 has made the advancement [Diamonds!]
+[19:02:36] [Server thread/INFO]: TitoWilly has made the advancement [Diamonds!]
+[19:02:51] [Server thread/INFO]: Cuak17 has made the advancement [Monster Hunter]
+[19:02:54] [Server thread/INFO]: TitoWilly has made the advancement [Cover Me with Diamonds]
+[19:03:06] [Server thread/INFO]: TitoWilly has made the advancement [Disme A Dozen]
+[19:03:07] [Server thread/INFO]: <Brick_123> a
+[19:03:17] [Server thread/INFO]: fandangolol has made the advancement [Monster Hunter]
+[19:03:35] [Server thread/INFO]: Brick_123 has made the advancement [Disme A Dozen]
+[19:03:46] [Server thread/INFO]: Brick_123 has made the advancement [Cover Me with Diamonds]
+[19:03:46] [Server thread/INFO]: <TitoWilly> ya fue
+[19:03:51] [Server thread/INFO]: <TitoWilly> libreren
+[19:04:00] [Server thread/INFO]: <TitoWilly> ya son libres
+[19:04:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:04:13] [Server thread/INFO]: motsar1234 has made the advancement [Suit Up]
+[19:04:29] [Server thread/INFO]: kimis342 has reached the goal [Drying Expertise]
+[19:04:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:04:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4348ms or 86 ticks behind
+[19:04:51] [Server thread/INFO]: fandangolol has made the advancement [An Extra Seedy Place]
+[19:05:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5081ms or 101 ticks behind
+[19:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5718ms or 114 ticks behind
+[19:05:40] [Server thread/INFO]: motsar1234 has made the advancement [Barrel Booty]
+[19:05:41] [Server thread/INFO]: [TitoWilly: Set own game mode to Spectator Mode]
+[19:05:47] [Server thread/INFO]: motsar1234 has made the advancement [Forbidden Fruit]
+[19:05:52] [Server thread/INFO]: motsar1234 has made the advancement [Ice Bucket Challenge]
+[19:05:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8770ms or 175 ticks behind
+[19:06:04] [Server thread/INFO]: motsar1234 has made the advancement [Create: Estrogen]
+[19:06:18] [Server thread/INFO]: <Brick_123> a
+[19:06:22] [Server thread/INFO]: ShaikoS has made the advancement [Stone Age]
+[19:06:27] [Server thread/INFO]: <TitoWilly> +1 para matarlos e iniciar de 0
+[19:06:30] [Server thread/INFO]: <TitoWilly> +1
+[19:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20091ms or 401 ticks behind
+[19:06:33] [Server thread/INFO]: <Cuak17> +1
+[19:06:41] [Server thread/INFO]: kimis342 has made the advancement [Stone Age]
+[19:06:43] [Server thread/INFO]: <Cuak17> ´+51
+[19:06:44] [Server thread/INFO]: <ileo> -
+[19:06:46] [Server thread/INFO]: ShaikoS has made the advancement [Monster Hunter]
+[19:06:54] [pool-12-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert]] from pos class_2338{x=5, y=77, z=-277}
+[19:07:04] [Server thread/INFO]: <Brick_123> +1
+[19:07:06] [Server thread/INFO]: ShaikoS has made the advancement [Not Today, Thank You]
+[19:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21573ms or 431 ticks behind
+[19:07:07] [Server thread/INFO]: <motsar1234> 0
+[19:07:11] [Server thread/INFO]: <fandangolol> +1
+[19:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11163ms or 223 ticks behind
+[19:07:42] [Server thread/INFO]: TitoWilly has made the advancement [Fruits of the Field]
+[19:07:43] [Server thread/INFO]: [TitoWilly: Set the time to 1000]
+[19:07:58] [Server thread/INFO]: fandangolol has made the advancement [Fruits of the Field]
+[19:07:59] [Server thread/INFO]: kimis342 has made the advancement [Not Today, Thank You]
+[19:08:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12771ms or 255 ticks behind
+[19:08:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20327ms or 406 ticks behind
+[19:08:43] [Server thread/INFO]: kimis342 has made the advancement [Monster Hunter]
+[19:09:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15546ms or 310 ticks behind
+[19:09:25] [Server thread/INFO]: [TitoWilly: Set own game mode to Creative Mode]
+[19:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10363ms or 207 ticks behind
+[19:09:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11630ms or 232 ticks behind
+[19:10:04] [Server thread/INFO]: [TitoWilly: Set own game mode to Survival Mode]
+[19:10:07] [Server thread/INFO]: <Cuak17> tepearan
+[19:10:09] [Server thread/INFO]: [TitoWilly: Teleported 8 entities to TitoWilly]
+[19:10:09] [Server thread/INFO]: Cuak17 has made the advancement [Fruits of the Field]
+[19:10:10] [Server thread/INFO]: ShaikoS has made the advancement [Fruits of the Field]
+[19:10:10] [Server thread/INFO]: kimis342 has made the advancement [Fruits of the Field]
+[19:10:10] [Server thread/INFO]: ileo has made the advancement [Fruits of the Field]
+[19:10:11] [Server thread/INFO]: Brick_123 has made the advancement [Fruits of the Field]
+[19:10:11] [Server thread/INFO]: motsar1234 has made the advancement [Fruits of the Field]
+[19:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4838ms or 96 ticks behind
+[19:10:53] [Server thread/INFO]: <fandangolol> quien para hcer team uwu
+[19:11:08] [Server thread/INFO]: <Brick_123> quien para tocarnos a cada rato osea team
+[19:11:22] [Server thread/INFO]: Brick_123 has made the advancement [Forbidden Fruit]
+[19:11:22] [Server thread/INFO]: <ileo> quien para fornicar 24/7
+[19:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:11:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5275ms or 105 ticks behind
+[19:12:15] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-752, y=-5, z=316}
+[19:12:15] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=-748, y=-5, z=316}
+[19:12:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8827ms or 176 ticks behind
+[19:12:33] [Server thread/INFO]: Brick_123 has made the advancement [Stone Age]
+[19:12:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7959ms or 159 ticks behind
+[19:12:43] [Server thread/INFO]: ileo has made the advancement [Stone Age]
+[19:12:55] [Server thread/INFO]: ileo has made the advancement [Getting an Upgrade]
+[19:13:11] [Server thread/INFO]: TitoWilly has made the advancement [Stone Age]
+[19:13:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14305ms or 286 ticks behind
+[19:13:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15292ms or 305 ticks behind
+[19:14:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18144ms or 362 ticks behind
+[19:14:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13034ms or 260 ticks behind
+[19:14:59] [Server thread/INFO]: Cuak17 has made the advancement [Who is Cutting Onions?]
+[19:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14360ms or 287 ticks behind
+[19:15:37] [Server thread/INFO]: ShaikoS has made the advancement [Acquire Hardware]
+[19:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19591ms or 391 ticks behind
+[19:15:48] [Server thread/INFO]: Cuak17 has made the advancement [Acquire Hardware]
+[19:16:16] [Server thread/INFO]: TitoWilly has made the advancement [Sky of Beginning]
+[19:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19411ms or 388 ticks behind
+[19:16:22] [Server thread/INFO]: kimis342 has made the advancement [Acquire Hardware]
+[19:16:32] [Server thread/INFO]: ShaikoS lost connection: Disconnected
+[19:16:32] [Server thread/INFO]: ShaikoS left the game
+[19:16:32] [Server thread/INFO]: remove player wand
+[19:16:32] [Server thread/INFO]: Updating all forceload tickets for 5abc67bd-db07-3c9a-8393-01bcbdab7e7b
+[19:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15658ms or 313 ticks behind
+[19:17:04] [Server thread/INFO]: kimis342 has made the advancement [Who is Cutting Onions?]
+[19:17:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9866ms or 197 ticks behind
