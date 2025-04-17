@@ -4129,6 +4129,7 @@
       "minecraft:skeleton": "2025-04-16 19:09:56 +0000",
       "minecraft:spider": "2025-04-16 20:20:42 +0000",
       "minecraft:cave_spider": "2025-04-16 22:57:17 +0000",
+      "minecraft:piglin": "2025-04-17 21:57:14 +0000",
       "minecraft:zombie": "2025-04-16 19:08:43 +0000"
     },
     "done": false
@@ -9965,6 +9966,8 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
+      "betternether:wart_forest_edge": "2025-04-17 21:56:56 +0000",
+      "betternether:wart_forest": "2025-04-17 21:57:31 +0000",
       "betternether:soul_plain": "2025-04-17 02:27:50 +0000"
     },
     "done": false
