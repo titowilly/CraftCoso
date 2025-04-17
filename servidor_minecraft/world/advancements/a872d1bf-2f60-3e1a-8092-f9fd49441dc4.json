@@ -10208,27 +10208,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-17 07:22:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-17 06:34:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-17 07:08:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-04-17 07:08:37 +0000"
     },
     "done": true
   },
@@ -10238,93 +10220,15 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
-    "criteria": {
-      "has_diamond_helmet": "2025-04-17 06:53:42 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-04-17 07:12:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-17 07:08:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-04-17 07:12:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-17 06:34:25 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-04-17 07:12:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
-    "criteria": {
-      "has_diamond_leggings": "2025-04-17 06:53:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2025-04-17 06:34:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/blue_magnolia_shrub": {
-    "criteria": {
-      "has_blue_magnolia_sapling": "2025-04-17 07:19:43 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/beetroot_salad": {
-    "criteria": {
-      "has_beetroot": "2025-04-17 07:12:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-17 07:12:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-04-17 07:08:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-04-17 07:12:16 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-04-17 06:40:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-04-17 07:12:16 +0000"
     },
     "done": true
   },
@@ -10340,15 +10244,111 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "has_diamond_helmet": "2025-04-17 06:53:42 +0000"
+      "bastion": "2025-04-17 06:40:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-04-17 06:53:36 +0000"
     },
     "done": true
   },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
     "criteria": {
       "has_diamond_leggings": "2025-04-17 06:53:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-17 06:53:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-17 06:53:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-17 07:08:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 07:08:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-17 07:08:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 07:08:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 07:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 07:12:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 07:12:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 07:12:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 07:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 07:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-17 07:12:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/blue_magnolia_shrub": {
+    "criteria": {
+      "has_blue_magnolia_sapling": "2025-04-17 07:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-17 07:22:15 +0000"
     },
     "done": true
   },
