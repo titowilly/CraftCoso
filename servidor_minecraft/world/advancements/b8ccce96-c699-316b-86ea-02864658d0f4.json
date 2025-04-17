@@ -14671,57 +14671,27 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_log": "2025-04-17 07:26:19 +0000"
+      "has_bow": "2025-04-17 05:51:07 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/potato_chips": {
+  "techreborn:recipes/extractor/string_from_bow": {
     "criteria": {
-      "has_potato": "2025-04-17 06:45:05 +0000"
+      "has_bow": "2025-04-17 05:51:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "more_rpg_content:bow_way": {
     "criteria": {
-      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
+      "items": "2025-04-17 05:51:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
     "criteria": {
-      "has_iron_block": "2025-04-17 06:38:26 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
-    "criteria": {
-      "has_log": "2025-04-17 07:23:49 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-04-17 07:10:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-04-17 06:45:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/jungle_shrub": {
-    "criteria": {
-      "has_jungle_sapling": "2025-04-17 07:23:51 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-17 06:38:26 +0000"
+      "has_bow": "2025-04-17 05:51:07 +0000"
     },
     "done": true
   },
@@ -14731,27 +14701,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
     "criteria": {
-      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
+      "has_tag_minecraft_wooden_slabs": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-17 06:05:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-17 06:38:26 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-17 06:38:26 +0000"
     },
     "done": true
   },
   "justhammers:recipes/tools/iron_impact_hammer": {
     "criteria": {
       "has_material": "2025-04-17 06:38:26 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2025-04-17 06:45:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
-    "criteria": {
-      "has_log": "2025-04-17 07:26:19 +0000"
     },
     "done": true
   },
@@ -14779,120 +14797,6 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/andesite_pedestal": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
-    "criteria": {
-      "has_tag_minecraft_wooden_slabs": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/redwood_hanging_sign": {
-    "criteria": {
-      "has_stripped_redwood_log": "2025-04-17 07:26:19 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/spruce_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
-    "criteria": {
-      "has_tag_c_galena_ores": "2025-04-17 06:54:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_wood": {
-    "criteria": {
-      "has_log": "2025-04-17 07:26:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_bowl": {
-    "criteria": {
-      "has_wood_bowl": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_plate": {
-    "criteria": {
-      "has_wood_plate": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_wood": {
-    "criteria": {
-      "has_log": "2025-04-17 07:23:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-17 06:45:05 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
-    "criteria": {
-      "has_spruce_slab": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-17 05:51:07 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/redwood_planks": {
-    "criteria": {
-      "has_logs": "2025-04-17 07:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-17 06:45:05 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/string_from_bow": {
-    "criteria": {
-      "has_bow": "2025-04-17 05:51:07 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-04-17 06:38:26 +0000"
@@ -14905,45 +14809,45 @@
     },
     "done": true
   },
-  "animal_feeding_trough:recipes/decorations/feeding_trough": {
-    "criteria": {
-      "has_wood_slab": "2025-04-17 06:05:25 +0000"
-    },
-    "done": true
-  },
-  "more_rpg_content:bow_way": {
-    "criteria": {
-      "items": "2025-04-17 05:51:07 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/compressor/iron_plate_from_block": {
     "criteria": {
       "has_iron_block": "2025-04-17 06:38:26 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/archer_pottery_sherd": {
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
-      "has_bow": "2025-04-17 05:51:07 +0000"
+      "has_item": "2025-04-17 06:38:26 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/redwood_shrub": {
+  "croptopia:recipes/potato_chips": {
     "criteria": {
-      "has_redwood_sapling": "2025-04-17 07:26:19 +0000"
+      "has_potato": "2025-04-17 06:45:05 +0000"
     },
     "done": true
   },
-  "mcdw:recipes/glaives/spear_venom_glaive": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_poisonous_potato": "2025-04-17 06:45:08 +0000"
+      "has_potato": "2025-04-17 06:45:05 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/item_shelf": {
+  "croptopia:recipes/french_fries": {
     "criteria": {
-      "minecraft:wooden_slabs": "2025-04-17 06:05:25 +0000"
+      "has_potato": "2025-04-17 06:45:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 06:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-17 06:45:05 +0000"
     },
     "done": true
   },
@@ -14953,15 +14857,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-17 06:45:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-04-17 06:45:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-04-17 06:45:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-04-17 06:54:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-04-17 07:10:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/grass_block": {
     "criteria": {
       "has_grass_block": "2025-04-17 07:10:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
+  "regions_unexplored:recipes/decorations/jungle_branch_from_jungle_log": {
     "criteria": {
-      "has_potato": "2025-04-17 06:45:05 +0000"
+      "has_log": "2025-04-17 07:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 07:23:49 +0000"
     },
     "done": true
   },
@@ -14977,15 +14917,135 @@
     },
     "done": true
   },
-  "railways:recipes/misc/stonecutting/riveted_locometal": {
+  "regions_unexplored:recipes/decorations/jungle_shrub": {
     "criteria": {
-      "has_item": "2025-04-17 06:38:26 +0000"
+      "has_jungle_sapling": "2025-04-17 07:23:51 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/poisonous_potato": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
-      "has_poisonous_potato": "2025-04-17 06:45:08 +0000"
+      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-04-17 07:24:45 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_branch_from_redwood_log": {
+    "criteria": {
+      "has_log": "2025-04-17 07:26:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_redwood_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 07:26:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_hanging_sign": {
+    "criteria": {
+      "has_stripped_redwood_log": "2025-04-17 07:26:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 07:26:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 07:26:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_shrub": {
+    "criteria": {
+      "has_redwood_sapling": "2025-04-17 07:26:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
+    "criteria": {
+      "has_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-17 18:42:15 +0000"
     },
     "done": true
   },
