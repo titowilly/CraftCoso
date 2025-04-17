@@ -9045,6 +9045,7 @@
       "willow_forest": "2025-04-17 02:20:31 +0000",
       "grassy_beach": "2025-04-17 04:13:57 +0000",
       "rocky_meadow": "2025-04-17 02:22:31 +0000",
+      "blackwood_taiga": "2025-04-17 19:35:41 +0000",
       "flower_fields": "2025-04-17 02:55:39 +0000",
       "highland_fields": "2025-04-17 02:20:34 +0000",
       "maple_forest": "2025-04-17 19:14:06 +0000",
@@ -9061,6 +9062,7 @@
       "willow_forest": "2025-04-17 02:20:31 +0000",
       "grassy_beach": "2025-04-17 04:13:57 +0000",
       "rocky_meadow": "2025-04-17 02:22:31 +0000",
+      "blackwood_taiga": "2025-04-17 19:35:41 +0000",
       "flower_fields": "2025-04-17 02:55:39 +0000",
       "highland_fields": "2025-04-17 02:20:34 +0000",
       "maple_forest": "2025-04-17 19:14:06 +0000",
@@ -15046,6 +15048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
@@ -15082,6 +15090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
@@ -15106,9 +15120,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
     },
     "done": true
   },
@@ -15124,15 +15150,39 @@
     },
     "done": true
   },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_stairs_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
     },
     "done": true
   },
+  "dungeons_arise:find_keep_kayra": {
+    "criteria": {
+      "location0": "2025-04-17 19:35:41 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
     "criteria": {
       "has_raw_silver": "2025-04-17 19:07:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
     },
     "done": true
   },
@@ -15169,6 +15219,12 @@
   "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
     },
     "done": true
   },
@@ -15211,6 +15267,12 @@
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-04-17 19:02:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-17 19:42:48 +0000"
     },
     "done": true
   },
