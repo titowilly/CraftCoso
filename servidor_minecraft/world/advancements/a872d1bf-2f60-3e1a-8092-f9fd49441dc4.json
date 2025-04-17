@@ -9968,6 +9968,7 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-04-17 21:56:56 +0000",
       "betternether:wart_forest": "2025-04-17 21:57:31 +0000",
+      "betternether:old_warped_woods": "2025-04-17 22:07:16 +0000",
       "betternether:soul_plain": "2025-04-17 02:27:50 +0000"
     },
     "done": false
@@ -10356,9 +10357,82 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-17 22:06:08 +0000",
+      "minecraft:nether_wastes": "2025-04-17 22:07:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-17 22:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-17 22:01:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
+    "criteria": {
+      "has_fishing_rod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-04-17 22:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-04-17 21:19:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "anchovy": "2025-04-17 21:59:05 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-04-17 22:00:21 +0000"
     },
     "done": true
   },
@@ -10380,9 +10454,75 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-17 22:00:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-04-17 22:00:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-04-17 22:00:21 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-04-17 22:00:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
     "criteria": {
       "has_kelp": "2025-04-17 21:19:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-04-17 22:01:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 22:02:08 +0000"
     },
     "done": true
   },

@@ -12729,6 +12729,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/lemon_sapling": {
+    "criteria": {
+      "has_lemon": "2025-04-17 22:02:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemonade": {
+    "criteria": {
+      "has_lemon": "2025-04-17 22:02:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_redwood_planks": "2025-04-17 21:52:53 +0000"
@@ -12768,6 +12780,12 @@
   "techreborn:recipes/crafting_table/machine/compressor": {
     "criteria": {
       "has_basic_machine_frame": "2025-04-17 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
+    "criteria": {
+      "has_rubber_sapling": "2025-04-17 22:05:09 +0000"
     },
     "done": true
   },
@@ -12825,6 +12843,12 @@
     },
     "done": true
   },
+  "techreborn:sap": {
+    "criteria": {
+      "crit_0": "2025-04-17 22:00:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-04-17 21:50:34 +0000"
@@ -12840,6 +12864,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
     "criteria": {
       "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
+    "criteria": {
+      "has_treetap": "2025-04-17 22:00:05 +0000"
     },
     "done": true
   },
@@ -12903,6 +12933,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_lemon_coconut_bar": {
+    "criteria": {
+      "has_lemon": "2025-04-17 22:02:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2025-04-17 22:02:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/extractor": {
     "criteria": {
       "has_basic_machine_frame": "2025-04-17 21:58:17 +0000"
@@ -12924,6 +12966,12 @@
   "techreborn:recipes/crafting_table/machine_block/basic_machine_casing": {
     "criteria": {
       "has_basic_machine_frame": "2025-04-17 21:58:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/stick_from_armor_stand": {
+    "criteria": {
+      "has_sap": "2025-04-17 22:00:40 +0000"
     },
     "done": true
   },
@@ -12984,6 +13032,12 @@
   "justhammers:recipes/tools/iron_destructor_hammer": {
     "criteria": {
       "has_material": "2025-04-17 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/sap": {
+    "criteria": {
+      "has_sap": "2025-04-17 22:00:40 +0000"
     },
     "done": true
   },
@@ -13056,6 +13110,18 @@
   "bewitchment:recipes/decorations/jungle_poppet_shelf": {
     "criteria": {
       "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:treetap": {
+    "criteria": {
+      "crit_0": "2025-04-17 22:00:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_sap": {
+    "criteria": {
+      "has_sap": "2025-04-17 22:00:40 +0000"
     },
     "done": true
   },

@@ -9556,10 +9556,11 @@
   },
   "techreborn:root": {
     "criteria": {
+      "crit_2": "2025-04-17 22:05:46 +0000",
       "crit_1": "2025-04-16 22:51:55 +0000",
       "crit_0": "2025-04-16 22:58:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_lead_storage_block": {
     "criteria": {
@@ -11251,6 +11252,7 @@
     "criteria": {
       "betternether:wart_forest_edge": "2025-04-17 21:56:10 +0000",
       "betternether:crimson_pinewood": "2025-04-17 21:58:24 +0000",
+      "betternether:magma_land": "2025-04-17 22:02:37 +0000",
       "betternether:wart_forest": "2025-04-17 21:56:14 +0000",
       "betternether:soul_plain": "2025-04-17 02:27:55 +0000"
     },
@@ -11556,9 +11558,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_slab": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
     },
     "done": true
   },
@@ -11574,6 +11612,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-17 22:01:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-04-17 21:53:36 +0000"
@@ -11586,9 +11636,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_stairs": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-04-17 22:05:46 +0000"
     },
     "done": true
   },
@@ -11598,9 +11684,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_barrel": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2025-04-17 21:40:53 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 22:04:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
     },
     "done": true
   },
@@ -11610,9 +11738,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 22:04:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
     },
     "done": true
   },
@@ -11634,6 +11786,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_blue": {
     "criteria": {
       "has_dyes/black": "2025-04-17 21:40:53 +0000"
@@ -11646,9 +11810,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 22:04:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
     },
     "done": true
   },
@@ -11667,6 +11843,30 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_roof": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
     },
     "done": true
   },
@@ -11700,15 +11900,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_bark": {
+    "criteria": {
+      "has_wart_log": "2025-04-17 22:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 21:40:53 +0000"
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_crafting_table": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 21:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
     },
     "done": true
   },
@@ -11730,9 +11966,69 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/wart_button": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-04-17 22:05:46 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_boat": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/wire_mill/copper_cable": {
     "criteria": {
       "has_copper_ingot": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-17 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 22:01:03 +0000"
     },
     "done": true
   },
@@ -11742,15 +12038,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-04-17 22:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-17 21:59:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-04-17 21:53:36 +0000"
     },
     "done": true
   },
+  "betternether:recipes/misc/wart_wall": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
     },
     "done": true
   },
@@ -11766,6 +12092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-17 21:38:06 +0000"
@@ -11778,9 +12110,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/copper_nugget": {
     "criteria": {
       "has_copper_ingot": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
     },
     "done": true
   },
@@ -11790,15 +12140,69 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
     "criteria": {
       "has_copper": "2025-04-17 21:53:36 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/blue_obsidian_glass_pane": {
+    "criteria": {
+      "has_blue_obsidian_glass": "2025-04-17 22:05:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/betternether/sign_post_wart": {
+    "criteria": {
+      "has_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_sinister": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 22:04:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-04-17 22:05:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_bone_block": "2025-04-17 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_plate": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
     },
     "done": true
   },
@@ -11820,6 +12224,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/wart_trapdoor": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_copper_cable_alt": {
     "criteria": {
       "has_copper": "2025-04-17 21:53:36 +0000"
@@ -11831,6 +12241,12 @@
       "0": "2025-04-17 21:53:36 +0000"
     },
     "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_wart": "2025-04-17 22:00:36 +0000"
+    },
+    "done": false
   },
   "create:recipes/misc/crafting/kinetics/mechanical_pump": {
     "criteria": {
@@ -11844,9 +12260,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_chest": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_pan": {
     "criteria": {
       "has_copper_block": "2025-04-17 21:53:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-04-17 22:03:38 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
     },
     "done": true
   },
@@ -11862,9 +12320,27 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
   "zenith:enchanting/30ench": {
     "criteria": {
       "enchanted_item": "2025-04-17 21:42:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_door": {
+    "criteria": {
+      "has_wart_planks": "2025-04-17 22:01:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-04-17 22:05:46 +0000"
     },
     "done": true
   },
@@ -11886,6 +12362,24 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_block.betternether.blue_obsidian": "2025-04-17 22:03:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-04-17 22:01:40 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-04-17 21:53:36 +0000"
@@ -11898,6 +12392,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 22:04:39 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 22:04:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 22:00:43 +0000"
+    },
+    "done": true
+  },
   "ae2:main/root": {
     "criteria": {
       "copper": "2025-04-17 21:53:36 +0000"
@@ -11907,6 +12425,18 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-17 21:40:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/dragon_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-17 21:59:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/bn_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-17 21:59:49 +0000"
     },
     "done": true
   },

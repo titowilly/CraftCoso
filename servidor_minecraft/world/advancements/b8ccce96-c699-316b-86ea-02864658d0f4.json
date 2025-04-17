@@ -15026,6 +15026,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/wall": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
@@ -15187,6 +15193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:main/root": {
     "criteria": {
       "entered_nether": "2025-04-17 21:27:23 +0000"
@@ -15196,6 +15208,12 @@
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -15343,6 +15361,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-04-17 22:04:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-17 21:44:45 +0000"
@@ -15451,6 +15475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-04-17 21:27:55 +0000"
@@ -15547,6 +15577,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/netherite_ingot_with_lava": {
+    "criteria": {
+      "has_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "quartzelv:recipes/building_blocks/quartz_elevator": {
     "criteria": {
       "has_quartz": "2025-04-17 21:29:04 +0000"
@@ -15604,6 +15640,12 @@
   "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
     "criteria": {
       "has_soul_sandstone": "2025-04-17 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -15811,6 +15853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-04-17 21:43:22 +0000"
@@ -15850,6 +15898,18 @@
   "techreborn:recipes/blast_furnace/gold_nugget_from_sword": {
     "criteria": {
       "has_golden_sword": "2025-04-17 21:48:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -15979,6 +16039,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-04-17 21:36:22 +0000"
@@ -15988,6 +16054,12 @@
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-17 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_obsidian_claymore": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -16060,6 +16132,12 @@
   "betternether:recipes/building_blocks/soul_sandstone_smelting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-04-17 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-04-17 22:04:51 +0000"
     },
     "done": true
   },
@@ -16150,6 +16228,12 @@
   "bewitchment:recipes/decorations/blackstone_witch_altar": {
     "criteria": {
       "has_item": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -16273,6 +16357,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/netherite_hammer": {
+    "criteria": {
+      "has_material": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/misc/void_fragment": {
     "criteria": {
       "has_item": "2025-04-17 21:07:59 +0000"
@@ -16300,6 +16390,12 @@
   "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-04-17 20:06:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-04-17 22:04:51 +0000"
     },
     "done": true
   },
@@ -16354,6 +16450,12 @@
   "bewitchment:recipes/decorations/brazier": {
     "criteria": {
       "has_item": "2025-04-17 20:06:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -16531,6 +16633,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_brick_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-17 21:44:45 +0000"
@@ -16591,9 +16699,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-17 21:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -16903,6 +17023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/soul_robe_chestplate": {
     "criteria": {
       "has_soul_sand": "2025-04-17 21:27:56 +0000"
@@ -17071,9 +17197,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-04-17 22:04:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
     "criteria": {
       "has_data_storage_chip": "2025-04-17 21:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
@@ -17110,6 +17248,12 @@
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
     },
     "done": true
   },
