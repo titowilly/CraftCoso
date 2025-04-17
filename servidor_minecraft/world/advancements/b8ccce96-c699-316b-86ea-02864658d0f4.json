@@ -9043,7 +9043,8 @@
       "rocky_meadow": "2025-04-17 02:22:31 +0000",
       "flower_fields": "2025-04-17 02:55:39 +0000",
       "highland_fields": "2025-04-17 02:20:34 +0000",
-      "magnolia_highlands": "2025-04-17 02:21:10 +0000"
+      "magnolia_highlands": "2025-04-17 02:21:10 +0000",
+      "cold_river": "2025-04-17 03:50:51 +0000"
     },
     "done": false
   },
@@ -9054,7 +9055,8 @@
       "rocky_meadow": "2025-04-17 02:22:31 +0000",
       "flower_fields": "2025-04-17 02:55:39 +0000",
       "highland_fields": "2025-04-17 02:20:34 +0000",
-      "magnolia_highlands": "2025-04-17 02:21:10 +0000"
+      "magnolia_highlands": "2025-04-17 02:21:10 +0000",
+      "cold_river": "2025-04-17 03:50:51 +0000"
     },
     "done": false
   },
@@ -12714,7 +12716,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-04-16 22:02:04 +0000"
+      "wheat": "2025-04-16 22:02:04 +0000",
+      "carrot": "2025-04-17 04:05:15 +0000"
     },
     "done": false
   },
@@ -14486,6 +14489,66 @@
   "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-17 02:34:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-04-17 03:13:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-04-17 03:14:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2025-04-17 03:14:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-17 03:14:34 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2025-04-17 03:14:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-17 03:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-17 03:14:36 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2025-04-17 03:14:36 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2025-04-17 03:57:02 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-04-17 03:48:20 +0000"
     },
     "done": true
   },

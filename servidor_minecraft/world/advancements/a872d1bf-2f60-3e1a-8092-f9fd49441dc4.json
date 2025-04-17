@@ -9813,17 +9813,101 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
+    "criteria": {
+      "has_diamond_boots": "2025-04-17 02:07:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
+    "criteria": {
+      "has_diamond_boots": "2025-04-17 02:07:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2025-04-17 02:20:42 +0000"
     },
     "done": true
   },
-  "betternether:all_the_biomes": {
+  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
     "criteria": {
-      "betternether:soul_plain": "2025-04-17 02:27:50 +0000"
+      "has_core_specification_item": "2025-04-17 02:20:42 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "techreborn:recipes/compressor/emerald_plate_from_block": {
+    "criteria": {
+      "has_emerald_block": "2025-04-17 02:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_pork": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-17 02:21:04 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
@@ -9831,15 +9915,21 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/maple/stairs": {
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
+      "has_raw_iron": "2025-04-17 02:24:46 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/centrifuge/baked_potato": {
+  "techreborn:recipes/centrifuge/raw_iron": {
     "criteria": {
-      "has_baked_potato": "2025-04-17 02:45:12 +0000"
+      "has_raw_iron": "2025-04-17 02:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-04-17 02:24:46 +0000"
     },
     "done": true
   },
@@ -9849,15 +9939,129 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/tools/moonstone_axe_right": {
+  "minecraft:nether/root": {
     "criteria": {
-      "has_item": "2025-04-17 02:38:45 +0000"
+      "entered_nether": "2025-04-17 02:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 02:27:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 02:27:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:soul_plain": "2025-04-17 02:27:50 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-04-17 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-17 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-04-17 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-17 02:31:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/wood": {
+    "criteria": {
+      "has_log": "2025-04-17 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 02:34:33 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/stairs": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
     },
     "done": true
   },
   "promenade:recipes/crafting/maple/door": {
     "criteria": {
       "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/button": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/sign": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/promenade/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/fence": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/slab": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-17 02:34:39 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-04-17 02:38:45 +0000"
     },
     "done": true
   },
@@ -9879,87 +10083,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
       "has_item": "2025-04-17 02:38:45 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/button": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-04-17 02:24:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_mercury": {
-    "criteria": {
-      "has_diamond_boots": "2025-04-17 02:07:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_boots_with_water": {
-    "criteria": {
-      "has_diamond_boots": "2025-04-17 02:07:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-04-17 02:45:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_electrolyzer/sand": {
-    "criteria": {
-      "has_sand": "2025-04-17 02:31:03 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_highland": {
-    "criteria": {
-      "has_core_specification_item": "2025-04-17 02:20:42 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig": {
-    "criteria": {
-      "has_porkchop": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/wood": {
-    "criteria": {
-      "has_log": "2025-04-17 02:34:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/pork_and_beans": {
-    "criteria": {
-      "has_pork": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/carnitas": {
-    "criteria": {
-      "has_porkchop": "2025-04-17 02:21:04 +0000"
     },
     "done": true
   },
@@ -9972,78 +10098,6 @@
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2025-04-17 02:38:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_bacon": {
-    "criteria": {
-      "has_porkchop": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/sign": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-04-17 02:27:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/emerald_plate_from_block": {
-    "criteria": {
-      "has_emerald_block": "2025-04-17 02:20:42 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/planks": {
-    "criteria": {
-      "has_logs": "2025-04-17 02:34:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/promenade/sign_post_maple": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-04-17 02:24:46 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/pork_jerky": {
-    "criteria": {
-      "has_pork": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/fence": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-04-17 02:21:04 +0000"
     },
     "done": true
   },
@@ -10065,63 +10119,9 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/maple/slab": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-04-17 02:24:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-04-17 02:27:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
-    "criteria": {
-      "has_magma_block": "2025-04-17 02:48:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-04-17 02:31:03 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:recipes/misc/fallen_icon_disc": {
     "criteria": {
       "has_item": "2025-04-17 02:38:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/pork_jerky": {
-    "criteria": {
-      "has_the_recipe": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/maple/pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-17 02:34:39 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_sand": {
-    "criteria": {
-      "has_item": "2025-04-17 02:31:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:enter_nether": {
-    "criteria": {
-      "entered_nether": "2025-04-17 02:27:44 +0000"
     },
     "done": true
   },
@@ -10137,27 +10137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-04-17 02:31:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-17 02:21:04 +0000"
-    },
-    "done": true
-  },
   "soulsweapons:moonstone": {
     "criteria": {
       "moonstone": "2025-04-17 02:38:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-04-17 02:21:04 +0000"
     },
     "done": true
   },
@@ -10167,9 +10149,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-04-17 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-04-17 02:45:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-04-17 02:45:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-04-17 02:48:38 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-04-17 03:52:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-04-17 03:53:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-04-17 03:54:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-04-17 03:53:43 +0000"
     },
     "done": true
   },

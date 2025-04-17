@@ -607,6 +607,7 @@
       "minecraft:ocean": "2025-04-16 20:19:53 +0000",
       "minecraft:jungle": "2025-04-17 00:05:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-16 19:51:46 +0000",
+      "minecraft:warm_ocean": "2025-04-17 03:11:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-17 01:26:40 +0000",
       "minecraft:flower_forest": "2025-04-16 20:26:55 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-16 19:27:32 +0000",
@@ -6688,6 +6689,7 @@
       "muddy_river": "2025-04-16 22:24:34 +0000",
       "willow_forest": "2025-04-16 20:22:09 +0000",
       "barley_fields": "2025-04-17 00:31:32 +0000",
+      "rocky_reef": "2025-04-17 03:10:42 +0000",
       "redstone_caves": "2025-04-16 23:35:57 +0000",
       "grassy_beach": "2025-04-16 20:21:25 +0000",
       "rocky_meadow": "2025-04-16 19:48:41 +0000",
@@ -6703,6 +6705,7 @@
       "sparse_redwoods": "2025-04-17 02:44:48 +0000",
       "deciduous_forest": "2025-04-17 00:30:21 +0000",
       "boreal_forest": "2025-04-16 20:38:49 +0000",
+      "chalk_cliffs": "2025-04-17 03:08:49 +0000",
       "bamboo_forest": "2025-04-17 00:00:46 +0000",
       "saguaro_desert": "2025-04-17 02:50:59 +0000",
       "temperate_grove": "2025-04-16 19:58:30 +0000",
@@ -6724,6 +6727,7 @@
       "muddy_river": "2025-04-16 22:24:34 +0000",
       "willow_forest": "2025-04-16 20:22:09 +0000",
       "barley_fields": "2025-04-17 00:31:32 +0000",
+      "rocky_reef": "2025-04-17 03:10:42 +0000",
       "grassy_beach": "2025-04-16 20:21:25 +0000",
       "rocky_meadow": "2025-04-16 19:48:41 +0000",
       "blackwood_taiga": "2025-04-16 20:51:57 +0000",
@@ -6738,6 +6742,7 @@
       "sparse_redwoods": "2025-04-17 02:44:48 +0000",
       "deciduous_forest": "2025-04-17 00:30:21 +0000",
       "boreal_forest": "2025-04-16 20:38:49 +0000",
+      "chalk_cliffs": "2025-04-17 03:08:49 +0000",
       "bamboo_forest": "2025-04-17 00:00:46 +0000",
       "saguaro_desert": "2025-04-17 02:50:59 +0000",
       "temperate_grove": "2025-04-16 19:58:30 +0000",
@@ -10613,21 +10618,87 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/pink_sheet": {
+  "techreborn:recipes/crafting_table/machine/alarm": {
     "criteria": {
-      "has_pink_sheet": "2025-04-17 02:54:05 +0000"
+      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
     "criteria": {
-      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+      "has_refined_iron": "2025-04-17 02:33:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed": {
+  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
     "criteria": {
-      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+      "has_refined_iron": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
+    "criteria": {
+      "has_refined_iron": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:refinediron": {
+    "criteria": {
+      "crit_0": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/hv_cable": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
+    "criteria": {
+      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
+    "criteria": {
+      "has_refined_iron": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/refined_iron_plate": {
+    "criteria": {
+      "has_tag_c_refined_iron_ingots": "2025-04-17 02:33:38 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-04-17 02:34:48 +0000"
     },
     "done": true
   },
@@ -10643,39 +10714,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/sand_from_chiseled_sandstone": {
-    "criteria": {
-      "has_chiseled_sandstone": "2025-04-17 02:55:30 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/misc/redstone_root": {
     "criteria": {
       "has_item": "2025-04-17 02:35:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_banner": {
-    "criteria": {
-      "has_pink_wool": "2025-04-17 02:54:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_chiseled_sandstone": "2025-04-17 02:55:30 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/alarm": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
-    "criteria": {
-      "has_log": "2025-04-17 02:45:59 +0000"
     },
     "done": true
   },
@@ -10703,12 +10744,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
-    "criteria": {
-      "has_oak_stairs": "2025-04-17 02:35:52 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2025-04-17 02:35:48 +0000"
@@ -10721,39 +10756,9 @@
     },
     "done": true
   },
-  "endrem:main/rogue_eye": {
-    "criteria": {
-      "rogue_eye": "2025-04-17 02:48:55 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron_and_carbon": {
-    "criteria": {
-      "has_refined_iron": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/steel_ingot_from_refined_iron": {
-    "criteria": {
-      "has_refined_iron": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/pink_cushion": {
-    "criteria": {
-      "has_pink_cushion": "2025-04-17 02:54:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-04-17 02:35:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/wire_mill/hv_cable": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
     },
     "done": true
   },
@@ -10763,63 +10768,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/food/barley_smelting": {
-    "criteria": {
-      "has_barley": "2025-04-17 02:37:49 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/food/barley_smoking": {
-    "criteria": {
-      "has_barley": "2025-04-17 02:37:49 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_pink": {
-    "criteria": {
-      "has_pink_wool": "2025-04-17 02:54:05 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/electronic_circuit": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-17 02:35:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/misc_block/refined_iron_fence": {
-    "criteria": {
-      "has_refined_iron": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "archon:learn_spell": {
-    "criteria": {
-      "spell": "2025-04-17 02:34:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/assembling_machine/pink_bed_from_wool": {
-    "criteria": {
-      "has_pink_wool": "2025-04-17 02:54:05 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/refined_iron_storage_block": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
-    "criteria": {
-      "has_log": "2025-04-17 02:45:59 +0000"
     },
     "done": true
   },
@@ -10832,36 +10783,6 @@
   "techreborn:recipes/centrifuge/redstone": {
     "criteria": {
       "has_redstone": "2025-04-17 02:35:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:refinediron": {
-    "criteria": {
-      "crit_0": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_pink": {
-    "criteria": {
-      "has_pink_wool": "2025-04-17 02:54:05 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
-    "criteria": {
-      "has_logs": "2025-04-17 02:45:59 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine_block/basic_machine_frame": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
-    "criteria": {
-      "has_eucalyptus_sapling": "2025-04-17 02:45:59 +0000"
     },
     "done": true
   },
@@ -10895,18 +10816,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/crank": {
-    "criteria": {
-      "has_cobblestone_slab": "2025-04-17 02:47:28 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/cable/hv_cable": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-17 02:35:48 +0000"
@@ -10931,12 +10840,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_chiseled_sandstone": "2025-04-17 02:55:30 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2025-04-17 02:35:48 +0000"
@@ -10946,12 +10849,6 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-17 02:35:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/refined_iron_nugget": {
-    "criteria": {
-      "has_refined_iron_ingot": "2025-04-17 02:33:38 +0000"
     },
     "done": true
   },
@@ -10967,21 +10864,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cable/insulated_hv_cable": {
-    "criteria": {
-      "has_refined_iron": "2025-04-17 02:33:38 +0000"
-    },
-    "done": true
-  },
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2025-04-17 02:35:48 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/refined_iron_plate": {
-    "criteria": {
-      "has_tag_c_refined_iron_ingots": "2025-04-17 02:33:38 +0000"
     },
     "done": true
   },
@@ -11009,15 +10894,243 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
+    "criteria": {
+      "has_oak_stairs": "2025-04-17 02:35:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smelting": {
+    "criteria": {
+      "has_barley": "2025-04-17 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/food/barley_smoking": {
+    "criteria": {
+      "has_barley": "2025-04-17 02:37:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2025-04-17 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
+    "criteria": {
+      "has_eucalyptus_sapling": "2025-04-17 02:45:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-04-17 02:47:28 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-04-17 02:48:55 +0000"
+    },
+    "done": true
+  },
   "endrem:main/root": {
     "criteria": {
       "rogue_eye": "2025-04-17 02:48:55 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pink_sheet": {
+    "criteria": {
+      "has_pink_sheet": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/pink_sleeping_bag": {
+    "criteria": {
+      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_cushion": {
+    "criteria": {
+      "has_pink_cushion": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/pink_bed_from_wool": {
+    "criteria": {
+      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_pink_wool": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2025-04-17 02:54:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/sand_from_chiseled_sandstone": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-17 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-17 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-04-17 02:55:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_button": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_trapdoor": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_door": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_fence_gate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_fence": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
+    "criteria": {
+      "has_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 03:08:36 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "double_flower": "2025-04-17 03:16:02 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_gray_double": {
+    "criteria": {
+      "has_item": "2025-04-17 03:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-17 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-17 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-17 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-17 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-17 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-17 03:20:58 +0000"
     },
     "done": true
   },
