@@ -984,6 +984,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-16 18:56:54 +0000",
+      "cooked_mutton": "2025-04-17 22:13:02 +0000",
       "baked_potato": "2025-04-17 02:45:16 +0000",
       "porkchop": "2025-04-17 06:49:29 +0000",
       "potato": "2025-04-17 06:35:43 +0000",
@@ -10357,6 +10358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-17 22:06:08 +0000",
@@ -10376,9 +10383,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-17 22:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/angler_pottery_sherd": {
     "criteria": {
       "has_fishing_rod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2025-04-17 22:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
     },
     "done": true
   },
@@ -10388,9 +10425,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/wooden_brewingstation": {
     "criteria": {
       "has_furnace": "2025-04-17 22:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-17 22:12:55 +0000"
     },
     "done": true
   },
@@ -10406,9 +10467,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-04-17 21:19:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-04-17 22:12:08 +0000"
     },
     "done": true
   },
@@ -10417,6 +10502,12 @@
       "anchovy": "2025-04-17 21:59:05 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-17 22:12:55 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/extractor/sponge_piece_from_cod": {
     "criteria": {
@@ -10427,6 +10518,60 @@
   "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
     "criteria": {
       "has_anchovy": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-17 22:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2025-04-17 22:16:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
     },
     "done": true
   },
@@ -10442,6 +10587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 22:16:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-04-17 21:19:33 +0000"
@@ -10454,9 +10605,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-04-17 22:16:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/anchovy_pizza": {
     "criteria": {
       "has_anchovies": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
     },
     "done": true
   },
@@ -10466,9 +10629,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
     "criteria": {
       "has_furnace": "2025-04-17 22:00:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
     },
     "done": true
   },
@@ -10490,9 +10665,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/glass_vial": {
+    "criteria": {
+      "has_item": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-04-17 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
     },
     "done": true
   },
@@ -10502,9 +10689,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-17 22:16:10 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
     "criteria": {
       "has_kelp": "2025-04-17 21:19:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 22:16:10 +0000"
     },
     "done": true
   },
@@ -10514,15 +10719,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_lava_bucket": {
     "criteria": {
       "has_lava_bucket": "2025-04-17 22:01:27 +0000"
     },
     "done": true
   },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2025-04-17 22:12:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/soul_soil": {
     "criteria": {
       "has_soul_soil": "2025-04-17 22:02:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-04-17 22:12:08 +0000"
     },
     "done": true
   },

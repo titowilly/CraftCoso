@@ -15055,6 +15055,7 @@
       "betternether:wart_forest_edge": "2025-04-17 21:29:03 +0000",
       "betternether:gravel_desert": "2025-04-17 21:35:27 +0000",
       "betternether:crimson_glowing_woods": "2025-04-17 21:40:09 +0000",
+      "betternether:nether_mushroom_forest_edge": "2025-04-17 22:17:45 +0000",
       "betternether:nether_jungle": "2025-04-17 21:38:32 +0000",
       "betternether:wart_forest": "2025-04-17 21:27:24 +0000"
     },
@@ -15133,9 +15134,21 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-04-17 22:13:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-04-17 21:43:29 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/computer_advanced": {
+    "criteria": {
+      "has_components": "2025-04-17 22:07:48 +0000"
     },
     "done": true
   },
@@ -15313,6 +15326,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/alarm": {
+    "criteria": {
+      "has_redstone_block": "2025-04-17 22:09:54 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-17 21:44:45 +0000"
@@ -15322,6 +15341,12 @@
   "betternether:recipes/misc/farmland": {
     "criteria": {
       "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_item": "2025-04-17 22:09:54 +0000"
     },
     "done": true
   },
@@ -15553,6 +15578,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 22:09:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/regions_unexplored/sign_post_redwood": {
     "criteria": {
       "has_planks": "2025-04-17 18:42:15 +0000"
@@ -15583,6 +15614,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-17 22:22:11 +0000"
+    },
+    "done": true
+  },
   "quartzelv:recipes/building_blocks/quartz_elevator": {
     "criteria": {
       "has_quartz": "2025-04-17 21:29:04 +0000"
@@ -15604,6 +15641,12 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-17 22:22:11 +0000"
     },
     "done": true
   },
@@ -15904,6 +15947,12 @@
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-04-17 22:13:52 +0000"
     },
     "done": true
   },
@@ -16315,6 +16364,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-04-17 22:09:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/tin_cable": {
     "criteria": {
       "has_tin_ingot": "2025-04-17 21:58:51 +0000"
@@ -16609,6 +16664,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/reinforced_core": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 22:10:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-04-17 21:44:45 +0000"
@@ -16663,6 +16724,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/diamond_plate_from_block": {
+    "criteria": {
+      "has_diamond_block": "2025-04-17 22:22:11 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_stairs": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
@@ -16687,6 +16754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-17 22:09:54 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/columns/blackstone_column_stonecutting": {
     "criteria": {
       "has_item": "2025-04-17 21:29:02 +0000"
@@ -16702,6 +16775,18 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-04-17 22:00:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-04-17 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/reinforced_impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 22:22:16 +0000"
     },
     "done": true
   },
@@ -16756,6 +16841,12 @@
   "mcdw:recipes/swords/sword_sinister": {
     "criteria": {
       "has_nether_wart": "2025-04-17 21:48:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_depth": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-17 22:22:11 +0000"
     },
     "done": true
   },
@@ -17137,6 +17228,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-17 22:22:11 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_hoe": {
     "criteria": {
       "has_nether_quartz": "2025-04-17 21:29:04 +0000"
@@ -17146,6 +17243,12 @@
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-04-17 22:09:54 +0000"
     },
     "done": true
   },
@@ -17218,6 +17321,12 @@
   "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-17 22:22:11 +0000"
     },
     "done": true
   },
@@ -17374,6 +17483,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-17 22:22:11 +0000"
     },
     "done": true
   },
