@@ -2551,6 +2551,7 @@
       "minecraft:pillager": "2025-04-16 20:57:08 +0000",
       "minecraft:skeleton": "2025-04-16 19:14:41 +0000",
       "minecraft:spider": "2025-04-16 19:15:17 +0000",
+      "minecraft:creeper": "2025-04-17 19:30:52 +0000",
       "minecraft:witch": "2025-04-17 06:04:20 +0000",
       "minecraft:wither_skeleton": "2025-04-16 19:02:17 +0000",
       "minecraft:cave_spider": "2025-04-16 23:35:16 +0000",
@@ -14338,6 +14339,78 @@
   "regions_unexplored:recipes/decorations/redwood_hanging_sign": {
     "criteria": {
       "has_stripped_redwood_log": "2025-04-17 07:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 19:30:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/enchanted_golden_apple": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-17 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_lantern": "2025-04-17 19:32:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2025-04-17 19:30:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-04-17 19:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-17 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 19:30:52 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 19:30:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 19:30:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 19:30:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-04-17 19:31:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 19:30:52 +0000"
     },
     "done": true
   },
