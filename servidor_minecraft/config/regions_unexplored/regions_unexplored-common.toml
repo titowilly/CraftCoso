@@ -1,3 +1,19 @@
+#Config for Regions Unexplored!
+[region_configs]
+	#Sets Terrablender region weight for the primary region.
+	#Range: 0 ~ 2147483646
+	primary_region_weight = 11
+	#Enable this before changing the other region config files. If disabled, RU will use builtin biome placement.
+	toggle_custom_regions = false
+	#Sets Terrablender region weight for Nether region.
+	#Range: 0 ~ 2147483646
+	nether_region_weight = 14
+	#Sets Terrablender region weight for the secondary region.
+	#Range: 0 ~ 2147483646
+	secondary_region_weight = 8
+	#Sets Terrablender region weight for the rare region.
+	#Range: 0 ~ 2147483646
+	rare_region_weight = 1
 [biome_toggles]
 	toggle_boreal_taiga = true
 	toggle_cold_boreal_taiga = true
@@ -15,8 +31,8 @@
 	toggle_tropical_river = true
 	toggle_willow_forest = true
 	toggle_eucalyptus_forest = true
-	toggle_bamboo_forest = true
 	toggle_smouldering_woodland = true
+	toggle_bamboo_forest = true
 	toggle_redwoods = true
 	toggle_highland_fields = true
 	toggle_scorching_caves = true
@@ -36,8 +52,8 @@
 	toggle_mountains = true
 	toggle_clover_plains = true
 	toggle_rainforest = true
-	toggle_redstone_hell = true
 	toggle_frozen_pine_taiga = true
+	toggle_redstone_hell = true
 	toggle_flower_field = true
 	toggle_muddy_river = true
 	toggle_silver_birch_forest = true
@@ -77,22 +93,6 @@
 [worldgen_options]
 	#surface_rules
 	toggle_custom_dirt = true
-#Config for Regions Unexplored!
-[region_configs]
-	#Sets Terrablender region weight for the primary region.
-	#Range: 0 ~ 2147483646
-	primary_region_weight = 11
-	#Enable this before changing the other region config files. If disabled, RU will use builtin biome placement.
-	toggle_custom_regions = false
-	#Sets Terrablender region weight for Nether region.
-	#Range: 0 ~ 2147483646
-	nether_region_weight = 14
-	#Sets Terrablender region weight for the secondary region.
-	#Range: 0 ~ 2147483646
-	secondary_region_weight = 8
-	#Sets Terrablender region weight for the rare region.
-	#Range: 0 ~ 2147483646
-	rare_region_weight = 1
 [client_options]
 	toggle_mauve_leaves_particles = true
 	toggle_white_magnolia_leaves_particles = true

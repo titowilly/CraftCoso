@@ -28,5 +28,11 @@
     "name": "ile",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8e6c0bba-cfff-3e11-bcf8-05f7893dd6f0",
+    "name": "ileo",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
