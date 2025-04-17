@@ -3261,3 +3261,48 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[20:01:42] [Server thread/INFO]: [Handshake] Sending channel query
+[20:01:42] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[20:01:42] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[20:01:42] [Server thread/INFO]: fandangolol[/127.198.28.64:51799] logged in with entity id 46966 at (-717.1183697031028, 63.0, -265.68136833366253)
+[20:01:42] [Server thread/INFO]: Sending server config values to client
+[20:01:42] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[20:01:42] [Server thread/INFO]: Loading config from file...
+[20:01:42] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:01:42] [Server thread/INFO]: fandangolol joined the game
+[20:01:42] [Server thread/INFO]: Loading Configs for Sortilege
+[20:01:42] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:01:42] [Server thread/INFO]: PLAYER_JOIN
+[20:01:42] [Server thread/INFO]: add_player wand
+[20:01:42] [Server thread/INFO]: config sent
+[20:01:42] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[20:01:46] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[20:01:48] [Server thread/INFO]: <santipro01> FANDANGOLOL?
+[20:02:02] [Server thread/INFO]: <santipro01> ERES TU?
+[20:02:10] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[20:02:10] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[20:02:20] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:04:35] [Server thread/INFO]: <fandangolol> quien es ese??
+[20:04:46] [Server thread/INFO]: <santipro01> osy amigo de tito xdd
+[20:04:48] [Server thread/INFO]: <Brick_123> es el autista del nikus
+[20:04:57] [Server thread/INFO]: <Brick_123> tiene retraso man entiendele bartolito tek
+[20:04:59] [Server thread/INFO]: <fandangolol> y porque no se puso nikus
+[20:05:07] [Server thread/INFO]: <Brick_123> tiene down p
+[20:05:28] [Server thread/INFO]: <fandangolol> no le han pasado cords de la base verdad??
+[20:05:35] [Server thread/INFO]: <santipro01> ya las encontre
+[20:05:40] [Server thread/INFO]: <fandangolol> ptm
+[20:06:20] [Server thread/INFO]: santipro01 was slain by Skeleton
+[20:06:23] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of santipro01 accepted server config.
+[20:06:51] [Server thread/INFO]: <fandangolol> que es esa plataforma de piedra??
+[20:07:04] [Server thread/INFO]: <Brick_123> mia p
+[20:07:06] [Server thread/INFO]: <Brick_123> mi granja de madera
+[20:07:12] [Server thread/INFO]: <santipro01> es el rich mc
+[20:07:12] [Server thread/INFO]: <fandangolol> ay
+[20:07:15] [Server thread/INFO]: <fandangolol> aya
+[20:07:25] [Server thread/INFO]: <Brick_123> oe ya hay todos los enchants del pico
+[20:07:39] [Server thread/INFO]: <fandangolol> speedrun
+[20:07:45] [Server thread/INFO]: <fandangolol> solo tardamos medio dia
+[20:07:49] [Server thread/INFO]: <fandangolol> y no como antes
+[20:07:56] [Server thread/INFO]: <fandangolol> 2*
+[20:08:22] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at -741, 6, -242, minecraft:overworld
+[20:08:33] [Server thread/INFO]: santipro01 claimed a grave belonging to santipro01 at 18, 91, 78, minecraft:overworld

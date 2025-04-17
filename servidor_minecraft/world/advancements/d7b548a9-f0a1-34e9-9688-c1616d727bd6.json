@@ -15567,99 +15567,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/ender_perl_to_block": {
-    "criteria": {
-      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_eye_amber": {
-    "criteria": {
-      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/grass_slab": {
-    "criteria": {
-      "has_grass_block": "2025-04-17 06:22:52 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_fire": {
-    "criteria": {
-      "book": "2025-04-17 06:34:51 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_archer": {
-    "criteria": {
-      "book": "2025-04-17 06:34:37 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/deepslate_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/local_void": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_frost": {
-    "criteria": {
-      "book": "2025-04-17 06:34:54 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/meringue": {
     "criteria": {
       "has_egg": "2025-04-17 06:17:26 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
-    "criteria": {
-      "has_diamond_helmet": "2025-04-17 06:31:04 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/blackstone_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_pearl_to_dust": {
-    "criteria": {
-      "has_item.minecraft.ender_pearl": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_arcane": {
-    "criteria": {
-      "book": "2025-04-17 06:34:47 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/nether_brick_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/abyss_watcher": {
-    "criteria": {
-      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
     },
     "done": true
   },
@@ -15669,63 +15579,9 @@
     },
     "done": true
   },
-  "fwaystones:recipes/end_stone_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/desert_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "transmog:recipes/misc/void_fragment": {
-    "criteria": {
-      "has_item": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/tomatillo_seed": {
-    "criteria": {
-      "has_tomatillo": "2025-04-17 06:24:32 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/stone_brick_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/cake": {
     "criteria": {
       "has_egg": "2025-04-17 06:17:26 +0000"
-    },
-    "done": true
-  },
-  "adventurez:recipes/ender_flute_recipe": {
-    "criteria": {
-      "got_the_ender_pearl": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipes/waystone_scroll": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-04-17 06:30:35 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-04-17 06:30:35 +0000"
     },
     "done": true
   },
@@ -15735,75 +15591,15 @@
     },
     "done": true
   },
-  "fwaystones:recipes/red_desert_waystone": {
-    "criteria": {
-      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_priest": {
-    "criteria": {
-      "book": "2025-04-17 06:34:22 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/tools/waystone": {
-    "criteria": {
-      "has_item": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-04-17 06:17:26 +0000"
     },
     "done": true
   },
-  "mythicmounts:summoning_staff": {
-    "criteria": {
-      "has_pearl": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/ender_eye": {
-    "criteria": {
-      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/cantaloupe_seed": {
-    "criteria": {
-      "has_cantaloupe": "2025-04-17 06:24:27 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2025-04-17 06:17:26 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/blackberry_jam": {
-    "criteria": {
-      "has_blackberry": "2025-04-17 06:24:19 +0000"
-    },
-    "done": true
-  },
-  "rpg_series:path_choose_warrior": {
-    "criteria": {
-      "book": "2025-04-17 06:34:29 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/grass_block": {
-    "criteria": {
-      "has_grass_block": "2025-04-17 06:22:52 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/melon_juice": {
-    "criteria": {
-      "has_melon": "2025-04-17 06:24:27 +0000"
     },
     "done": true
   },
@@ -15819,9 +15615,21 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+  "vinery:recipes/grass_slab": {
     "criteria": {
-      "has_diamond_helmet": "2025-04-17 06:31:04 +0000"
+      "has_grass_block": "2025-04-17 06:22:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/grass_block": {
+    "criteria": {
+      "has_grass_block": "2025-04-17 06:22:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blackberry_jam": {
+    "criteria": {
+      "has_blackberry": "2025-04-17 06:24:19 +0000"
     },
     "done": true
   },
@@ -15831,9 +15639,45 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
+  "croptopia:recipes/misc/cantaloupe_seed": {
     "criteria": {
-      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
+      "has_cantaloupe": "2025-04-17 06:24:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-04-17 06:24:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomatillo_seed": {
+    "criteria": {
+      "has_tomatillo": "2025-04-17 06:24:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-04-17 06:30:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-04-17 06:30:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-17 06:31:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-17 06:31:04 +0000"
     },
     "done": true
   },
@@ -15843,15 +15687,171 @@
     },
     "done": true
   },
+  "rpg_series:path_choose_priest": {
+    "criteria": {
+      "book": "2025-04-17 06:34:22 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_warrior": {
+    "criteria": {
+      "book": "2025-04-17 06:34:29 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_archer": {
+    "criteria": {
+      "book": "2025-04-17 06:34:37 +0000"
+    },
+    "done": true
+  },
   "rpg_series:path_choose_rogue": {
     "criteria": {
       "book": "2025-04-17 06:34:40 +0000"
     },
     "done": true
   },
+  "rpg_series:path_choose_arcane": {
+    "criteria": {
+      "book": "2025-04-17 06:34:47 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_fire": {
+    "criteria": {
+      "book": "2025-04-17 06:34:51 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:path_choose_frost": {
+    "criteria": {
+      "book": "2025-04-17 06:34:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
   "transmog:recipes/misc/transmogrification_table": {
     "criteria": {
       "has_item": "2025-04-17 06:46:16 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/deepslate_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/local_void": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/blackstone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/end_stone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/stone_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone_scroll": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/red_desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
     },
     "done": true
   },
