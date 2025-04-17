@@ -12476,33 +12476,33 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
-    "criteria": {
-      "has_sweetpotato": "2025-04-17 21:23:39 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/celery_seed": {
-    "criteria": {
-      "has_celery": "2025-04-17 21:23:48 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/sweet_potato_fries": {
-    "criteria": {
-      "has_sweetpotatos": "2025-04-17 21:23:39 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
       "has_item": "2025-04-17 21:21:05 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/blueberry_jam": {
+  "bewitchment:recipes/food/grilled_garlic": {
     "criteria": {
-      "has_blueberry": "2025-04-17 21:23:53 +0000"
+      "has_item": "2025-04-17 21:21:05 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2025-04-17 21:21:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-04-17 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2025-04-17 21:23:39 +0000"
     },
     "done": true
   },
@@ -12518,9 +12518,34 @@
     },
     "done": true
   },
-  "croptopia:recipes/refried_beans": {
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
     "criteria": {
-      "has_beans": "2025-04-17 21:23:55 +0000"
+      "has_sweetpotato": "2025-04-17 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/celery_seed": {
+    "criteria": {
+      "has_celery": "2025-04-17 21:23:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomatillo_seed": "2025-04-17 21:24:37 +0000",
+      "blackberry_seed": "2025-04-17 21:24:42 +0000",
+      "cantaloupe_seed": "2025-04-17 21:24:34 +0000",
+      "blackbean_seed": "2025-04-17 21:24:28 +0000",
+      "cauliflower_seed": "2025-04-17 21:23:54 +0000",
+      "blueberry_seed": "2025-04-17 21:23:53 +0000",
+      "celery_seed": "2025-04-17 21:23:48 +0000",
+      "raspberry_seed": "2025-04-17 21:23:53 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/misc/blueberry_jam": {
+    "criteria": {
+      "has_blueberry": "2025-04-17 21:23:53 +0000"
     },
     "done": true
   },
@@ -12530,27 +12555,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/pepper_seed": {
-    "criteria": {
-      "has_pepper": "2025-04-17 21:24:42 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/baked_beans_from_smoking_blackbean": {
-    "criteria": {
-      "has_blackbean": "2025-04-17 21:23:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/misc/blueberry_seed": {
     "criteria": {
       "has_blueberry": "2025-04-17 21:23:53 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/paprika": {
-    "criteria": {
-      "has_chile_peppers": "2025-04-17 21:25:01 +0000"
     },
     "done": true
   },
@@ -12560,15 +12567,21 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/tomatillo_seed": {
+  "croptopia:recipes/misc/cauliflower_seed": {
     "criteria": {
-      "has_tomatillo": "2025-04-17 21:24:38 +0000"
+      "has_cauliflower": "2025-04-17 21:23:54 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/pepperoni": {
+  "croptopia:recipes/refried_beans": {
     "criteria": {
-      "has_pepper": "2025-04-17 21:25:01 +0000"
+      "has_beans": "2025-04-17 21:23:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_beans_from_smoking_blackbean": {
+    "criteria": {
+      "has_blackbean": "2025-04-17 21:23:55 +0000"
     },
     "done": true
   },
@@ -12590,40 +12603,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/cauliflower_seed": {
+  "croptopia:recipes/tostada": {
     "criteria": {
-      "has_cauliflower": "2025-04-17 21:23:54 +0000"
+      "has_beans": "2025-04-17 21:23:55 +0000"
     },
     "done": true
-  },
-  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
-    "criteria": {
-      "has_sweetpotato": "2025-04-17 21:23:39 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "tomatillo_seed": "2025-04-17 21:24:37 +0000",
-      "blackberry_seed": "2025-04-17 21:24:42 +0000",
-      "cantaloupe_seed": "2025-04-17 21:24:34 +0000",
-      "blackbean_seed": "2025-04-17 21:24:28 +0000",
-      "cauliflower_seed": "2025-04-17 21:23:54 +0000",
-      "blueberry_seed": "2025-04-17 21:23:53 +0000",
-      "celery_seed": "2025-04-17 21:23:48 +0000",
-      "raspberry_seed": "2025-04-17 21:23:53 +0000"
-    },
-    "done": false
   },
   "croptopia:recipes/misc/cantaloupe_seed": {
     "criteria": {
       "has_cantaloupe": "2025-04-17 21:24:34 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/blackberry_jam": {
-    "criteria": {
-      "has_blackberry": "2025-04-17 21:24:41 +0000"
     },
     "done": true
   },
@@ -12633,15 +12621,39 @@
     },
     "done": true
   },
-  "bewitchment:recipes/food/grilled_garlic": {
+  "croptopia:recipes/misc/tomatillo_seed": {
     "criteria": {
-      "has_item": "2025-04-17 21:21:05 +0000"
+      "has_tomatillo": "2025-04-17 21:24:38 +0000"
     },
     "done": true
   },
-  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+  "croptopia:recipes/misc/blackberry_jam": {
     "criteria": {
-      "has_item": "2025-04-17 21:21:05 +0000"
+      "has_blackberry": "2025-04-17 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blackberry_seed": {
+    "criteria": {
+      "has_blackberry": "2025-04-17 21:24:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pepper_seed": {
+    "criteria": {
+      "has_pepper": "2025-04-17 21:24:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_chile_peppers": "2025-04-17 21:25:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2025-04-17 21:25:01 +0000"
     },
     "done": true
   },
@@ -12651,15 +12663,201 @@
     },
     "done": true
   },
-  "croptopia:recipes/tostada": {
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
     "criteria": {
-      "has_beans": "2025-04-17 21:23:55 +0000"
+      "has_item": "2025-04-17 21:41:07 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/blackberry_seed": {
+  "techreborn:recipes/misc/smelting/refined_iron_plate_from_c_iron_plates": {
     "criteria": {
-      "has_blackberry": "2025-04-17 21:24:41 +0000"
+      "has_tag_c_iron_plates": "2025-04-17 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/steel_plate_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/basic_machine_casing_alt": {
+    "criteria": {
+      "has_iron_plate": "2025-04-17 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-04-17 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-04-17 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-04-17 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_slab": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/refined_iron_plate_from_c_iron_plates": {
+    "criteria": {
+      "has_tag_c_iron_plates": "2025-04-17 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_stairs_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall_stonecutter": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-04-17 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-04-17 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-04-17 21:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-17 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2025-04-17 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/steel_dust_from_block": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-04-17 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-04-17 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/steel_blocks_wall": {
+    "criteria": {
+      "has_tag_c_steel_blocks": "2025-04-17 21:43:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2025-04-17 21:41:07 +0000"
     },
     "done": true
   },

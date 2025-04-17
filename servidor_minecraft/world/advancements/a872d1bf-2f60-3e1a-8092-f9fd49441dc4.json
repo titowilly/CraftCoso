@@ -8158,6 +8158,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-04-17 21:40:56 +0000",
       "carrot": "2025-04-16 21:18:58 +0000"
     },
     "done": false

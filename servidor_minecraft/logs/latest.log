@@ -5039,3 +5039,72 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:40:29] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
 [21:40:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12260ms or 245 ticks behind
 [21:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10832ms or 216 ticks behind
+[21:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16426ms or 328 ticks behind
+[21:42:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13332ms or 266 ticks behind
+[21:42:26] [Server thread/INFO]: Brick_123 has made the advancement [Those Were the Days]
+[21:42:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9490ms or 189 ticks behind
+[21:42:44] [Server thread/INFO]: Cuak17 has made the advancement [The Basics]
+[21:42:44] [Server thread/INFO]: Cuak17 has made the advancement [Enchanter]
+[21:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9290ms or 185 ticks behind
+[21:43:22] [Server thread/INFO]: Brick_123 has made the advancement [War Pigs]
+[21:43:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9567ms or 191 ticks behind
+[21:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9356ms or 187 ticks behind
+[21:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8594ms or 171 ticks behind
+[21:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9140ms or 182 ticks behind
+[21:45:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8271ms or 165 ticks behind
+[21:45:29] [Server thread/INFO]: fandangolol burned to death
+[21:45:29] [Server thread/INFO]: Created new backpack backup file for fandangolol with unique ID travelersbackpack.cow_17.04.2025-21.45.29.dat
+[21:45:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7988ms or 159 ticks behind
+[21:45:30] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9383ms or 187 ticks behind
+[21:45:59] [Server thread/INFO]: <fandangolol> quien esta en base??
+[21:46:07] [Server thread/INFO]: <TitoWilly> yo
+[21:46:16] [Server thread/INFO]: <fandangolol> hazme tp c:
+[21:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8968ms or 179 ticks behind
+[21:46:24] [Server thread/INFO]: <TitoWilly> mira general
+[21:46:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9637ms or 192 ticks behind
+[21:46:58] [Server thread/INFO]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[21:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8630ms or 172 ticks behind
+[21:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6956ms or 139 ticks behind
+[21:47:38] [Server thread/INFO]: [Handshake] Sending channel query
+[21:47:38] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[21:47:38] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[21:47:41] [Server thread/INFO]: santipro01[/127.61.205.57:38399] logged in with entity id 157930 at (683.1013575327784, 69.0, -1206.0263390587006)
+[21:47:41] [Server thread/INFO]: Sending server config values to client
+[21:47:41] [Server thread/INFO]: Syncing config to santipro01 (b9f5aafc-3b9c-3380-acbc-2cc6b3fc9b4b)
+[21:47:41] [Server thread/INFO]: Loading config from file...
+[21:47:41] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:47:41] [Server thread/INFO]: santipro01 joined the game
+[21:47:41] [Server thread/INFO]: Loading Configs for Sortilege
+[21:47:41] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:47:41] [Server thread/INFO]: Updating all forceload tickets for b9f5aafc-3b9c-3380-acbc-2cc6b3fc9b4b
+[21:47:41] [Server thread/INFO]: PLAYER_JOIN
+[21:47:41] [Server thread/INFO]: add_player wand
+[21:47:41] [Server thread/INFO]: config sent
+[21:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9056ms or 181 ticks behind
+[21:48:01] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: santipro01 -> Global
+[21:48:01] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player santipro01. Claiming: GRAVE / Robbing: INVENTORY
+[21:48:01] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[21:48:11] [Server thread/INFO]: No return portal found
+[21:48:11] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:48:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11596ms or 231 ticks behind
+[21:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11459ms or 229 ticks behind
+[21:49:09] [Server thread/INFO]: ileo has made the advancement [Oh Shiny]
+[21:49:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10935ms or 218 ticks behind
+[21:49:25] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of santipro01 accepted server config.
+[21:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11858ms or 237 ticks behind
+[21:49:41] [Server thread/INFO]: santipro01 lost connection: Timed out
+[21:49:41] [Server thread/INFO]: santipro01 left the game
+[21:49:41] [Server thread/INFO]: remove player wand
+[21:49:41] [Server thread/INFO]: Updating all forceload tickets for b9f5aafc-3b9c-3380-acbc-2cc6b3fc9b4b
+[21:49:52] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at 117, 15, 57, minecraft:the_nether
+[21:50:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7937ms or 158 ticks behind
+[21:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7927ms or 158 ticks behind
+[21:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6874ms or 137 ticks behind
+[21:51:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7599ms or 151 ticks behind
+[21:51:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8215ms or 164 ticks behind
+[21:51:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8314ms or 166 ticks behind
+[21:52:08] [Server thread/INFO]: ileo was slain by Zombified Piglin
+[21:52:08] [Server thread/INFO]: Created new backpack backup file for ileo with unique ID travelersbackpack.standard_17.04.2025-21.52.08.dat
+[21:52:09] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of ileo accepted server config.
+[21:52:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9120ms or 182 ticks behind
