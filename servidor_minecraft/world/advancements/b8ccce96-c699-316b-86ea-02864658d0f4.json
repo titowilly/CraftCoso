@@ -296,6 +296,7 @@
       "minecraft:old_growth_pine_taiga": "2025-04-16 21:43:48 +0000",
       "minecraft:taiga": "2025-04-16 18:57:57 +0000",
       "minecraft:birch_forest": "2025-04-16 20:22:06 +0000",
+      "minecraft:dark_forest": "2025-04-17 21:19:14 +0000",
       "minecraft:sparse_jungle": "2025-04-17 07:24:02 +0000",
       "minecraft:river": "2025-04-16 20:21:08 +0000",
       "minecraft:dripstone_caves": "2025-04-16 19:13:55 +0000",
@@ -304,6 +305,7 @@
       "minecraft:lush_caves": "2025-04-17 19:32:41 +0000",
       "minecraft:jungle": "2025-04-17 07:23:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-17 02:17:52 +0000",
+      "minecraft:deep_dark": "2025-04-17 21:20:00 +0000",
       "minecraft:meadow": "2025-04-16 19:14:51 +0000",
       "minecraft:plains": "2025-04-16 19:10:11 +0000"
     },
@@ -8489,6 +8491,8 @@
       "minecraft:wither_skeleton": "2025-04-16 23:16:54 +0000",
       "minecraft:cave_spider": "2025-04-16 20:59:08 +0000",
       "minecraft:stray": "2025-04-16 21:00:28 +0000",
+      "minecraft:enderman": "2025-04-17 21:07:58 +0000",
+      "minecraft:silverfish": "2025-04-17 21:16:19 +0000",
       "minecraft:zombie": "2025-04-16 19:22:09 +0000"
     },
     "done": false
@@ -9051,6 +9055,7 @@
       "highland_fields": "2025-04-17 02:20:34 +0000",
       "maple_forest": "2025-04-17 19:14:06 +0000",
       "magnolia_highlands": "2025-04-17 02:21:10 +0000",
+      "blackstone_basin": "2025-04-17 21:29:20 +0000",
       "temperate_grove": "2025-04-17 04:13:51 +0000",
       "cold_river": "2025-04-17 03:50:51 +0000",
       "redwoods": "2025-04-17 07:26:08 +0000"
@@ -15001,6 +15006,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/wall": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
@@ -15013,9 +15030,52 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:wart_forest_edge": "2025-04-17 21:29:03 +0000",
+      "betternether:wart_forest": "2025-04-17 21:27:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-17 21:29:24 +0000"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:eternal_expedition": {
+    "criteria": {
+      "blackstone_basin": "2025-04-17 21:29:20 +0000"
+    },
+    "done": false
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
     },
     "done": true
   },
@@ -15043,9 +15103,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_slab": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:27:23 +0000"
     },
     "done": true
   },
@@ -15055,9 +15133,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/stairs": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
     },
     "done": true
   },
@@ -15067,15 +15175,57 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/azure_bluet": {
+    "criteria": {
+      "has_flower": "2025-04-17 21:03:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/slab": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
     },
     "done": true
   },
@@ -15103,9 +15253,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
     },
     "done": true
   },
@@ -15115,15 +15301,39 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/redwood_slab": {
     "criteria": {
       "has_redwood_planks": "2025-04-17 18:42:15 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-04-17 19:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-17 21:20:27 +0000"
     },
     "done": true
   },
@@ -15139,9 +15349,63 @@
     },
     "done": true
   },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
+    "criteria": {
+      "got_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_cut": {
+    "criteria": {
+      "has_soul_sandstone": "2025-04-17 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
     },
     "done": true
   },
@@ -15151,9 +15415,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/polished_block": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-04-17 21:29:02 +0000"
     },
     "done": true
   },
@@ -15163,9 +15445,33 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
     },
     "done": true
   },
@@ -15175,9 +15481,87 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
     "criteria": {
       "has_tag_c_raw_silver_ores": "2025-04-17 19:07:09 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-04-17 21:20:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
     },
     "done": true
   },
@@ -15187,9 +15571,39 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
     },
     "done": true
   },
@@ -15199,9 +15613,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_redwood_planks": "2025-04-17 18:42:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_smelting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-04-17 21:27:33 +0000"
     },
     "done": true
   },
@@ -15211,15 +15637,63 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/wall": {
     "criteria": {
       "has_blunite": "2025-04-17 20:12:57 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/blackstone_witch_altar": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_silver": {
     "criteria": {
       "has_raw_silver_ores": "2025-04-17 19:07:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-17 21:27:56 +0000"
     },
     "done": true
   },
@@ -15235,6 +15709,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
@@ -15247,9 +15733,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-04-17 20:06:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_stairs": {
+    "criteria": {
+      "has_soul_sandstone": "2025-04-17 21:27:33 +0000"
     },
     "done": true
   },
@@ -15259,9 +15775,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/building_blocks/verglas_block": {
     "criteria": {
       "has_item": "2025-04-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
     },
     "done": true
   },
@@ -15277,9 +15805,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/sting": {
     "criteria": {
       "has_item": "2025-04-17 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
     },
     "done": true
   },
@@ -15289,9 +15853,51 @@
     },
     "done": true
   },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_keep_kayra": {
     "criteria": {
       "location0": "2025-04-17 19:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:27:23 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:29:04 +0000"
     },
     "done": true
   },
@@ -15307,9 +15913,81 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-04-17 21:29:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-04-17 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blackstone_cluster": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-04-17 21:07:59 +0000"
     },
     "done": true
   },
@@ -15319,9 +15997,39 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
     "criteria": {
       "has_tag_c_raw_silver_ores": "2025-04-17 19:07:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_lamp": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
     },
     "done": true
   },
@@ -15343,9 +16051,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-04-17 21:07:59 +0000"
     },
     "done": true
   },
@@ -15355,9 +16075,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:27:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_stairs_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-04-17 21:27:33 +0000"
     },
     "done": true
   },
@@ -15367,15 +16123,69 @@
     },
     "done": true
   },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:27:23 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/skofnung_stone": {
     "criteria": {
       "has_item": "2025-04-17 19:45:14 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
     },
     "done": true
   },
@@ -15388,6 +16198,18 @@
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
     },
     "done": true
   },
@@ -15409,6 +16231,60 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
+    "criteria": {
+      "has_block.betternether.soul_sandstone": "2025-04-17 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/silver_candelabra": {
     "criteria": {
       "has_item": "2025-04-17 20:06:54 +0000"
@@ -15421,15 +16297,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-17 21:29:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-04-17 21:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-17 21:03:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-17 21:07:59 +0000"
+    },
+    "done": true
+  },
   "rpg_series:classes": {
     "criteria": {
       "book": "2025-04-17 19:02:30 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-17 21:29:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:27:55 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-17 21:03:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
+    "criteria": {
+      "has_soul_sandstone": "2025-04-17 21:27:33 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-04-17 21:07:59 +0000"
     },
     "done": true
   },

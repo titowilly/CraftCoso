@@ -14602,7 +14602,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-04-17 01:21:36 +0000",
-      "minecraft:sheep": "2025-04-17 01:24:47 +0000"
+      "minecraft:sheep": "2025-04-17 01:24:47 +0000",
+      "minecraft:chicken": "2025-04-17 21:08:32 +0000"
     },
     "done": false
   },
@@ -15866,9 +15867,21 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:wart_forest": "2025-04-17 21:33:58 +0000"
+    },
+    "done": false
+  },
   "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
     "criteria": {
       "has_iron_sword": "2025-04-17 20:46:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
     },
     "done": true
   },
@@ -15890,6 +15903,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-04-17 20:49:05 +0000"
@@ -15902,6 +15927,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:33:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-04-17 20:49:05 +0000"
@@ -15911,6 +15948,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-04-17 20:49:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
@@ -15944,9 +15987,27 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/sprout_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/lodestone": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-04-17 20:57:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
@@ -15956,15 +16017,51 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:jungle_grapes_red": "2025-04-17 20:54:47 +0000"
     },
     "done": false
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 21:34:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/netherrack_with_water": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
     },
     "done": true
   },
@@ -15974,9 +16071,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 21:34:43 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/cacophonium": {
     "criteria": {
       "has_item": "2025-04-17 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
     },
     "done": true
   },
@@ -15992,9 +16119,33 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/grape_jam": {
     "criteria": {
       "has_grape": "2025-04-17 20:54:47 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
@@ -16007,6 +16158,24 @@
   "mcdw:recipes/glaives/spear_glaive": {
     "criteria": {
       "has_the_recipe": "2025-04-17 20:46:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
@@ -16040,9 +16209,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_bark": {
+    "criteria": {
+      "has_wart_log": "2025-04-17 21:34:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-17 20:57:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_chestplate": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
     },
     "done": true
   },
@@ -16058,6 +16263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2025-04-17 20:46:20 +0000"
@@ -16067,6 +16278,30 @@
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
     },
     "done": true
   },
@@ -16082,9 +16317,33 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:33:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
@@ -16094,9 +16353,21 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-17 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/nether_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
@@ -16136,6 +16407,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-17 20:46:20 +0000"
@@ -16147,6 +16424,12 @@
       "onion_seed": "2025-04-17 21:01:10 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
   },
   "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
     "criteria": {
@@ -16160,9 +16443,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/witch_cauldron": {
     "criteria": {
       "has_item": "2025-04-17 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:33:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-04-17 21:20:46 +0000"
     },
     "done": true
   },
@@ -16202,6 +16521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-04-17 20:49:05 +0000"
@@ -16211,6 +16536,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-04-17 20:47:21 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
@@ -16280,6 +16611,12 @@
     },
     "done": true
   },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_wart": "2025-04-17 21:34:12 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_planks": "2025-04-17 20:49:05 +0000"
@@ -16292,9 +16629,51 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-17 21:33:57 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sprout_armor_helmet": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/netherrack_furnace": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
     },
     "done": true
   },
@@ -16310,9 +16689,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bricks_fire_bowl": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_blue": {
+    "criteria": {
+      "has_item": "2025-04-17 21:20:46 +0000"
     },
     "done": true
   },
@@ -16337,6 +16728,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-04-17 20:49:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
     },
     "done": true
   },
@@ -16370,15 +16767,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/birch_table": {
     "criteria": {
       "has_bamboo": "2025-04-17 20:49:05 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-04-17 21:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-17 20:49:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-04-17 21:34:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-17 21:34:44 +0000"
     },
     "done": true
   },
