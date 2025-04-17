@@ -14995,6 +14995,18 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
@@ -15031,9 +15043,21 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
     },
     "done": true
   },
@@ -15046,6 +15070,12 @@
   "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-17 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
     },
     "done": true
   },
@@ -15121,6 +15151,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redwood_button": {
     "criteria": {
       "has_redwood_planks": "2025-04-17 18:42:15 +0000"
@@ -15172,6 +15208,12 @@
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-17 19:42:48 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
     },
     "done": true
   },
@@ -15253,6 +15295,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
     "criteria": {
       "has_raw_silver": "2025-04-17 19:07:09 +0000"
@@ -15313,6 +15361,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/skofnung_stone": {
     "criteria": {
       "has_item": "2025-04-17 19:45:14 +0000"
@@ -15358,6 +15412,12 @@
   "bewitchment:recipes/decorations/silver_candelabra": {
     "criteria": {
       "has_item": "2025-04-17 20:06:54 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-04-17 20:12:57 +0000"
     },
     "done": true
   },
