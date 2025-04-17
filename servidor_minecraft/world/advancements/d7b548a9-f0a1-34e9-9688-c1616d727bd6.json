@@ -4988,9 +4988,11 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-16 20:37:07 +0000",
       "minecraft:spider": "2025-04-17 00:24:11 +0000",
+      "minecraft:piglin_brute": "2025-04-17 20:32:16 +0000",
       "minecraft:creeper": "2025-04-16 20:46:59 +0000",
       "minecraft:wither_skeleton": "2025-04-16 19:03:17 +0000",
       "minecraft:husk": "2025-04-16 21:27:14 +0000",
+      "minecraft:piglin": "2025-04-17 20:31:05 +0000",
       "minecraft:enderman": "2025-04-17 06:22:52 +0000",
       "minecraft:zombie": "2025-04-16 19:37:11 +0000"
     },
@@ -5450,6 +5452,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-17 01:07:38 +0000",
       "cooked_cod": "2025-04-16 21:35:30 +0000",
+      "bread": "2025-04-17 20:22:22 +0000",
       "golden_carrot": "2025-04-16 19:06:54 +0000"
     },
     "done": false
@@ -15852,6 +15855,66 @@
   "fwaystones:recipes/red_desert_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-04-17 06:47:13 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/cauldron_armor_chestplate": {
+    "criteria": {
+      "has_cauldron": "2025-04-17 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2025-04-17 20:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-17 20:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-17 20:31:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-17 20:25:30 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/witch_cauldron": {
+    "criteria": {
+      "has_item": "2025-04-17 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2025-04-17 20:25:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-17 20:25:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-04-17 20:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 20:25:30 +0000"
     },
     "done": true
   },
