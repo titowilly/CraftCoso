@@ -11414,15 +11414,51 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/button": {
     "criteria": {
       "has_planks": "2025-04-17 03:52:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/trapdoor": {
     "criteria": {
       "has_planks": "2025-04-17 03:52:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "anchovy": "2025-04-17 04:16:26 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-04-17 04:16:26 +0000"
     },
     "done": true
   },
@@ -11450,6 +11486,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-17 04:14:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/fence": {
     "criteria": {
       "has_planks": "2025-04-17 03:52:45 +0000"
@@ -11462,9 +11510,45 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2025-04-17 04:16:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2025-04-17 04:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-17 03:52:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-17 04:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-17 04:12:58 +0000"
     },
     "done": true
   },

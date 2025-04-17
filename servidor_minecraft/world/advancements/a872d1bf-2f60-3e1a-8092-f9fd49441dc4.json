@@ -10185,15 +10185,15 @@
     },
     "done": true
   },
-  "twigs:recipes/bone_meal_from_seashells": {
-    "criteria": {
-      "has_item": "2025-04-17 03:54:55 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
     "criteria": {
       "has_diamond_shovel": "2025-04-17 03:53:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-04-17 03:54:55 +0000"
     },
     "done": true
   },

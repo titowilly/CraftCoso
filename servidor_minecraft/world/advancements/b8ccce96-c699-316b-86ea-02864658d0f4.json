@@ -9040,10 +9040,12 @@
     "criteria": {
       "autumnal_maple_forest": "2025-04-16 19:29:02 +0000",
       "willow_forest": "2025-04-17 02:20:31 +0000",
+      "grassy_beach": "2025-04-17 04:13:57 +0000",
       "rocky_meadow": "2025-04-17 02:22:31 +0000",
       "flower_fields": "2025-04-17 02:55:39 +0000",
       "highland_fields": "2025-04-17 02:20:34 +0000",
       "magnolia_highlands": "2025-04-17 02:21:10 +0000",
+      "temperate_grove": "2025-04-17 04:13:51 +0000",
       "cold_river": "2025-04-17 03:50:51 +0000"
     },
     "done": false
@@ -9052,10 +9054,12 @@
     "criteria": {
       "autumnal_maple_forest": "2025-04-16 19:29:02 +0000",
       "willow_forest": "2025-04-17 02:20:31 +0000",
+      "grassy_beach": "2025-04-17 04:13:57 +0000",
       "rocky_meadow": "2025-04-17 02:22:31 +0000",
       "flower_fields": "2025-04-17 02:55:39 +0000",
       "highland_fields": "2025-04-17 02:20:34 +0000",
       "magnolia_highlands": "2025-04-17 02:21:10 +0000",
+      "temperate_grove": "2025-04-17 04:13:51 +0000",
       "cold_river": "2025-04-17 03:50:51 +0000"
     },
     "done": false
@@ -12284,7 +12288,8 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
-      "magnolia_log": "2025-04-16 21:38:48 +0000"
+      "magnolia_log": "2025-04-16 21:38:48 +0000",
+      "eucalyptus_log": "2025-04-17 04:14:35 +0000"
     },
     "done": false
   },
@@ -14540,15 +14545,123 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-04-17 03:48:20 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_shear_dagger": {
     "criteria": {
       "has_shears": "2025-04-17 03:57:02 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+  "supplementaries:recipes/crank": {
     "criteria": {
-      "has_fireweed": "2025-04-17 03:48:20 +0000"
+      "has_cobblestone_slab": "2025-04-17 04:12:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-04-17 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2025-04-17 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2025-04-17 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
+    "criteria": {
+      "has_eucalyptus_sapling": "2025-04-17 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_button": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_trapdoor": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_door": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_stairs": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_fence_gate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/eucalyptus_pressure_plate": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_sign": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_fence": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_eucalyptus": {
+    "criteria": {
+      "has_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_slab": {
+    "criteria": {
+      "has_eucalyptus_planks": "2025-04-17 04:14:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:hammer": {
+    "criteria": {
+      "got_diamond_hammer": "2025-04-17 04:15:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/netherite_hammer": {
+    "criteria": {
+      "has_item.betterend.diamond_hammer": "2025-04-17 04:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-17 04:18:18 +0000"
     },
     "done": true
   },

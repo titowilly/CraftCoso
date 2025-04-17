@@ -603,6 +603,7 @@
       "minecraft:grove": "2025-04-17 00:40:29 +0000",
       "minecraft:cold_ocean": "2025-04-16 18:57:39 +0000",
       "minecraft:forest": "2025-04-16 19:10:53 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-17 04:17:58 +0000",
       "minecraft:desert": "2025-04-17 02:55:08 +0000",
       "minecraft:ocean": "2025-04-16 20:19:53 +0000",
       "minecraft:jungle": "2025-04-17 00:05:30 +0000",
@@ -11131,6 +11132,30 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-17 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-17 04:07:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-17 04:07:30 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-17 04:14:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-04-17 04:14:34 +0000"
     },
     "done": true
   },
