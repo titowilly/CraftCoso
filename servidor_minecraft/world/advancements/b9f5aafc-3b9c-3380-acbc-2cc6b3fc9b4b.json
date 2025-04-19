@@ -8887,6 +8887,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/oak_slab_from_stairs": {
+    "criteria": {
+      "has_oak_stairs": "2025-04-19 20:25:42 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/grenadier": {
     "criteria": {
       "requirement": "2025-04-19 20:01:08 +0000"
@@ -8902,6 +8908,24 @@
   "minecells:book/mobs/shieldbearer": {
     "criteria": {
       "requirement": "2025-04-19 19:58:02 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_wooden_buttons": {
+    "criteria": {
+      "has_tag_minecraft_wooden_buttons": "2025-04-19 20:25:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-04-19 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-04-19 20:19:11 +0000"
     },
     "done": true
   },

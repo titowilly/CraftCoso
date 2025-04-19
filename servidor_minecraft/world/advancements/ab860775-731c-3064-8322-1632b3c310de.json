@@ -14219,6 +14219,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-19 20:25:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/food/barley_smelting": {
     "criteria": {
       "has_barley": "2025-04-19 20:16:21 +0000"
@@ -14228,6 +14234,48 @@
   "regions_unexplored:recipes/food/barley_smoking": {
     "criteria": {
       "has_barley": "2025-04-19 20:16:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-19 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-19 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-04-19 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_hoe": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-19 20:23:43 +0000"
     },
     "done": true
   },
