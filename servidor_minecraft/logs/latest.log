@@ -3062,3 +3062,124 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[21:05:51] [Server thread/INFO]: TitoWilly has made the advancement [Local Librarian]
+[21:05:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8022ms or 160 ticks behind
+[21:06:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9387ms or 187 ticks behind
+[21:06:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5420ms or 108 ticks behind
+[21:06:53] [Server thread/INFO]: fandangolol withered away whilst fighting Soul Reaper
+[21:06:53] [Server thread/INFO]: Created new backpack backup file for fandangolol with unique ID travelersbackpack.cow_19.04.2025-21.06.53.dat
+[21:06:56] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:07:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4057ms or 81 ticks behind
+[21:07:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21:07:47] [Server thread/INFO]: [Handshake] Sending channel query
+[21:07:47] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[21:07:47] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[21:07:48] [Server thread/INFO]: Brick_123[/127.132.88.179:48407] logged in with entity id 95527 at (-716.3000000119209, 63.0, -183.30000001192093)
+[21:07:48] [Server thread/INFO]: Sending server config values to client
+[21:07:48] [Server thread/INFO]: Syncing config to Brick_123 (b8ccce96-c699-316b-86ea-02864658d0f4)
+[21:07:48] [Server thread/INFO]: Loading config from file...
+[21:07:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:07:48] [Server thread/INFO]: Brick_123 joined the game
+[21:07:48] [Server thread/INFO]: Loading Configs for Sortilege
+[21:07:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:07:48] [Server thread/INFO]: PLAYER_JOIN
+[21:07:48] [Server thread/INFO]: add_player wand
+[21:07:48] [Server thread/INFO]: config sent
+[21:07:48] [Server thread/INFO]: Updating all forceload tickets for b8ccce96-c699-316b-86ea-02864658d0f4
+[21:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[21:07:52] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[21:07:58] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: Brick_123 -> Global
+[21:07:58] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Brick_123. Claiming: GRAVE / Robbing: INVENTORY
+[21:08:01] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:08:03] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[21:08:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3602ms or 72 ticks behind
+[21:08:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6711ms or 134 ticks behind
+[21:08:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7531ms or 150 ticks behind
+[21:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7492ms or 149 ticks behind
+[21:09:30] [Server thread/INFO]: fandangolol was slain by Soul Reaper
+[21:09:30] [Server thread/INFO]: Did not backup data (grave data empty)
+[21:09:32] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4476ms or 89 ticks behind
+[21:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[21:10:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[21:10:47] [Server thread/INFO]: <Brick_123> sal rechucha tu vieja calata
+[21:10:59] [Server thread/INFO]: <ileo> doname esmeraldas
+[21:11:06] [Server thread/INFO]: <Brick_123> ptmr gente pobre de mierda
+[21:11:08] [Server thread/INFO]: <ileo> o prestame tu acha asi de chilindrin
+[21:11:18] [Server thread/INFO]: <Brick_123> pera
+[21:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:12:07] [Server thread/INFO]: <Brick_123> barto tek tendras comida?
+[21:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:12:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:12:53] [Server thread/INFO]: <TitoWilly> cosas de administrador
+[21:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2267ms or 45 ticks behind
+[21:12:55] [Server thread/INFO]: [TitoWilly: Set own game mode to Creative Mode]
+[21:13:02] [Server thread/INFO]: <kimis342> seguro
+[21:13:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[21:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[21:13:43] [Server thread/INFO]: fandangolol was slain by Spider
+[21:13:44] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:13:48] [Server thread/INFO]: <Brick_123> ileo minimo 1000 de stack de troncos
+[21:13:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5429ms or 108 ticks behind
+[21:13:53] [Server thread/INFO]: <ileo> suicidate
+[21:13:55] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:large/village_dark_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mushroom]] from pos class_2338{x=-181, y=67, z=-3339}
+[21:14:08] [Server thread/INFO]: fandangolol was slain by Spider
+[21:14:08] [Server thread/INFO]: Did not backup data (grave data empty)
+[21:14:09] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[21:14:14] [Server thread/INFO]: <Brick_123> xd
+[21:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8250ms or 165 ticks behind
+[21:14:29] [Server thread/INFO]: fandangolol claimed a grave belonging to fandangolol at -712, 63, -250, minecraft:overworld
+[21:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8430ms or 168 ticks behind
+[21:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3560ms or 71 ticks behind
+[21:15:11] [Server thread/INFO]: <ileo> prestame el sombrerito
+[21:15:14] [Server thread/INFO]: <ileo> para aldeanos
+[21:15:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
+[21:15:28] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[21:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7033ms or 140 ticks behind
+[21:15:51] [Server thread/INFO]: <Brick_123> como jodes man ptmr
+[21:15:57] [Server thread/INFO]: <Brick_123> te lo dejo en el cofre de oro
+[21:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8340ms or 166 ticks behind
+[21:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9074ms or 181 ticks behind

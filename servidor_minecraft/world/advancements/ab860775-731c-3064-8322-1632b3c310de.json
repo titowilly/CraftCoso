@@ -14405,5 +14405,11 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-04-19 21:06:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
