@@ -2856,3 +2856,60 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [20:33:23] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
 [20:33:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10901ms or 218 ticks behind
 [20:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9975ms or 199 ticks behind
+[20:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11038ms or 220 ticks behind
+[20:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14327ms or 286 ticks behind
+[20:35:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9747ms or 194 ticks behind
+[20:35:49] [Server thread/INFO]: fandangolol has made the advancement [Red Nether]
+[20:35:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10371ms or 207 ticks behind
+[20:36:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8768ms or 175 ticks behind
+[20:36:28] [Server thread/INFO]: Cuak17 lost connection: Disconnected
+[20:36:28] [Server thread/INFO]: Cuak17 left the game
+[20:36:28] [Server thread/INFO]: remove player wand
+[20:36:28] [Server thread/INFO]: Updating all forceload tickets for ab860775-731c-3064-8322-1632b3c310de
+[20:36:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6089ms or 121 ticks behind
+[20:36:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3521ms or 70 ticks behind
+[20:37:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[20:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4017ms or 80 ticks behind
+[20:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3198ms or 63 ticks behind
+[20:37:53] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:38:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3805ms or 76 ticks behind
+[20:38:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3044ms or 60 ticks behind
+[20:38:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[20:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[20:39:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[20:39:25] [Server thread/INFO]: ileo has made the advancement [Downer]
+[20:39:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
+[20:39:47] [Server thread/INFO]: [Handshake] Sending channel query
+[20:39:47] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[20:39:47] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[20:39:47] [Server thread/INFO]: Cuak17[/127.243.211.55:54297] logged in with entity id 57600 at (-1138.952723638298, 91.68125, -2224.996854430427)
+[20:39:47] [Server thread/INFO]: Sending server config values to client
+[20:39:47] [Server thread/INFO]: Syncing config to Cuak17 (ab860775-731c-3064-8322-1632b3c310de)
+[20:39:47] [Server thread/INFO]: Loading config from file...
+[20:39:47] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:39:47] [Server thread/INFO]: Cuak17 joined the game
+[20:39:47] [Server thread/INFO]: Loading Configs for Sortilege
+[20:39:47] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:39:47] [Server thread/INFO]: Updating all forceload tickets for ab860775-731c-3064-8322-1632b3c310de
+[20:39:47] [Server thread/INFO]: PLAYER_JOIN
+[20:39:47] [Server thread/INFO]: add_player wand
+[20:39:47] [Server thread/INFO]: config sent
+[20:39:50] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[20:39:50] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Cuak17 -> Global
+[20:39:50] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Cuak17. Claiming: GRAVE / Robbing: INVENTORY
+[20:39:55] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Cuak17 accepted server config.
+[20:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5696ms or 113 ticks behind
+[20:40:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7518ms or 150 ticks behind
+[20:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9916ms or 198 ticks behind
+[20:41:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10555ms or 211 ticks behind
+[20:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8963ms or 179 ticks behind
+[20:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6859ms or 137 ticks behind
+[20:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6997ms or 139 ticks behind
+[20:42:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7986ms or 159 ticks behind
+[20:43:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8118ms or 162 ticks behind
+[20:43:18] [Server thread/INFO]: TitoWilly has made the advancement [Source of Evil]
+[20:43:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6203ms or 124 ticks behind
+[20:43:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4738ms or 94 ticks behind
+[20:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4456ms or 89 ticks behind
+[20:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
+[20:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
