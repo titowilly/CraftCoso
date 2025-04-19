@@ -582,11 +582,14 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-16 19:47:00 +0000",
       "minecraft:taiga": "2025-04-16 18:55:34 +0000",
+      "minecraft:cherry_grove": "2025-04-17 22:39:06 +0000",
+      "minecraft:sunflower_plains": "2025-04-17 22:40:32 +0000",
       "minecraft:birch_forest": "2025-04-16 19:47:52 +0000",
       "minecraft:river": "2025-04-16 20:16:49 +0000",
       "minecraft:dripstone_caves": "2025-04-16 19:27:58 +0000",
       "minecraft:cold_ocean": "2025-04-16 18:58:52 +0000",
       "minecraft:forest": "2025-04-16 19:13:29 +0000",
+      "minecraft:flower_forest": "2025-04-17 22:41:53 +0000",
       "minecraft:meadow": "2025-04-16 19:47:35 +0000",
       "minecraft:plains": "2025-04-16 19:10:10 +0000"
     },
@@ -6640,6 +6643,84 @@
       "redstone_caves": "2025-04-17 21:05:29 +0000"
     },
     "done": false
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-04-17 22:41:01 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
