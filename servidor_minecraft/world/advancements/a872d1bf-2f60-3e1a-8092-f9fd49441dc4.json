@@ -11388,5 +11388,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_shovel": "2025-04-19 19:49:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_nugget_from_shovel": {
+    "criteria": {
+      "has_golden_shovel": "2025-04-19 19:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_shovel": "2025-04-19 19:49:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

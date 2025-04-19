@@ -19591,6 +19591,156 @@
     },
     "done": true
   },
+  "zenith:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-04-18 01:32:00 +0000"
+    },
+    "done": true
+  },
+  "zenith:enchanting/seashelf": {
+    "criteria": {
+      "seashelf": "2025-04-18 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-18 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-04-18 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-04-18 01:41:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_leggings": {
+    "criteria": {
+      "has_phantom_skin": "2025-04-18 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/phantom_armor_boots": {
+    "criteria": {
+      "has_phantom_skin": "2025-04-18 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "tier_2_rocket": "2025-04-18 02:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/kelp": {
+    "criteria": {
+      "has_kelp": "2025-04-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
+    "criteria": {
+      "has_kelp": "2025-04-18 02:23:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_stairs": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cobalt_sign": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_button": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_pressure_plate": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_cobalt": {
+    "criteria": {
+      "has_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_trapdoor": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/cobalt_fence": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_fence_gate": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/cobalt_door": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cobalt_slab": {
+    "criteria": {
+      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-04-18 02:25:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
+    "criteria": {
+      "has_tag_minecraft_signs": "2025-04-18 02:25:11 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/stairs": {
     "criteria": {
       "has_blunite": "2025-04-18 02:26:32 +0000"
@@ -19603,57 +19753,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/cobalt_stairs": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:tier_2_rocket": {
-    "criteria": {
-      "tier_2_rocket": "2025-04-18 02:08:51 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_warped": {
-    "criteria": {
-      "has_the_recipe": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
   "promenade:recipes/stonecutting/blunite/polished_slab": {
     "criteria": {
       "has_blunite": "2025-04-18 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/seashelf": {
-    "criteria": {
-      "seashelf": "2025-04-18 01:38:36 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_axe_right": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/warped_table": {
-    "criteria": {
-      "has_bamboo": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_oak": {
-    "criteria": {
-      "has_oak_sign": "2025-04-18 03:25:18 +0000"
     },
     "done": true
   },
@@ -19663,9 +19765,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
+  "promenade:recipes/crafting/blunite/slab": {
     "criteria": {
-      "has_planks": "2025-04-18 03:56:46 +0000"
+      "has_blunite": "2025-04-18 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-04-18 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-04-18 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-04-18 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-04-18 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-04-18 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+    "criteria": {
+      "has_tag_c_bauxite_ores": "2025-04-18 02:32:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-04-18 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-04-18 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-04-18 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-18 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-04-18 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_axe_right": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
     },
     "done": true
   },
@@ -19687,9 +19915,117 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+  "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
-      "has_raw_silver": "2025-04-18 02:32:17 +0000"
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_left": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/altar_block": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/moonstone": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/fallen_icon_disc": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_hoe_right": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/boss_compass": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "moonstone": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-18 02:32:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-18 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-18 03:17:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_oak": {
+    "criteria": {
+      "has_oak_sign": "2025-04-18 03:25:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/magnolia_hanging_sign": {
+    "criteria": {
+      "has_stripped_magnolia_log": "2025-04-18 03:31:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/stripped_magnolia_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 03:31:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2025-04-18 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/warped_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 03:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 03:56:46 +0000"
     },
     "done": true
   },
@@ -19717,30 +20053,6 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/blunite/slab": {
-    "criteria": {
-      "has_blunite": "2025-04-18 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/blackstone_pedestal": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/phantom_armor_leggings": {
-    "criteria": {
-      "has_phantom_skin": "2025-04-18 01:45:15 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
-    "criteria": {
-      "has_skeleton_skull": "2025-04-18 01:41:09 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_chair": {
     "criteria": {
       "has_warped_chair": "2025-04-18 03:56:46 +0000"
@@ -19759,69 +20071,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/cobalt_sign": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_dining_bench": {
     "criteria": {
       "has_warped_dining_bench": "2025-04-18 03:56:46 +0000"
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_slab": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-04-18 03:57:45 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/phantom_armor_boots": {
-    "criteria": {
-      "has_phantom_skin": "2025-04-18 01:45:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-04-18 03:17:37 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/tools/virus_nullodermal": {
-    "criteria": {
-      "has_alt_item": "2025-04-18 01:41:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cobalt_button": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/blunite/polished_block": {
-    "criteria": {
-      "has_blunite": "2025-04-18 02:26:32 +0000"
     },
     "done": true
   },
@@ -19843,63 +20101,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/cobalt_pressure_plate": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-04-18 02:23:13 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
-    "criteria": {
-      "has_tag_c_raw_silver_ores": "2025-04-18 02:32:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/regions_unexplored/sign_post_cobalt": {
-    "criteria": {
-      "has_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/building_blocks/moonstone_block": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
   "mcdw:recipes/bows/bow_twisting_vine_bow": {
     "criteria": {
       "has_warped_planks": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_shovel": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "zenith:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-04-18 01:32:00 +0000"
     },
     "done": true
   },
@@ -19909,21 +20113,9 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/blunite/wall": {
-    "criteria": {
-      "has_blunite": "2025-04-18 02:26:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
     },
     "done": true
   },
@@ -19933,87 +20125,9 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_stairs": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/raw_silver": {
-    "criteria": {
-      "has_raw_silver_ores": "2025-04-18 02:32:17 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-18 04:02:06 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/magnolia_hanging_sign": {
-    "criteria": {
-      "has_stripped_magnolia_log": "2025-04-18 03:31:54 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_hoe_left": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/decorations/altar_block": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/moonstone": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/kelp": {
-    "criteria": {
-      "has_kelp": "2025-04-18 02:23:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cobalt_trapdoor": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-18 04:02:06 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/warped_barrel": {
     "criteria": {
       "has_warped_planks": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-04-18 02:23:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-04-18 02:23:13 +0000"
     },
     "done": true
   },
@@ -20041,33 +20155,9 @@
     },
     "done": true
   },
-  "promenade:recipes/stonecutting/blunite/polished_stairs": {
-    "criteria": {
-      "has_blunite": "2025-04-18 02:26:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_side_table": {
     "criteria": {
       "has_warped_side_table": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
-    "criteria": {
-      "has_raw_silver": "2025-04-18 02:32:17 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/hyacinth_lamp": {
-    "criteria": {
-      "has_prismarine_slab": "2025-04-18 03:57:45 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/copper_pillar/weathered_copper_pillar": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-04-18 03:57:45 +0000"
     },
     "done": true
   },
@@ -20089,12 +20179,6 @@
     },
     "done": true
   },
-  "techreborn:recipes/grinder/saw_small_dust_from_signs": {
-    "criteria": {
-      "has_tag_minecraft_signs": "2025-04-18 02:25:11 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/warped_window": {
     "criteria": {
       "has_ingredient": "2025-04-18 03:56:46 +0000"
@@ -20107,51 +20191,9 @@
     },
     "done": true
   },
-  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 02:27:20 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/ghostly_helmet": {
-    "criteria": {
-      "has_skeleton_skull": "2025-04-18 01:41:09 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/misc/fallen_icon_disc": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
-    "criteria": {
-      "has_tag_c_raw_silver_ores": "2025-04-18 02:32:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/warped_shelf": {
     "criteria": {
       "has_warped_shelf": "2025-04-18 03:56:46 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/stonecutting/blunite/polished_block": {
-    "criteria": {
-      "has_blunite": "2025-04-18 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/tools/moonstone_hoe_right": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/warped_beam": {
-    "criteria": {
-      "has_stripped_log": "2025-04-18 04:02:06 +0000"
     },
     "done": true
   },
@@ -20167,42 +20209,6 @@
     },
     "done": true
   },
-  "soulsweapons:recipes/tools/boss_compass": {
-    "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/parts/plantball_from_kelp": {
-    "criteria": {
-      "has_kelp": "2025-04-18 02:23:13 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/cobalt_fence": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/redstone/cobalt_fence_gate": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:moonstone": {
-    "criteria": {
-      "moonstone": "2025-04-18 02:32:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
-    "criteria": {
-      "has_tag_minecraft_signs": "2025-04-18 02:25:11 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/transportation/warped_boat": {
     "criteria": {
       "has_warped_planks": "2025-04-18 03:56:46 +0000"
@@ -20215,45 +20221,39 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
     "criteria": {
-      "has_item": "2025-04-18 03:17:37 +0000"
+      "has_weathered_cut_copper_slab": "2025-04-18 03:57:45 +0000"
     },
     "done": true
   },
-  "promenade:recipes/stonecutting/blunite/slab": {
+  "regions_unexplored:recipes/decorations/hyacinth_lamp": {
     "criteria": {
-      "has_blunite": "2025-04-18 02:26:32 +0000"
+      "has_prismarine_slab": "2025-04-18 03:57:45 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/redstone/cobalt_door": {
+  "twigs:recipes/copper_pillar/weathered_copper_pillar": {
     "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+      "has_weathered_cut_copper_slab": "2025-04-18 03:57:45 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/bauxite_dust_from_bauxite_ore_with_water": {
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
-      "has_tag_c_bauxite_ores": "2025-04-18 02:32:03 +0000"
+      "has_log": "2025-04-18 04:02:06 +0000"
     },
     "done": true
   },
-  "soulsweapons:recipes/tools/moonstone_pickaxe": {
+  "minecraft:recipes/decorations/warped_hanging_sign": {
     "criteria": {
-      "has_item": "2025-04-18 02:32:53 +0000"
+      "has_stripped_logs": "2025-04-18 04:02:06 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/stripped_magnolia_wood": {
+  "decorative_blocks:recipes/decorative_blocks.general/warped_beam": {
     "criteria": {
-      "has_log": "2025-04-18 03:31:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cobalt_slab": {
-    "criteria": {
-      "has_cobalt_planks": "2025-04-18 02:24:58 +0000"
+      "has_stripped_log": "2025-04-18 04:02:06 +0000"
     },
     "done": true
   },

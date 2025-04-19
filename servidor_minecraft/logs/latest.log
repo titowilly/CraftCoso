@@ -2498,3 +2498,82 @@ BCLib - Nether BiomeSource (457d9d7e)
 [19:52:37] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
 [19:52:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4639ms or 92 ticks behind
 [19:52:48] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5654ms or 113 ticks behind
+[19:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4088ms or 81 ticks behind
+[19:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[19:54:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3156ms or 63 ticks behind
+[19:54:18] [Server thread/INFO]: ileo has made the advancement [Ruby Ore]
+[19:54:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2519ms or 50 ticks behind
+[19:54:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[19:54:51] [Server thread/INFO]: fandangolol lost connection: Disconnected
+[19:54:51] [Server thread/INFO]: fandangolol left the game
+[19:54:51] [Server thread/INFO]: remove player wand
+[19:54:51] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[19:54:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2697ms or 53 ticks behind
+[19:55:34] [Server thread/INFO]: [Handshake] Sending channel query
+[19:55:35] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[19:55:35] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[19:55:35] [Server thread/INFO]: santipro01[/127.61.205.57:37581] logged in with entity id 8574 at (-17.78347963473674, 40.0, -998.6635887177508)
+[19:55:35] [Server thread/INFO]: Sending server config values to client
+[19:55:35] [Server thread/INFO]: Syncing config to santipro01 (b9f5aafc-3b9c-3380-acbc-2cc6b3fc9b4b)
+[19:55:35] [Server thread/INFO]: Loading config from file...
+[19:55:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:55:35] [Server thread/INFO]: santipro01 joined the game
+[19:55:35] [Server thread/INFO]: Loading Configs for Sortilege
+[19:55:35] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:55:35] [Server thread/INFO]: Updating all forceload tickets for b9f5aafc-3b9c-3380-acbc-2cc6b3fc9b4b
+[19:55:35] [Server thread/INFO]: PLAYER_JOIN
+[19:55:35] [Server thread/INFO]: add_player wand
+[19:55:35] [Server thread/INFO]: config sent
+[19:55:45] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[19:55:46] [Netty Epoll Server IO #4/INFO]: [Ping-Wheel] Channel update: santipro01 -> Global
+[19:55:47] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player santipro01. Claiming: GRAVE / Robbing: INVENTORY
+[19:56:26] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of santipro01 accepted server config.
+[19:56:41] [Server thread/INFO]: <santipro01> k
+[19:56:46] [Server thread/INFO]: [Handshake] Sending channel query
+[19:56:46] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[19:56:46] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[19:56:46] [Server thread/INFO]: fandangolol[/127.198.28.64:36185] logged in with entity id 9403 at (-699.2744437958589, 62.0, -249.35060201063027)
+[19:56:46] [Server thread/INFO]: Sending server config values to client
+[19:56:46] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[19:56:46] [Server thread/INFO]: Loading config from file...
+[19:56:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:56:46] [Server thread/INFO]: fandangolol joined the game
+[19:56:46] [Server thread/INFO]: Loading Configs for Sortilege
+[19:56:46] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[19:56:47] [Server thread/INFO]: PLAYER_JOIN
+[19:56:47] [Server thread/INFO]: add_player wand
+[19:56:47] [Server thread/INFO]: config sent
+[19:56:47] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[19:56:49] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[19:56:52] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[19:56:52] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[19:56:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[19:56:58] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[19:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
+[19:57:14] [Server thread/INFO]: <santipro01> entra a call ileo
+[19:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[19:57:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2802ms or 56 ticks behind
+[19:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[19:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[19:59:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2211ms or 44 ticks behind
+[19:59:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2120ms or 42 ticks behind
+[19:59:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2784ms or 55 ticks behind
+[19:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[20:00:03] [Server thread/INFO]: kimis342 drowned
+[20:00:05] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of kimis342 accepted server config.
+[20:00:10] [Server thread/INFO]: <ileo> XD
+[20:00:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3321ms or 66 ticks behind
+[20:00:26] [Server thread/INFO]: <kimis342> wa no tengo comida y tenia poca vida
+[20:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[20:00:33] [Server thread/INFO]: <fandangolol> se ahogo el chico percebe
+[20:00:36] [Server thread/INFO]: <kimis342> por sierto que fue de mi mapa y mis waypoints
+[20:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[20:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[20:02:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[20:02:35] [Server thread/INFO]: <fandangolol> ve a tu carpeta de minecraft, busca la carpeta del xaeros worldmap y wayponts, entras y buscas la ip anterior, copias el contenido y lo pegas en la carpeta que tiene la nueva ip, te puedes guiar con las fechas si se complica
+[20:02:46] [Server thread/INFO]: <fandangolol> tienes que salir del server para que se restaure bien
+[20:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind

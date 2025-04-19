@@ -15431,12 +15431,14 @@
       "betternether:gravel_desert": "2025-04-17 22:13:30 +0000",
       "betternether:crimson_pinewood": "2025-04-17 22:20:31 +0000",
       "betternether:crimson_glowing_woods": "2025-04-17 22:17:26 +0000",
+      "betternether:magma_land": "2025-04-19 19:55:18 +0000",
       "betternether:nether_mushroom_forest_edge": "2025-04-18 00:20:55 +0000",
       "betternether:nether_swampland_terraces": "2025-04-17 22:15:03 +0000",
       "betternether:wart_forest": "2025-04-17 21:24:57 +0000",
       "betternether:nether_mushroom_forest": "2025-04-18 00:20:37 +0000",
       "betternether:old_warped_woods": "2025-04-17 22:33:08 +0000",
-      "betternether:sulfuric_bone_reef": "2025-04-17 22:23:50 +0000"
+      "betternether:sulfuric_bone_reef": "2025-04-17 22:23:50 +0000",
+      "betternether:soul_plain": "2025-04-19 19:54:00 +0000"
     },
     "done": false
   },
@@ -18443,6 +18445,42 @@
   "techreborn:recipes/industrial_electrolyzer/cinnabar_dust": {
     "criteria": {
       "has_cinnabar_dust": "2025-04-18 00:23:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2025-04-19 19:54:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-04-19 19:54:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-04-19 19:54:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-04-19 19:54:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-04-19 19:54:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-04-19 19:54:18 +0000"
     },
     "done": true
   },
