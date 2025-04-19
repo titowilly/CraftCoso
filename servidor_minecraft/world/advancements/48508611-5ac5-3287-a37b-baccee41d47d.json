@@ -16439,6 +16439,144 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-18 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_dumplings": {
+    "criteria": {
+      "has_chicken": "2025-04-18 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-18 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_rice": {
+    "criteria": {
+      "has_chicken": "2025-04-18 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/chicken_and_noodles": {
+    "criteria": {
+      "has_chicken": "2025-04-18 03:00:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-18 03:12:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-04-18 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-18 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-18 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sponge_piece_from_cod": {
+    "criteria": {
+      "has_cod": "2025-04-18 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-18 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-04-18 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2025-04-18 03:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/oxidized_copper_pillar_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/weathered_copper_pillar": {
+    "criteria": {
+      "has_weathered_cut_copper_slab": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_exposed_cut_copper": "2025-04-18 03:54:40 +0000"
@@ -16457,33 +16595,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/prismarine": {
-    "criteria": {
-      "has_item": "2025-04-18 03:54:59 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/copper_pillar/exposed_copper_pillar_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper_slab": "2025-04-18 03:54:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ocelot": {
-    "criteria": {
-      "has_cod": "2025-04-18 03:27:14 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/copper_pillar/exposed_copper_pillar_stonecutting": {
-    "criteria": {
-      "has_cut_copper_slab": "2025-04-18 03:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
     },
     "done": true
   },
@@ -16493,27 +16607,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_honeycomb": {
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab": {
     "criteria": {
-      "has_weathered_cut_copper_slab": "2025-04-18 03:54:24 +0000"
+      "has_exposed_cut_copper": "2025-04-18 03:54:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "immersive_armors:recipes/misc/prismarine": {
     "criteria": {
-      "has_cod": "2025-04-18 03:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-04-18 03:27:14 +0000"
+      "has_item": "2025-04-18 03:54:59 +0000"
     },
     "done": true
   },
@@ -16523,33 +16625,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-18 03:54:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-18 03:54:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-18 03:54:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/exposed_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2025-04-18 03:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_exposed_copper": "2025-04-18 03:55:36 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/melon_smithing": {
-    "criteria": {
-      "has_melon": "2025-04-18 03:46:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_slab": {
-    "criteria": {
-      "has_exposed_cut_copper": "2025-04-18 03:54:40 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/sponge_piece_from_cod": {
-    "criteria": {
-      "has_cod": "2025-04-18 03:27:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-04-18 03:00:12 +0000"
     },
     "done": true
   },
@@ -16565,30 +16667,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-04-18 03:00:12 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/copper_pillar/oxidized_copper_pillar_from_cut_copper_stonecutting": {
-    "criteria": {
-      "has_cut_copper_slab": "2025-04-18 03:54:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_honeycomb": {
-    "criteria": {
-      "has_exposed_cut_copper_slab": "2025-04-18 03:56:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-04-18 03:00:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_exposed_copper": "2025-04-18 03:55:36 +0000"
@@ -16601,99 +16679,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-18 03:54:59 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/copper_pillar/weathered_copper_pillar": {
-    "criteria": {
-      "has_weathered_cut_copper_slab": "2025-04-18 03:54:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_exposed_copper": "2025-04-18 03:55:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_honeycomb": {
     "criteria": {
-      "has_cod": "2025-04-18 03:27:14 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-04-18 03:12:36 +0000"
+      "has_exposed_cut_copper_slab": "2025-04-18 03:56:02 +0000"
     },
     "done": true
   },
   "twigs:recipes/copper_pillar/exposed_copper_pillar": {
     "criteria": {
       "has_exposed_cut_copper_slab": "2025-04-18 03:56:02 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
-    "criteria": {
-      "has_cod": "2025-04-18 03:27:14 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chicken_and_dumplings": {
-    "criteria": {
-      "has_chicken": "2025-04-18 03:00:12 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/fried_chicken": {
-    "criteria": {
-      "has_chicken": "2025-04-18 03:00:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-18 03:54:59 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chicken_and_rice": {
-    "criteria": {
-      "has_chicken": "2025-04-18 03:00:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/cyan_dye_from_prismarine_shard": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-18 03:54:59 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/chicken_and_noodles": {
-    "criteria": {
-      "has_chicken": "2025-04-18 03:00:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2025-04-18 03:54:24 +0000"
     },
     "done": true
   },

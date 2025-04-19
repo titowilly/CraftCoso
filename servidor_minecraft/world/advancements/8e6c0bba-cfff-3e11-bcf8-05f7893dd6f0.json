@@ -18164,63 +18164,9 @@
     },
     "done": true
   },
-  "railways:recipes/transportation/benchcart": {
-    "criteria": {
-      "hasitem": "2025-04-18 00:07:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-04-17 23:44:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-04-18 00:16:55 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
-    "criteria": {
-      "has_cinnabar_dust": "2025-04-18 00:23:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-17 23:44:35 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/armor/peridot_leggings": {
     "criteria": {
       "has_peridot_gem": "2025-04-17 23:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-04-18 00:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-18 00:07:06 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/dispenser_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-18 00:07:06 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/magma_cream": {
-    "criteria": {
-      "has_slime_ball": "2025-04-17 23:44:35 +0000"
     },
     "done": true
   },
@@ -18242,33 +18188,9 @@
     },
     "done": true
   },
-  "botania:recipes/transportation/pool_minecart": {
-    "criteria": {
-      "has_item": "2025-04-18 00:07:06 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/armor/sapphire_helmet": {
     "criteria": {
       "has_sapphire_gem": "2025-04-17 23:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-04-18 00:16:55 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/extractor/rubber_from_slime_ball": {
-    "criteria": {
-      "has_slime_ball": "2025-04-17 23:44:35 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/double_axes/double_axe_double": {
-    "criteria": {
-      "has_slime_ball": "2025-04-17 23:44:35 +0000"
     },
     "done": true
   },
@@ -18278,33 +18200,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-04-17 23:44:38 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/grinder/sapphire_dust": {
     "criteria": {
       "has_tag_c_sapphires": "2025-04-17 23:42:16 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
-    "criteria": {
-      "has_rail": "2025-04-18 00:16:55 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2025-04-17 23:42:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-18 00:07:06 +0000"
     },
     "done": true
   },
@@ -18362,18 +18266,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-18 00:07:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-04-18 00:07:06 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/grinder/peridot_dust": {
     "criteria": {
       "has_tag_c_peridot_gems": "2025-04-17 23:42:16 +0000"
@@ -18383,18 +18275,6 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_axe": {
     "criteria": {
       "has_peridot_gem": "2025-04-17 23:42:16 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/transportation/jukeboxcart": {
-    "criteria": {
-      "hasitem": "2025-04-18 00:07:06 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
-    "criteria": {
-      "has_glow_goop": "2025-04-18 00:12:52 +0000"
     },
     "done": true
   },
@@ -18410,15 +18290,45 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/slime": {
+  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
     "criteria": {
-      "has_item": "2025-04-17 23:44:35 +0000"
+      "has_sapphire_gem": "2025-04-17 23:42:16 +0000"
     },
     "done": true
   },
-  "botania:recipes/transportation/ghost_rail": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_item": "2025-04-18 00:16:55 +0000"
+      "has_slime_ball": "2025-04-17 23:44:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-17 23:44:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-04-17 23:44:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-04-17 23:44:35 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/double_axes/double_axe_double": {
+    "criteria": {
+      "has_slime_ball": "2025-04-17 23:44:35 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-04-17 23:44:35 +0000"
     },
     "done": true
   },
@@ -18428,15 +18338,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-04-17 23:44:38 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/benchcart": {
+    "criteria": {
+      "hasitem": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/dispenser_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/pool_minecart": {
+    "criteria": {
+      "has_item": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/jukeboxcart": {
+    "criteria": {
+      "hasitem": "2025-04-18 00:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-04-18 00:07:06 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/misc/crafting_table/armor/sapphire_leggings": {
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
     "criteria": {
-      "has_sapphire_gem": "2025-04-17 23:42:16 +0000"
+      "has_glow_goop": "2025-04-18 00:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-18 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-18 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-18 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_rail": {
+    "criteria": {
+      "has_rail": "2025-04-18 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/transportation/ghost_rail": {
+    "criteria": {
+      "has_item": "2025-04-18 00:16:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
+    "criteria": {
+      "has_cinnabar_dust": "2025-04-18 00:23:05 +0000"
     },
     "done": true
   },

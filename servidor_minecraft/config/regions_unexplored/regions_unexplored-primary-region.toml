@@ -276,42 +276,42 @@
 	neutral_neutral = "minecraft:river"
 	icy_humid = "regions_unexplored:cold_river"
 [-----------------OCEAN_BIOMES--------------------]
-	#deep_oceans
-	deep_icy = "regions_unexplored:hyacinth_deeps"
-	deep_cool = "minecraft:deep_cold_ocean"
-	deep_neutral = "minecraft:deep_ocean"
 	deep_warm = "minecraft:deep_lukewarm_ocean"
 	deep_hot = "minecraft:warm_ocean"
-	#oceans
-	icy = "minecraft:frozen_ocean"
+	warm = "minecraft:lukewarm_ocean"
+	deep_cool = "minecraft:deep_cold_ocean"
+	deep_neutral = "minecraft:deep_ocean"
+	#deep_oceans
+	deep_icy = "regions_unexplored:hyacinth_deeps"
 	cool = "minecraft:cold_ocean"
 	neutral = "minecraft:ocean"
-	warm = "minecraft:lukewarm_ocean"
 	hot = "regions_unexplored:rocky_reef"
+	#oceans
+	icy = "minecraft:frozen_ocean"
 [-----------------SHORE_BIOMES--------------------]
+	cold_beach_biome = "regions_unexplored:gravel_beach"
+	warm_beach_biome = "regions_unexplored:grassy_beach"
 	#beach_biomes
 	icy_beach_biome = "minecraft:snowy_beach"
-	cold_beach_biome = "regions_unexplored:gravel_beach"
-	neutral_beach_biome = "regions_unexplored:grassy_beach"
-	warm_beach_biome = "regions_unexplored:grassy_beach"
-	hot_beach_biome = "minecraft:beach"
 	#stone_beach_biomes
 	cold_stone_beach_biome = "minecraft:stony_shore"
 	hot_stone_beach_biome = "regions_unexplored:chalk_cliffs"
+	neutral_beach_biome = "regions_unexplored:grassy_beach"
+	hot_beach_biome = "minecraft:beach"
 [-----------------UNDERGROUND_BIOMES--------------------]
-	cave_1_biome = "minecraft:lush_caves"
-	cave_2_biome = "minecraft:dripstone_caves"
-	cave_3_biome = "minecraft:deep_dark"
-	cave_4_biome = "regions_unexplored:bioshroom_caves"
-	cave_5_biome = "regions_unexplored:ancient_delta"
 	cave_6_biome = "regions_unexplored:prismachasm"
-	cave_7_biome = "regions_unexplored:redstone_caves"
 	cave_8_biome = "regions_unexplored:scorching_caves"
+	cave_5_biome = "regions_unexplored:ancient_delta"
+	cave_3_biome = "minecraft:deep_dark"
+	cave_1_biome = "minecraft:lush_caves"
+	cave_4_biome = "regions_unexplored:bioshroom_caves"
+	cave_7_biome = "regions_unexplored:redstone_caves"
+	cave_2_biome = "minecraft:dripstone_caves"
 [-----------------ISLAND_BIOMES--------------------]
 	icy_island_biome = "regions_unexplored:alpha_grove"
+	hot_island_biome = "regions_unexplored:tropics"
+	warm_island_biome = "regions_unexplored:tropics"
 	cool_island_biome = "regions_unexplored:alpha_grove"
 	neutral_island_biome = "regions_unexplored:ashen_woodland"
-	warm_island_biome = "regions_unexplored:tropics"
-	hot_island_biome = "regions_unexplored:tropics"
 [-----------------OTHER_BIOMES--------------------]
 	shattered_cliff_biome = "regions_unexplored:towering_cliffs"
