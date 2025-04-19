@@ -3,6 +3,28 @@
 disableMigration = false
 
 #.
+#Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients
+[feature_categories]
+	#.
+	#All copycats with extra functions/interactions
+	functional = true
+	#.
+	#All copycats that can be resized by putting in more of the same copycat
+	stackables = true
+	#.
+	#All copycats mimicking blocks from Create
+	create = true
+	#.
+	#.
+	#All copycats with a sloped surface
+	slopes = true
+	#.
+	#All copycats that can emit a redstone signal
+	redstone = true
+	#.
+	#All copycats that support multiple materials in a single block
+	multistates = true
+#.
 #Enable/disable features. Values on server override clients
 [features]
 	copycat_wall = true
@@ -11,9 +33,9 @@ disableMigration = false
 	copycat_vertical_slice = true
 	#.
 	copycat_vertical_stairs = true
+	copycat_shaft = true
 	copycat_fence = true
 	copycat_stairs = true
-	copycat_shaft = true
 	copycat_block = true
 	copycat_large_cogwheel = true
 	copycat_cogwheel = true
@@ -36,30 +58,8 @@ disableMigration = false
 	copycat_light_weighted_pressure_plate = true
 	copycat_iron_door = true
 	copycat_trapdoor = true
+	copycat_slope_layer = true
 	copycat_board = true
 	copycat_beam = true
-	copycat_slope_layer = true
 	copycat_door = true
 	copycat_slab = true
-#.
-#Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients
-[feature_categories]
-	#.
-	#All copycats with extra functions/interactions
-	functional = true
-	#.
-	#All copycats that can be resized by putting in more of the same copycat
-	stackables = true
-	#.
-	#All copycats mimicking blocks from Create
-	create = true
-	#.
-	#.
-	#All copycats with a sloped surface
-	slopes = true
-	#.
-	#All copycats that can emit a redstone signal
-	redstone = true
-	#.
-	#All copycats that support multiple materials in a single block
-	multistates = true
