@@ -20257,5 +20257,11 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-04-19 20:14:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

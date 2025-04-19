@@ -2577,3 +2577,183 @@ BCLib - Nether BiomeSource (457d9d7e)
 [20:02:35] [Server thread/INFO]: <fandangolol> ve a tu carpeta de minecraft, busca la carpeta del xaeros worldmap y wayponts, entras y buscas la ip anterior, copias el contenido y lo pegas en la carpeta que tiene la nueva ip, te puedes guiar con las fechas si se complica
 [20:02:46] [Server thread/INFO]: <fandangolol> tienes que salir del server para que se restaure bien
 [20:02:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[20:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2702ms or 54 ticks behind
+[20:03:14] [Server thread/INFO]: kimis342 has made the advancement [Sneak 100]
+[20:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[20:03:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[20:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20:04:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:04:36] [Server thread/INFO]: kimis342 lost connection: Disconnected
+[20:04:36] [Server thread/INFO]: kimis342 left the game
+[20:04:36] [Server thread/INFO]: remove player wand
+[20:04:36] [Server thread/INFO]: Updating all forceload tickets for a872d1bf-2f60-3e1a-8092-f9fd49441dc4
+[20:04:41] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.
+[20:04:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[20:05:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
+[20:05:18] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 25 more
+[20:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[20:05:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3151ms or 63 ticks behind
+[20:05:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20:06:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20:06:47] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of santipro01 accepted server config.
+[20:06:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5803ms or 116 ticks behind
+[20:07:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6936ms or 138 ticks behind
+[20:07:22] [Server thread/INFO]: <santipro01> s
+[20:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5678ms or 113 ticks behind
+[20:07:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3018ms or 60 ticks behind
+[20:08:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3926ms or 78 ticks behind
+[20:08:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3754ms or 75 ticks behind
+[20:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4614ms or 92 ticks behind
+[20:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5071ms or 101 ticks behind
+[20:09:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4394ms or 87 ticks behind
+[20:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5731ms or 114 ticks behind
+[20:10:01] [Server thread/INFO]: ileo has completed the challenge [Hot Tourist Destinations]
+[20:10:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5174ms or 103 ticks behind
+[20:10:21] [Server thread/INFO]: TitoWilly lost connection: Disconnected
+[20:10:21] [Server thread/INFO]: TitoWilly left the game
+[20:10:21] [Server thread/INFO]: remove player wand
+[20:10:21] [Server thread/INFO]: Updating all forceload tickets for 48508611-5ac5-3287-a37b-baccee41d47d
+[20:11:36] [Server thread/INFO]: <santipro01> barto
+[20:11:46] [Server thread/INFO]: [Handshake] Sending channel query
+[20:11:46] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[20:11:46] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[20:11:46] [Server thread/INFO]: kimis342[/127.190.119.58:53977] logged in with entity id 24235 at (-872.6999999880791, -12.0, -757.1437983270433)
+[20:11:46] [Server thread/INFO]: Sending server config values to client
+[20:11:46] [Server thread/INFO]: Syncing config to kimis342 (a872d1bf-2f60-3e1a-8092-f9fd49441dc4)
+[20:11:46] [Server thread/INFO]: Loading config from file...
+[20:11:46] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:11:46] [Server thread/INFO]: kimis342 joined the game
+[20:11:46] [Server thread/INFO]: Loading Configs for Sortilege
+[20:11:46] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:11:46] [Server thread/INFO]: PLAYER_JOIN
+[20:11:46] [Server thread/INFO]: add_player wand
+[20:11:46] [Server thread/INFO]: config sent
+[20:11:46] [Server thread/INFO]: Updating all forceload tickets for a872d1bf-2f60-3e1a-8092-f9fd49441dc4
+[20:11:47] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[20:11:49] [Netty Epoll Server IO #2/INFO]: [Ping-Wheel] Channel update: kimis342 -> Global
+[20:11:49] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player kimis342. Claiming: GRAVE / Robbing: INVENTORY
+[20:11:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[20:11:51] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of kimis342 accepted server config.
+[20:11:55] [Server thread/INFO]: <santipro01> el mas chupapi de mc, me dejas usar la mesa de encantamientos para elegir mi clase?
+[20:11:58] [Server thread/INFO]: [STDOUT]: generating allow/deny lists
+[20:11:58] [Server thread/INFO]: [STDOUT]: denied 0
+[20:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2938ms or 58 ticks behind
+[20:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[20:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2640ms or 52 ticks behind
+[20:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3570ms or 71 ticks behind
+[20:13:48] [Server thread/INFO]: [Handshake] Sending channel query
+[20:13:48] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[20:13:48] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[20:13:48] [Server thread/INFO]: Cuak17[/127.243.211.55:42069] logged in with entity id 27070 at (-2167.6691406523755, 118.16639280281609, 668.0889257058778)
+[20:13:48] [Server thread/INFO]: Sending server config values to client
+[20:13:48] [Server thread/INFO]: Syncing config to Cuak17 (ab860775-731c-3064-8322-1632b3c310de)
+[20:13:48] [Server thread/INFO]: Loading config from file...
+[20:13:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:13:48] [Server thread/INFO]: Cuak17 joined the game
+[20:13:48] [Server thread/INFO]: Loading Configs for Sortilege
+[20:13:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:13:48] [Server thread/INFO]: Updating all forceload tickets for ab860775-731c-3064-8322-1632b3c310de
+[20:13:49] [Server thread/INFO]: PLAYER_JOIN
+[20:13:49] [Server thread/INFO]: add_player wand
+[20:13:49] [Server thread/INFO]: config sent
+[20:13:51] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[20:13:52] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: Cuak17 -> Global
+[20:13:52] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Cuak17. Claiming: GRAVE / Robbing: INVENTORY
+[20:13:58] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of Cuak17 accepted server config.
+[20:14:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9645ms or 192 ticks behind
+[20:14:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7006ms or 140 ticks behind
+[20:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8102ms or 162 ticks behind
+[20:15:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8460ms or 169 ticks behind
+[20:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6856ms or 137 ticks behind
+[20:15:46] [Server thread/INFO]: <Cuak17> nuevo mundo
+[20:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6973ms or 139 ticks behind
+[20:16:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6481ms or 129 ticks behind
+[20:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7405ms or 148 ticks behind
+[20:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8721ms or 174 ticks behind
+[20:17:13] [Server thread/INFO]: [kimis342: Teleported kimis342 to -1097.500000, 55.500000, -3266.500000]
+[20:17:17] [Server thread/INFO]: kimis342 claimed a grave belonging to kimis342 at -1099, 55, -3267, minecraft:overworld
+[20:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9540ms or 190 ticks behind
+[20:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9013ms or 180 ticks behind
+[20:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9346ms or 186 ticks behind
+[20:18:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9503ms or 190 ticks behind
+[20:19:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10615ms or 212 ticks behind
+[20:19:27] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2054, y=-3, z=510}
+[20:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14476ms or 289 ticks behind
+[20:19:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2061, y=-48, z=253}
+[20:20:00] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1956, y=-34, z=183}
+[20:20:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1928, y=-33, z=211}
+[20:20:05] [Server thread/WARN]: UUID of added entity already exists: MimicEntity['Mimic'/36669, l='ServerLevel[world]', x=-2061.50, y=-31.00, z=92.50]
+[20:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19318ms or 386 ticks behind
+[20:20:18] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-2213, y=237, z=59}
+[20:20:18] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-2213, y=237, z=59}
+[20:20:22] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1903, y=-9, z=202}
+[20:20:23] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1877, y=0, z=91}
+[20:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10635ms or 212 ticks behind
+[20:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9143ms or 182 ticks behind
+[20:21:13] [Server thread/INFO]: <fandangolol> mira lo que te mande niku
+[20:21:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8640ms or 172 ticks behind
+[20:21:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8237ms or 164 ticks behind
+[20:22:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10011ms or 200 ticks behind
+[20:22:42] [Server thread/WARN]: UUID of added entity already exists: class_1551['Drowned'/39845, l='ServerLevel[world]', x=-1770.50, y=44.00, z=-273.50]
+[20:22:42] [Server thread/WARN]: UUID of added entity already exists: class_1551['Drowned'/39846, l='ServerLevel[world]', x=-1773.50, y=44.00, z=-274.50]
+[20:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12094ms or 241 ticks behind
+[20:22:51] [Server thread/INFO]: [Handshake] Sending channel query
+[20:22:51] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[20:22:51] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[20:22:51] [Server thread/INFO]: TitoWilly[/127.84.112.106:53497] logged in with entity id 40371 at (-846.3000000119209, 9.0, -50.69999998807907)
+[20:22:51] [Server thread/INFO]: Sending server config values to client
+[20:22:51] [Server thread/INFO]: Syncing config to TitoWilly (48508611-5ac5-3287-a37b-baccee41d47d)
+[20:22:51] [Server thread/INFO]: Loading config from file...
+[20:22:51] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:22:51] [Server thread/INFO]: TitoWilly joined the game
+[20:22:51] [Server thread/INFO]: Loading Configs for Sortilege
+[20:22:51] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:22:51] [Server thread/INFO]: PLAYER_JOIN
+[20:22:51] [Server thread/INFO]: add_player wand
+[20:22:51] [Server thread/INFO]: config sent
+[20:22:51] [Server thread/INFO]: Updating all forceload tickets for 48508611-5ac5-3287-a37b-baccee41d47d
+[20:22:53] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[20:22:55] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: TitoWilly -> Global
+[20:22:55] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player TitoWilly. Claiming: GRAVE / Robbing: INVENTORY
+[20:22:58] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of TitoWilly accepted server config.
+[20:23:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16023ms or 320 ticks behind
