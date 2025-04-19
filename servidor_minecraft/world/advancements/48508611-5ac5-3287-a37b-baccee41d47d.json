@@ -16831,6 +16831,16 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:wart_forest_edge": "2025-04-19 21:32:46 +0000",
+      "betternether:old_fungiwoods": "2025-04-19 21:34:40 +0000",
+      "betternether:nether_mushroom_forest_edge": "2025-04-19 21:34:38 +0000",
+      "betternether:wart_forest": "2025-04-19 21:32:33 +0000",
+      "betternether:soul_plain": "2025-04-19 21:32:50 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-19 20:49:07 +0000"
@@ -16842,6 +16852,12 @@
       "has_andesite": "2025-04-19 20:49:07 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-19 21:32:39 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
@@ -16888,6 +16904,12 @@
   "promenade:recipes/stonecutting/blunite/polished_slab": {
     "criteria": {
       "has_blunite": "2025-04-19 20:45:08 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:main/root": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:32:31 +0000"
     },
     "done": true
   },
@@ -17104,6 +17126,12 @@
   "stoneworks:recipes/building_blocks/andesite_pillar_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-04-19 21:34:52 +0000"
     },
     "done": true
   },
@@ -17395,6 +17423,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:32:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-19 20:47:13 +0000"
@@ -17671,6 +17705,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:32:31 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_stairs": {
     "criteria": {
       "has_blunite": "2025-04-19 20:45:08 +0000"
@@ -17938,6 +17978,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:32:31 +0000"
     },
     "done": true
   },

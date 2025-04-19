@@ -15582,6 +15582,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:wart_forest_edge": "2025-04-17 21:29:03 +0000",
+      "betternether:bone_reef": "2025-04-19 21:28:40 +0000",
       "betternether:gravel_desert": "2025-04-17 21:35:27 +0000",
       "betternether:flooded_deltas": "2025-04-17 23:28:10 +0000",
       "betternether:crimson_pinewood": "2025-04-18 04:04:55 +0000",
@@ -15592,7 +15593,8 @@
       "betternether:nether_mushroom_forest_edge": "2025-04-17 22:17:45 +0000",
       "betternether:nether_jungle": "2025-04-17 21:38:32 +0000",
       "betternether:wart_forest": "2025-04-17 21:27:24 +0000",
-      "betternether:nether_mushroom_forest": "2025-04-17 23:19:41 +0000"
+      "betternether:nether_mushroom_forest": "2025-04-17 23:19:41 +0000",
+      "betternether:sulfuric_bone_reef": "2025-04-19 21:28:26 +0000"
     },
     "done": false
   },
@@ -19238,6 +19240,12 @@
   "bewitchment:hidden_unlocks/demon_horn": {
     "criteria": {
       "has_item": "2025-04-19 21:21:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:city": {
+    "criteria": {
+      "ncity": "2025-04-19 21:33:57 +0000"
     },
     "done": true
   },
