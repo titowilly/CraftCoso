@@ -15594,6 +15594,8 @@
       "betternether:nether_jungle": "2025-04-17 21:38:32 +0000",
       "betternether:wart_forest": "2025-04-17 21:27:24 +0000",
       "betternether:nether_mushroom_forest": "2025-04-17 23:19:41 +0000",
+      "betternether:old_warped_woods": "2025-04-19 21:37:00 +0000",
+      "betternether:soul_plain": "2025-04-19 21:42:03 +0000",
       "betternether:sulfuric_bone_reef": "2025-04-19 21:28:26 +0000"
     },
     "done": false
@@ -16401,7 +16403,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-17 21:39:29 +0000",
       "minecraft:nether_wastes": "2025-04-17 21:29:24 +0000",
-      "minecraft:soul_sand_valley": "2025-04-17 23:29:35 +0000"
+      "minecraft:soul_sand_valley": "2025-04-17 23:29:35 +0000",
+      "minecraft:warped_forest": "2025-04-19 21:35:52 +0000"
     },
     "done": false
   },
@@ -19237,6 +19240,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-04-19 21:42:30 +0000"
+    },
+    "done": true
+  },
   "bewitchment:hidden_unlocks/demon_horn": {
     "criteria": {
       "has_item": "2025-04-19 21:21:53 +0000"
@@ -19246,6 +19255,12 @@
   "betternether:city": {
     "criteria": {
       "ncity": "2025-04-19 21:33:57 +0000"
+    },
+    "done": true
+  },
+  "mythicupgrades:recipes/misc/sapphire_ingot": {
+    "criteria": {
+      "has_necessary_ingredients": "2025-04-19 21:36:12 +0000"
     },
     "done": true
   },

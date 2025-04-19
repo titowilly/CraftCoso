@@ -20468,5 +20468,95 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_slab": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_stairs": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_barrel": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_stripped_bark": {
+    "criteria": {
+      "has_wart_stripped_log": "2025-04-19 21:41:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_roof": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_crafting_table": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_button": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_boat": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 21:38:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wart_wall": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/betternether/sign_post_wart": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_plate": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_trapdoor": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_chest": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_door": {
+    "criteria": {
+      "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
