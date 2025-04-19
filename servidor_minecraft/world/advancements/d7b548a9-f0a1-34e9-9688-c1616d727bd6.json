@@ -20258,6 +20258,132 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-04-19 20:14:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/gold_plate_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-19 20:29:54 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:tempest": {
+    "criteria": {
+      "requirement": "2025-04-19 20:29:57 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-04-19 20:30:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-04-19 20:30:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-04-19 20:35:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-04-19 20:54:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-04-19 21:04:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-04-19 21:07:45 +0000"
@@ -20267,12 +20393,6 @@
   "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-04-19 21:07:45 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_golden_thin_pot": "2025-04-19 20:29:54 +0000"
     },
     "done": true
   },
@@ -20294,75 +20414,9 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/gold_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/gold_plate_from_block": {
-    "criteria": {
-      "has_gold_block": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
-    "criteria": {
-      "has_item": "2025-04-19 21:04:46 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-04-19 21:07:45 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/hammers/hammer_suns_grace": {
-    "criteria": {
-      "has_gold_block": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:ruby_tools": {
-    "criteria": {
-      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-04-19 20:35:49 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
-    "criteria": {
-      "has_gold_block": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/axes/axe_encrusted_anchor": {
-    "criteria": {
-      "has_gold_block": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/alchemy_catalyst": {
-    "criteria": {
-      "has_alt_item": "2025-04-19 20:30:13 +0000"
-    },
-    "done": true
-  },
-  "botania:recipes/decorations/brewery": {
-    "criteria": {
-      "has_alt_item": "2025-04-19 20:30:13 +0000"
     },
     "done": true
   },
@@ -20378,39 +20432,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
-    "criteria": {
-      "has_item": "2025-04-19 20:14:51 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
-    "criteria": {
-      "has_material": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/building_blocks/blue_obsidian_tile": {
     "criteria": {
       "has_blue_obsidian": "2025-04-19 21:07:45 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/gold_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2025-04-19 20:29:54 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/gold_destructor_hammer": {
-    "criteria": {
-      "has_material": "2025-04-19 20:29:54 +0000"
     },
     "done": true
   },
@@ -20420,27 +20444,27 @@
     },
     "done": true
   },
-  "simplyswords:tempest": {
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
     "criteria": {
-      "requirement": "2025-04-19 20:29:57 +0000"
+      "has_item": "2025-04-19 21:18:20 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/lapis_pile_to_lapis": {
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
     "criteria": {
-      "has_lapis_pile": "2025-04-19 20:54:19 +0000"
+      "has_item": "2025-04-19 21:18:20 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_wide_pot": {
+  "thaumon:recipes/misc/mutagen_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_golden_wide_pot": "2025-04-19 20:29:54 +0000"
+      "has_amethyst_block": "2025-04-19 21:18:20 +0000"
     },
     "done": true
   },
-  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
     "criteria": {
-      "has_core_specification_item": "2025-04-19 20:29:54 +0000"
+      "has_item": "2025-04-19 21:18:20 +0000"
     },
     "done": true
   },

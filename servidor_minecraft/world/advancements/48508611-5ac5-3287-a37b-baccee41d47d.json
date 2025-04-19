@@ -16909,6 +16909,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_boots": {
+    "criteria": {
+      "has_weeping_vines": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/stairs": {
     "criteria": {
       "has_blunite": "2025-04-19 20:45:08 +0000"
@@ -16978,6 +16984,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-04-19 21:22:22 +0000"
     },
     "done": true
   },
@@ -17095,6 +17107,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_leggings": {
+    "criteria": {
+      "has_weeping_vines": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-19 20:49:07 +0000"
@@ -17125,6 +17143,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/living_vines_armor_chestplate": {
+    "criteria": {
+      "has_weeping_vines": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-19 20:47:13 +0000"
@@ -17152,6 +17176,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/living_vines_armor_helmet": {
+    "criteria": {
+      "has_weeping_vines": "2025-04-19 21:22:22 +0000"
     },
     "done": true
   },
@@ -17194,6 +17224,18 @@
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-19 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_avocado": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/decorated_blackstone_bricks/weeping_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-04-19 21:22:22 +0000"
     },
     "done": true
   },
@@ -17395,6 +17437,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/lime_sapling": {
+    "criteria": {
+      "has_lime": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-19 20:45:50 +0000"
@@ -17464,6 +17512,12 @@
   "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-19 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-04-19 21:22:22 +0000"
     },
     "done": true
   },
@@ -17587,6 +17641,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/avocado_sapling": {
+    "criteria": {
+      "has_avocado": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-04-19 20:47:13 +0000"
@@ -17653,6 +17713,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_lime": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-19 20:49:07 +0000"
@@ -17680,6 +17746,12 @@
   "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-04-19 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_avocado_toast": {
+    "criteria": {
+      "has_avocado": "2025-04-19 21:22:22 +0000"
     },
     "done": true
   },
@@ -17812,6 +17884,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-19 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_weeping_vine_bow": {
+    "criteria": {
+      "has_weeping_vines": "2025-04-19 21:22:22 +0000"
     },
     "done": true
   },
@@ -18007,6 +18085,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/limeade": {
+    "criteria": {
+      "has_lime": "2025-04-19 21:22:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-19 20:49:07 +0000"
@@ -18040,6 +18124,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-04-19 20:47:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/salsa": {
+    "criteria": {
+      "has_lime": "2025-04-19 21:22:22 +0000"
     },
     "done": true
   },

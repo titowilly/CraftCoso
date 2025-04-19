@@ -3183,3 +3183,59 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [21:15:57] [Server thread/INFO]: <Brick_123> te lo dejo en el cofre de oro
 [21:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8340ms or 166 ticks behind
 [21:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9074ms or 181 ticks behind
+[21:16:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12135ms or 242 ticks behind
+[21:17:08] [Server thread/INFO]: <Brick_123> ileo te donare un pene de diamante
+[21:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5645ms or 112 ticks behind
+[21:17:26] [Server thread/INFO]: [TitoWilly: Set own game mode to Survival Mode]
+[21:17:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5960ms or 119 ticks behind
+[21:17:54] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of Brick_123 accepted server config.
+[21:17:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7779ms or 155 ticks behind
+[21:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13552ms or 271 ticks behind
+[21:18:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10278ms or 205 ticks behind
+[21:19:01] [Server thread/INFO]: fandangolol lost connection: Disconnected
+[21:19:01] [Server thread/INFO]: fandangolol left the game
+[21:19:01] [Server thread/INFO]: remove player wand
+[21:19:01] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[21:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17872ms or 357 ticks behind
+[21:19:28] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=903, y=127, z=-3763}
+[21:19:28] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=903, y=127, z=-3763}
+[21:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18675ms or 373 ticks behind
+[21:20:02] [Server thread/INFO]: <Brick_123> tito
+[21:20:06] [Server thread/INFO]: <Brick_123> en que altura sale mucha pirita?
+[21:20:18] [Server thread/INFO]: <ileo> que te importa man
+[21:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12319ms or 246 ticks behind
+[21:20:48] [Server thread/INFO]: <Brick_123> sapazo mono de mierda
+[21:20:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11783ms or 235 ticks behind
+[21:21:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13309ms or 266 ticks behind
+[21:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12034ms or 240 ticks behind
+[21:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10895ms or 217 ticks behind
+[21:22:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13412ms or 268 ticks behind
+[21:23:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14842ms or 296 ticks behind
+[21:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10659ms or 213 ticks behind
+[21:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8612ms or 172 ticks behind
+[21:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9821ms or 196 ticks behind
+[21:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11135ms or 222 ticks behind
+[21:25:10] [Server thread/INFO]: ileo has made the advancement [What a Deal!]
+[21:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12158ms or 243 ticks behind
+[21:25:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10298ms or 205 ticks behind
+[21:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8940ms or 178 ticks behind
+[21:26:17] [Server thread/INFO]: [Handshake] Sending channel query
+[21:26:17] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[21:26:17] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[21:26:17] [Server thread/INFO]: fandangolol[/127.198.28.64:44531] logged in with entity id 150773 at (-705.2626354316701, 62.0, -261.4717058649417)
+[21:26:17] [Server thread/INFO]: Sending server config values to client
+[21:26:17] [Server thread/INFO]: Syncing config to fandangolol (d7b548a9-f0a1-34e9-9688-c1616d727bd6)
+[21:26:17] [Server thread/INFO]: Loading config from file...
+[21:26:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[21:26:17] [Server thread/INFO]: fandangolol joined the game
+[21:26:17] [Server thread/INFO]: Loading Configs for Sortilege
+[21:26:17] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[21:26:17] [Server thread/INFO]: PLAYER_JOIN
+[21:26:17] [Server thread/INFO]: add_player wand
+[21:26:17] [Server thread/INFO]: config sent
+[21:26:17] [Server thread/INFO]: Updating all forceload tickets for d7b548a9-f0a1-34e9-9688-c1616d727bd6
+[21:26:21] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[21:26:26] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: fandangolol -> Global
+[21:26:26] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player fandangolol. Claiming: GRAVE / Robbing: INVENTORY
+[21:26:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9845ms or 196 ticks behind
+[21:26:33] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of fandangolol accepted server config.

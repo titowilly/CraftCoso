@@ -7142,6 +7142,7 @@
       "temperate_grove": "2025-04-18 01:21:04 +0000",
       "pine_slopes": "2025-04-18 01:10:03 +0000",
       "prairie": "2025-04-19 20:15:40 +0000",
+      "redwoods": "2025-04-19 21:14:25 +0000",
       "lupine_plains": "2025-04-16 20:55:27 +0000"
     },
     "done": false
@@ -7162,6 +7163,7 @@
       "temperate_grove": "2025-04-18 01:21:04 +0000",
       "pine_slopes": "2025-04-18 01:10:03 +0000",
       "prairie": "2025-04-19 20:15:40 +0000",
+      "redwoods": "2025-04-19 21:14:25 +0000",
       "lupine_plains": "2025-04-16 20:55:27 +0000"
     },
     "done": false
@@ -14381,9 +14383,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-19 21:24:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
     "criteria": {
       "has_iron_furnace": "2025-04-19 21:03:37 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-04-19 21:26:35 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-04-19 21:25:46 +0000"
     },
     "done": true
   },
@@ -14393,9 +14425,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-19 21:24:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-19 21:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-19 21:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-19 20:52:00 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-04-19 21:26:04 +0000"
     },
     "done": true
   },
@@ -14405,9 +14473,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-19 21:24:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-19 21:21:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-04-19 21:21:06 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-04-19 21:24:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-04-19 21:21:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2025-04-19 21:06:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-04-19 21:26:04 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-04-19 21:26:04 +0000"
     },
     "done": true
   },

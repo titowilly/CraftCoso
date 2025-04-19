@@ -18813,5 +18813,120 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/emerald_gear_helmet": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_avocado": "2025-04-19 21:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-04-19 21:20:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-19 21:12:25 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand_vanilla_sword": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/avocado_sapling": {
+    "criteria": {
+      "has_avocado": "2025-04-19 21:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/persimmon_sapling": {
+    "criteria": {
+      "has_persimmon": "2025-04-19 21:22:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_avocado_toast": {
+    "criteria": {
+      "has_avocado": "2025-04-19 21:20:52 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-04-19 21:20:55 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_hawkbrand": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000",
+      "has_the_recipe": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-19 21:12:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-04-19 21:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_green": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/emerald_nugget": {
+    "criteria": {
+      "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

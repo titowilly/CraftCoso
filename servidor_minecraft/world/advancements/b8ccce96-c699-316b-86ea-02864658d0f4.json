@@ -19211,5 +19211,35 @@
     },
     "done": true
   },
+  "bewitchment:recipes/misc/black_dye_from_snake_tongue": {
+    "criteria": {
+      "has_item": "2025-04-19 21:21:54 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
+    "criteria": {
+      "has_item": "2025-04-19 21:21:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-19 21:13:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-04-19 21:13:16 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:hidden_unlocks/demon_horn": {
+    "criteria": {
+      "has_item": "2025-04-19 21:21:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
