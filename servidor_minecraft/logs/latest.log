@@ -2913,3 +2913,152 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 [20:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4456ms or 89 ticks behind
 [20:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5164ms or 103 ticks behind
 [20:44:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[20:45:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6116ms or 122 ticks behind
+[20:45:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8419ms or 168 ticks behind
+[20:45:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8673ms or 173 ticks behind
+[20:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7731ms or 154 ticks behind
+[20:46:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7473ms or 149 ticks behind
+[20:46:49] [Server thread/INFO]: [kimis342: Teleported Cuak17 to kimis342]
+[20:47:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5306ms or 106 ticks behind
+[20:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6291ms or 125 ticks behind
+[20:47:39] [Server thread/INFO]: [fandangolol: Teleported ileo to fandangolol]
+[20:47:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7206ms or 144 ticks behind
+[20:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7741ms or 154 ticks behind
+[20:48:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9624ms or 192 ticks behind
+[20:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9968ms or 199 ticks behind
+[20:49:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7914ms or 158 ticks behind
+[20:49:34] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.27637707522802657
+[20:49:34] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 2.2201027536750004
+[20:49:34] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.7153817456080631
+[20:49:34] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.1005297670315137
+[20:49:34] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.5547252255298645
+[20:49:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13125ms or 262 ticks behind
+[20:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12805ms or 256 ticks behind
+[20:50:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
+[20:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8535ms or 170 ticks behind
+[20:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8225ms or 164 ticks behind
+[20:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8075ms or 161 ticks behind
+[20:52:08] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.2683433542962632
+[20:52:08] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.9332315952505041
+[20:52:08] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.4120661895799458
+[20:52:08] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.8000875592897216
+[20:52:08] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.36362839010038783
+[20:52:08] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.36362839010038783
+[20:52:09] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.36362839010038783
+[20:52:09] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 3.0058054953451006
+[20:52:09] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 2.140987993420538
+[20:52:09] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.3757467454198036
+[20:52:09] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.6907555800110572
+[20:52:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10637ms or 212 ticks behind
+[20:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9621ms or 192 ticks behind
+[20:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8292ms or 165 ticks behind
+[20:53:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8063ms or 161 ticks behind
+[20:53:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7390ms or 147 ticks behind
+[20:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8161ms or 163 ticks behind
+[20:54:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8252ms or 165 ticks behind
+[20:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8292ms or 165 ticks behind
+[20:55:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8780ms or 175 ticks behind
+[20:55:39] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.4813025538213651
+[20:55:39] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 0.7603192781820098
+[20:55:39] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.2029786753881808
+[20:55:39] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.6022620639867
+[20:55:39] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 1.958843692809637
+[20:55:39] [Server thread/WARN]: Nether Bat (vehicle of ileo) moved wrongly! 2.2829397747429994
+[20:55:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11062ms or 221 ticks behind
+[20:56:10] [Server thread/INFO]: [TitoWilly: Teleported TitoWilly to -720.500000, 63.500000, -220.500000]
+[20:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11421ms or 228 ticks behind
+[20:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10314ms or 206 ticks behind
+[20:57:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9576ms or 191 ticks behind
+[20:57:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9235ms or 184 ticks behind
+[20:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9091ms or 181 ticks behind
+[20:58:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10390ms or 207 ticks behind
+[20:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11291ms or 225 ticks behind
+[20:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10351ms or 207 ticks behind
+[20:59:17] [Server thread/INFO]: ileo lost connection: Disconnected
+[20:59:17] [Server thread/INFO]: ileo left the game
+[20:59:17] [Server thread/INFO]: remove player wand
+[20:59:17] [Server thread/INFO]: Updating all forceload tickets for 8e6c0bba-cfff-3e11-bcf8-05f7893dd6f0
+[20:59:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6004ms or 120 ticks behind
+[20:59:29] [Server thread/INFO]: [Handshake] Sending channel query
+[20:59:29] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[20:59:29] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[20:59:29] [Server thread/INFO]: ileo[/127.251.25.129:46159] logged in with entity id 89662 at (-53.16690503367947, 23.0, -725.5758951599603)
+[20:59:29] [Server thread/INFO]: Sending server config values to client
+[20:59:29] [Server thread/INFO]: Syncing config to ileo (8e6c0bba-cfff-3e11-bcf8-05f7893dd6f0)
+[20:59:29] [Server thread/INFO]: Loading config from file...
+[20:59:29] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:59:29] [Server thread/INFO]: ileo joined the game
+[20:59:29] [Server thread/INFO]: Loading Configs for Sortilege
+[20:59:29] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:59:30] [Server thread/INFO]: PLAYER_JOIN
+[20:59:30] [Server thread/INFO]: add_player wand
+[20:59:30] [Server thread/INFO]: config sent
+[20:59:30] [Server thread/INFO]: Updating all forceload tickets for 8e6c0bba-cfff-3e11-bcf8-05f7893dd6f0
+[20:59:31] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[20:59:31] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: ileo -> Global
+[20:59:31] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player ileo. Claiming: GRAVE / Robbing: INVENTORY
+[20:59:31] [Server thread/INFO]: [TitoWilly: Teleported ileo to TitoWilly]
+[20:59:35] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of ileo accepted server config.
+[20:59:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5723ms or 114 ticks behind
+[21:00:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4559ms or 91 ticks behind
+[21:00:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4185ms or 83 ticks behind
+[21:00:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[21:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4477ms or 89 ticks behind
+[21:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4476ms or 89 ticks behind
+[21:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4530ms or 90 ticks behind
+[21:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4618ms or 92 ticks behind
+[21:02:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4324ms or 86 ticks behind
+[21:02:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4835ms or 96 ticks behind
+[21:03:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5527ms or 110 ticks behind
+[21:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5618ms or 112 ticks behind
+[21:03:46] [Server thread/INFO]: Cuak17 has made the advancement [Flashy Furnace]
+[21:03:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6227ms or 124 ticks behind
+[21:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5336ms or 106 ticks behind
+[21:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4670ms or 93 ticks behind
+[21:04:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5548ms or 110 ticks behind
+[21:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10251ms or 205 ticks behind
+[21:05:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
+[21:05:35] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more

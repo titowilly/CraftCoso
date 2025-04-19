@@ -20276,6 +20276,12 @@
     },
     "done": true
   },
+  "twigs:recipes/decorated_blackstone_bricks/twisting_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-04-19 21:04:46 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_medium_pot": {
     "criteria": {
       "has_golden_medium_pot": "2025-04-19 20:29:54 +0000"
@@ -20357,6 +20363,12 @@
   "simplyswords:tempest": {
     "criteria": {
       "requirement": "2025-04-19 20:29:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
+    "criteria": {
+      "has_lapis_pile": "2025-04-19 20:54:19 +0000"
     },
     "done": true
   },

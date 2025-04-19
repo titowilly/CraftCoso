@@ -14381,5 +14381,29 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
+    "criteria": {
+      "has_iron_furnace": "2025-04-19 21:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-19 20:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-19 20:52:00 +0000"
+    },
+    "done": true
+  },
+  "techreborn:ironfurnace": {
+    "criteria": {
+      "crit_0": "2025-04-19 21:03:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
