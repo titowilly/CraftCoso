@@ -2010,6 +2010,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-16 19:00:30 +0000",
+      "cooked_mutton": "2025-04-19 21:55:59 +0000",
       "sweet_berries": "2025-04-17 20:59:09 +0000",
       "cooked_beef": "2025-04-17 21:07:54 +0000",
       "apple": "2025-04-17 19:50:33 +0000",
@@ -17609,9 +17610,12 @@
   },
   "betternether:ruby_gear": {
     "criteria": {
-      "nether_ruby_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2025-04-17 22:25:09 +0000"
+      "nether_ruby_EquipmentSlot[name\u003dboots, category\u003dCOMBAT]": "2025-04-19 21:48:19 +0000",
+      "nether_ruby_EquipmentSlot[name\u003dhelmet, category\u003dCOMBAT]": "2025-04-19 21:48:10 +0000",
+      "nether_ruby_EquipmentSlot[name\u003dleggings, category\u003dCOMBAT]": "2025-04-17 22:25:09 +0000",
+      "nether_ruby_EquipmentSlot[name\u003dchestplate, category\u003dCOMBAT]": "2025-04-19 21:48:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "betternether:recipes/misc/bn_glowstone_dust": {
     "criteria": {
@@ -18825,6 +18829,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-19 21:56:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-04-19 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-19 21:52:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/netherite_helmet_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-19 21:30:26 +0000"
@@ -18837,9 +18859,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-19 21:53:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2025-04-19 21:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-19 21:30:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2025-04-19 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2025-04-19 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-19 21:53:25 +0000"
     },
     "done": true
   },
@@ -18864,6 +18916,12 @@
   "croptopia:recipes/quesadilla": {
     "criteria": {
       "has_avocado": "2025-04-19 21:20:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-19 21:53:25 +0000"
     },
     "done": true
   },
@@ -18926,6 +18984,12 @@
       "has_netherite_ingot": "2025-04-19 21:30:26 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "sweetpotato_seed": "2025-04-19 21:52:49 +0000"
+    },
+    "done": false
   },
   "mcda:recipes/crafting_items/gemstone_purple": {
     "criteria": {
@@ -19000,6 +19064,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2025-04-19 21:52:49 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-04-19 21:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-04-19 21:12:25 +0000"
@@ -19015,6 +19091,12 @@
   "techreborn:recipes/blast_furnace/friend_pottery_sherd": {
     "criteria": {
       "has_emerald": "2025-04-19 21:25:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-19 21:56:15 +0000"
     },
     "done": true
   },
@@ -19047,6 +19129,12 @@
       "has_emerald": "2025-04-19 21:25:10 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "sweetpotato_seed": "2025-04-19 21:52:49 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

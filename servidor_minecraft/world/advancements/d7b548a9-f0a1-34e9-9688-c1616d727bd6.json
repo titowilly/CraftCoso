@@ -589,7 +589,9 @@
       "minecraft:old_growth_pine_taiga": "2025-04-16 23:23:10 +0000",
       "minecraft:taiga": "2025-04-16 18:40:12 +0000",
       "minecraft:deep_ocean": "2025-04-17 03:43:34 +0000",
+      "minecraft:sunflower_plains": "2025-04-20 00:29:41 +0000",
       "minecraft:birch_forest": "2025-04-16 21:37:21 +0000",
+      "minecraft:badlands": "2025-04-19 23:44:31 +0000",
       "minecraft:beach": "2025-04-16 21:37:27 +0000",
       "minecraft:dark_forest": "2025-04-16 23:41:53 +0000",
       "minecraft:river": "2025-04-16 21:09:39 +0000",
@@ -599,10 +601,14 @@
       "minecraft:grove": "2025-04-16 23:43:39 +0000",
       "minecraft:cold_ocean": "2025-04-16 18:57:09 +0000",
       "minecraft:forest": "2025-04-16 19:06:46 +0000",
+      "minecraft:desert": "2025-04-19 23:46:03 +0000",
       "minecraft:ocean": "2025-04-16 21:36:25 +0000",
       "minecraft:jungle": "2025-04-17 03:53:20 +0000",
+      "minecraft:warm_ocean": "2025-04-19 23:50:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-19 23:59:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-16 21:38:12 +0000",
       "minecraft:meadow": "2025-04-16 19:12:42 +0000",
+      "minecraft:savanna": "2025-04-19 23:58:40 +0000",
       "minecraft:plains": "2025-04-16 19:07:58 +0000"
     },
     "done": false
@@ -3743,7 +3749,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-16 19:18:19 +0000",
-      "opened_chest": "2025-04-16 18:52:22 +0000"
+      "opened_chest": "2025-04-16 18:52:22 +0000",
+      "opened_cart": "2025-04-20 00:27:18 +0000"
     },
     "done": false
   },
@@ -4999,6 +5006,7 @@
       "minecraft:cave_spider": "2025-04-17 20:57:24 +0000",
       "minecraft:piglin": "2025-04-17 20:31:05 +0000",
       "minecraft:enderman": "2025-04-17 06:22:52 +0000",
+      "minecraft:silverfish": "2025-04-19 23:43:04 +0000",
       "minecraft:zombie": "2025-04-16 19:37:11 +0000",
       "minecraft:drowned": "2025-04-18 01:54:20 +0000"
     },
@@ -5743,38 +5751,65 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-04-20 00:21:32 +0000",
+      "dry_bushland": "2025-04-19 23:57:03 +0000",
       "pine_taiga": "2025-04-16 23:49:48 +0000",
       "autumnal_maple_forest": "2025-04-16 20:09:48 +0000",
+      "muddy_river": "2025-04-20 00:19:17 +0000",
+      "ancient_delta": "2025-04-19 23:33:17 +0000",
       "willow_forest": "2025-04-16 23:53:56 +0000",
+      "rocky_reef": "2025-04-19 23:54:16 +0000",
       "redstone_caves": "2025-04-16 19:35:03 +0000",
       "grassy_beach": "2025-04-16 21:36:29 +0000",
       "rocky_meadow": "2025-04-16 19:23:57 +0000",
       "blackwood_taiga": "2025-04-16 23:43:52 +0000",
+      "ochard": "2025-04-20 00:30:11 +0000",
       "flower_fields": "2025-04-16 19:34:42 +0000",
       "highland_fields": "2025-04-16 19:34:44 +0000",
       "maple_forest": "2025-04-16 19:16:35 +0000",
+      "tropical_river": "2025-04-19 23:44:29 +0000",
       "magnolia_highlands": "2025-04-16 19:23:23 +0000",
+      "eucalyptus_forest": "2025-04-19 23:22:12 +0000",
+      "outback": "2025-04-19 23:21:57 +0000",
+      "sparse_redwoods": "2025-04-19 23:29:28 +0000",
+      "deciduous_forest": "2025-04-19 23:29:53 +0000",
       "blackstone_basin": "2025-04-17 21:43:32 +0000",
+      "chalk_cliffs": "2025-04-19 23:31:55 +0000",
+      "saguaro_desert": "2025-04-19 23:20:41 +0000",
       "temperate_grove": "2025-04-16 21:36:23 +0000",
       "cold_river": "2025-04-16 23:55:41 +0000",
+      "redwoods": "2025-04-19 23:31:13 +0000",
       "lupine_plains": "2025-04-16 23:51:15 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-04-20 00:21:32 +0000",
+      "dry_bushland": "2025-04-19 23:57:03 +0000",
       "pine_taiga": "2025-04-16 23:49:48 +0000",
       "autumnal_maple_forest": "2025-04-16 20:09:48 +0000",
+      "muddy_river": "2025-04-20 00:19:17 +0000",
       "willow_forest": "2025-04-16 23:53:56 +0000",
+      "rocky_reef": "2025-04-19 23:54:16 +0000",
       "grassy_beach": "2025-04-16 21:36:29 +0000",
       "rocky_meadow": "2025-04-16 19:23:57 +0000",
       "blackwood_taiga": "2025-04-16 23:43:52 +0000",
+      "ochard": "2025-04-20 00:30:11 +0000",
       "flower_fields": "2025-04-16 19:34:42 +0000",
       "highland_fields": "2025-04-16 19:34:44 +0000",
       "maple_forest": "2025-04-16 19:16:35 +0000",
+      "tropical_river": "2025-04-19 23:44:29 +0000",
       "magnolia_highlands": "2025-04-16 19:23:23 +0000",
+      "eucalyptus_forest": "2025-04-19 23:22:12 +0000",
+      "outback": "2025-04-19 23:21:57 +0000",
+      "sparse_redwoods": "2025-04-19 23:29:28 +0000",
+      "deciduous_forest": "2025-04-19 23:29:53 +0000",
+      "chalk_cliffs": "2025-04-19 23:31:55 +0000",
+      "saguaro_desert": "2025-04-19 23:20:41 +0000",
       "temperate_grove": "2025-04-16 21:36:23 +0000",
       "cold_river": "2025-04-16 23:55:41 +0000",
+      "redwoods": "2025-04-19 23:31:13 +0000",
       "lupine_plains": "2025-04-16 23:51:15 +0000"
     },
     "done": false
@@ -6334,6 +6369,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "magnolia_log": "2025-04-16 19:23:37 +0000",
+      "eucalyptus_log": "2025-04-19 23:22:21 +0000",
       "cobalt_log": "2025-04-17 22:04:28 +0000",
       "maple_log": "2025-04-16 20:10:01 +0000"
     },
@@ -6419,7 +6455,8 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
-      "redstone_caves": "2025-04-16 19:35:03 +0000"
+      "redstone_caves": "2025-04-16 19:35:03 +0000",
+      "ancient_delta": "2025-04-19 23:33:17 +0000"
     },
     "done": false
   },
@@ -14593,7 +14630,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-04-17 01:11:26 +0000"
+      "in_better_zombie_dungeon": "2025-04-17 01:11:26 +0000",
+      "in_better_spider_dungeon": "2025-04-19 23:29:29 +0000"
     },
     "done": false
   },
@@ -20468,6 +20506,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 21:38:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_slab": {
     "criteria": {
       "has_wart_planks": "2025-04-19 21:38:19 +0000"
@@ -20483,12 +20527,6 @@
   "betternether:recipes/decorations/wart_barrel": {
     "criteria": {
       "has_wart_planks": "2025-04-19 21:38:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/wart_stripped_bark": {
-    "criteria": {
-      "has_wart_stripped_log": "2025-04-19 21:41:45 +0000"
     },
     "done": true
   },
@@ -20513,12 +20551,6 @@
   "betternether:recipes/transportation/wart_boat": {
     "criteria": {
       "has_wart_planks": "2025-04-19 21:38:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/wart_planks": {
-    "criteria": {
-      "has_the_recipe": "2025-04-19 21:38:18 +0000"
     },
     "done": true
   },
@@ -20555,6 +20587,1023 @@
   "betternether:recipes/redstone/wart_door": {
     "criteria": {
       "has_wart_planks": "2025-04-19 21:38:19 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_stripped_bark": {
+    "criteria": {
+      "has_wart_stripped_log": "2025-04-19 21:41:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-04-19 23:11:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-04-19 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/quartz_column": {
+    "criteria": {
+      "has_item": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-20 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-19 23:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_quartz_pillar_trim": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_bricks_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/deconstruction_certus_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_pillar_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 23:22:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-19 23:50:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:space_suit": {
+    "criteria": {
+      "space_suit": "2025-04-19 23:11:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-20 00:23:15 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/heart_pottery_sherd": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-04-20 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-20 00:23:15 +0000",
+      "silicon": "2025-04-20 00:23:15 +0000",
+      "engineering": "2025-04-20 00:23:15 +0000",
+      "logic": "2025-04-20 00:23:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-19 23:50:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube_smithing": {
+    "criteria": {
+      "has_magma_cube": "2025-04-20 00:42:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/green_dye_from_saguaro_cactus": {
+    "criteria": {
+      "has_saguaro_cactus": "2025-04-19 23:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-20 00:39:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_cactus_flower": {
+    "criteria": {
+      "has_cactus_flower": "2025-04-19 23:21:22 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/quartz_elevator_from_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/glistering_melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-19 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/combat/athame": {
+    "criteria": {
+      "has_item": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/heart_of_the_sea_with_water": {
+    "criteria": {
+      "has_heart_of_the_sea": "2025-04-20 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-04-20 00:39:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-04-20 00:39:37 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/water_ring": {
+    "criteria": {
+      "has_item": "2025-04-20 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-19 23:29:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_slab": {
+    "criteria": {
+      "has_cut_limestone_bricks": "2025-04-19 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/silver_plate": {
+    "criteria": {
+      "has_tag_c_silver_ingots": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_prismoss": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "mythicmobs:kobold_trade": {
+    "criteria": {
+      "requirement": "2025-04-19 23:58:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/combat/silver_arrow": {
+    "criteria": {
+      "has_item": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_branch_from_eucalyptus_log": {
+    "criteria": {
+      "has_log": "2025-04-19 23:22:21 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_pavers_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/brazier": {
+    "criteria": {
+      "has_item": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_wall_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/eucalyptus_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 23:22:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-20 00:00:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_stairs": {
+    "criteria": {
+      "has_cut_limestone_bricks": "2025-04-19 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/eucalyptus_shrub": {
+    "criteria": {
+      "has_eucalyptus_sapling": "2025-04-19 23:22:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingles_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_paver_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_limestone_brick_wall": {
+    "criteria": {
+      "has_cut_limestone_bricks": "2025-04-19 22:43:53 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plate_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_plates_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_deepslate_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/deepslate_column": {
+    "criteria": {
+      "has_item": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_slab_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_pavers_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-04-19 23:55:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_brick_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plates_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_quartz_tiles_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_deepslate_brick_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_plate_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-04-20 00:02:17 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_grass_block": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-19 23:27:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/melon_slice": {
+    "criteria": {
+      "has_melon_slice": "2025-04-19 23:37:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_tile_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_quartz_corner_trim": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_shingle_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/deepslate_paver_stairs_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/deepslate_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/quartz_shingle_wall_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/silver_candelabra": {
+    "criteria": {
+      "has_item": "2025-04-19 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/bucket_from_lava_bucket": {
+    "criteria": {
+      "has_lava_bucket": "2025-04-19 23:51:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_quartz_slab_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-19 23:50:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-20 00:23:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-19 23:18:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-20 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/quartz_column_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-19 22:49:19 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_quartz_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-19 22:49:19 +0000"
     },
     "done": true
   },

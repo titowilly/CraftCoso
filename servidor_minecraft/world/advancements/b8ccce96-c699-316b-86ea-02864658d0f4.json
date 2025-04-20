@@ -299,12 +299,14 @@
       "minecraft:cherry_grove": "2025-04-17 22:54:47 +0000",
       "minecraft:sunflower_plains": "2025-04-17 22:56:25 +0000",
       "minecraft:birch_forest": "2025-04-16 20:22:06 +0000",
+      "minecraft:bamboo_jungle": "2025-04-19 22:55:15 +0000",
       "minecraft:beach": "2025-04-17 23:04:39 +0000",
       "minecraft:dark_forest": "2025-04-17 21:19:14 +0000",
       "minecraft:sparse_jungle": "2025-04-17 07:24:02 +0000",
       "minecraft:river": "2025-04-16 20:21:08 +0000",
       "minecraft:stony_shore": "2025-04-18 01:57:24 +0000",
       "minecraft:dripstone_caves": "2025-04-16 19:13:55 +0000",
+      "minecraft:grove": "2025-04-19 22:44:27 +0000",
       "minecraft:cold_ocean": "2025-04-16 19:02:22 +0000",
       "minecraft:forest": "2025-04-16 19:10:54 +0000",
       "minecraft:lush_caves": "2025-04-17 19:32:41 +0000",
@@ -9057,7 +9059,9 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "shrubland": "2025-04-19 22:46:04 +0000",
       "redstone_abyss": "2025-04-17 23:22:51 +0000",
+      "pine_taiga": "2025-04-19 22:48:05 +0000",
       "autumnal_maple_forest": "2025-04-16 19:29:02 +0000",
       "willow_forest": "2025-04-17 02:20:31 +0000",
       "grassy_beach": "2025-04-17 04:13:57 +0000",
@@ -9078,6 +9082,8 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "shrubland": "2025-04-19 22:46:04 +0000",
+      "pine_taiga": "2025-04-19 22:48:05 +0000",
       "autumnal_maple_forest": "2025-04-16 19:29:02 +0000",
       "willow_forest": "2025-04-17 02:20:31 +0000",
       "grassy_beach": "2025-04-17 04:13:57 +0000",
@@ -12753,6 +12759,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-04-17 06:45:16 +0000",
+      "red_mushroom": "2025-04-19 22:43:52 +0000",
       "wheat": "2025-04-16 22:02:04 +0000",
       "carrot": "2025-04-17 04:05:15 +0000"
     },
@@ -19216,18 +19223,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/misc/black_dye_from_snake_tongue": {
-    "criteria": {
-      "has_item": "2025-04-19 21:21:54 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
-    "criteria": {
-      "has_item": "2025-04-19 21:21:53 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
     "criteria": {
       "has_golden_helmet": "2025-04-19 21:13:16 +0000"
@@ -19240,15 +19235,21 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+  "bewitchment:recipes/misc/blaze_powder_from_demon_horn": {
     "criteria": {
-      "has_magma_block": "2025-04-19 21:42:30 +0000"
+      "has_item": "2025-04-19 21:21:53 +0000"
     },
     "done": true
   },
   "bewitchment:hidden_unlocks/demon_horn": {
     "criteria": {
       "has_item": "2025-04-19 21:21:53 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/black_dye_from_snake_tongue": {
+    "criteria": {
+      "has_item": "2025-04-19 21:21:54 +0000"
     },
     "done": true
   },
@@ -19261,6 +19262,469 @@
   "mythicupgrades:recipes/misc/sapphire_ingot": {
     "criteria": {
       "has_necessary_ingredients": "2025-04-19 21:36:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/magma_block_with_water": {
+    "criteria": {
+      "has_magma_block": "2025-04-19 21:42:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_writable_book": {
+    "criteria": {
+      "has_writable_book": "2025-04-19 22:43:57 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:obtain_wizard_robes": {
+    "criteria": {
+      "wizard_robes": "2025-04-19 22:11:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
+    "criteria": {
+      "consume_honey_crystal_shards": "2025-04-19 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "hive_pillar": "2025-04-19 22:37:57 +0000",
+      "hive_wall": "2025-04-19 22:37:23 +0000"
+    },
+    "done": false
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-04-19 22:56:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_big": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-04-19 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-19 22:23:20 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/cacophonium": {
+    "criteria": {
+      "has_item": "2025-04-19 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-04-19 22:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 22:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_oak_wine_rack_small": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-19 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-04-19 22:59:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-19 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/crimson_palisade": {
+    "criteria": {
+      "has_log": "2025-04-19 22:23:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honeycomb": "2025-04-19 22:59:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2025-04-19 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_crimson": "2025-04-19 22:23:20 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-04-19 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-19 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "herbalbrews:main/find_tea_blossom": {
+    "criteria": {
+      "tea_blossom": "2025-04-19 22:37:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-04-19 22:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-19 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-04-19 22:46:39 +0000"
     },
     "done": true
   },
